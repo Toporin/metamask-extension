@@ -62,7 +62,6 @@
   "permissions": [
     "storage",
     "unlimitedStorage",
-    "clipboardWrite",
     "http://localhost:8545/",
     "https://*.infura.io/",
     "activeTab",

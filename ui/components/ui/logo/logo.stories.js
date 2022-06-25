@@ -17,6 +17,7 @@ import LogoQRBased from './logo-qr-based';
 import LogoTrezor from './logo-trezor';
 import LogoLattice from './logo-lattice';
 import LogoWalletConnect from './logo-walletconnect';
+import LogoSatochip from './logo-satochip';
 
 import README from './README.mdx';
 
@@ -80,6 +81,7 @@ export const DefaultStory = (args) => (
     <LogoItem Component={<LogoTrezor {...args} />} />
     <LogoItem Component={<LogoLattice {...args} />} />
     <LogoItem Component={<LogoWalletConnect {...args} />} />
+    <LogoItem Component={<LogoSatochip {...args} />} />
   </div>
 );
 

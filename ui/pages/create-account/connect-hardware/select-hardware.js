@@ -7,6 +7,7 @@ import LogoQRBased from '../../../components/ui/logo/logo-qr-based';
 import LogoTrezor from '../../../components/ui/logo/logo-trezor';
 import LogoLattice from '../../../components/ui/logo/logo-lattice';
 import LogoWalletConnect from '../../../components/ui/logo/logo-walletconnect';
+import LogoSatochip from '../../../components/ui/logo/logo-satochip';
 
 import {
   DEVICE_NAMES,
@@ -74,6 +75,19 @@ export default class SelectHardware extends Component {
     );
   }
 
+  renderConnectToSatochipButton() {
+    return (
+      <button
+        className={classnames('hw-connect__btn', {
+          selected: this.state.selectedDevice === DEVICE_NAMES.SATOCHIP,
+        })}
+        onClick={(_) => this.setState({ selectedDevice: DEVICE_NAMES.SATOCHIP })}
+      >
+        <LogoSatochip className="hw-connect__btn__img" ariaLabel="Satochip" />
+      </button>
+    );
+  }
+
   renderConnectToLedgerButton() {
     return (
       <button
@@ -119,6 +133,7 @@ export default class SelectHardware extends Component {
           style={{ margin: '10px 0 0 0' }}
         >
           {this.renderConnectToWalletConnectButton()}
+          {this.renderConnectToSatochipButton()}
         </div>
       </>
     );
@@ -185,6 +200,8 @@ export default class SelectHardware extends Component {
         return this.renderTrezorTutorialSteps();
       case DEVICE_NAMES.WALLETCONNECT:
         return this.renderWalletConnectTutorialSteps();
+      case DEVICE_NAMES.SATOCHIP:
+        return this.renderSatochipTutorialSteps();
       case DEVICE_NAMES.LATTICE:
         return this.renderLatticeTutorialSteps();
       case DEVICE_NAMES.QR:
@@ -343,6 +360,46 @@ export default class SelectHardware extends Component {
             rel="noopener noreferrer"
             target="_blank"
             key="walletconnect-support-link"
+          >
+            {this.context.t('hardwareWalletSupportLinkConversion')}
+          </a>,
+        ]),
+      },
+    ];
+
+    return (
+      <div className="hw-tutorial">
+        {steps.map((step, index) => (
+          <div className="hw-connect" key={index}>
+            <h3 className="hw-connect__title">{step.title}</h3>
+            <p className="hw-connect__msg">{step.message}</p>
+            {step.asset && (
+              <img
+                className="hw-connect__step-asset"
+                src={`images/${step.asset}.svg`}
+                {...step.dimensions}
+                alt=""
+              />
+            )}
+          </div>
+        ))}
+      </div>
+    );
+  }
+
+  renderSatochipTutorialSteps() {
+    const steps = [
+      {
+        asset: 'plug-in-wallet',
+        dimensions: { width: '225px', height: '75px' },
+        title: this.context.t('step1SatochipWallet'),
+        message: this.context.t('step1SatochipWalletMsg', [
+          <a
+            className="hw-connect__msg-link"
+            href="https://satochip.io/start/"
+            rel="noopener noreferrer"
+            target="_blank"
+            key="satochip-support-link"
           >
             {this.context.t('hardwareWalletSupportLinkConversion')}
           </a>,

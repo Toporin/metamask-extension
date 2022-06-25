@@ -3109,6 +3109,13 @@
     "message": "Plug in your device and click on continue. Scan the QR code or copy the URL and provide it to the WalletConnect app to enable the connection. For more on using WalletConnect, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
+  "step1SatochipWallet": {
+    "message": "Plug in your Satochip card"
+  },
+  "step1SatochipWalletMsg": {
+    "message": "Plug in your Satochip and click on continue. For more on using Satochip, $1",
+    "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
+  },
   "step2LedgerWallet": {
     "message": "Plug in Ledger wallet"
   },

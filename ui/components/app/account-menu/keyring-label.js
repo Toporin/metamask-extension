@@ -37,6 +37,9 @@ export default function KeyRingLabel({ keyring }) {
     case KEYRING_TYPES.WALLETCONNECT:
       label = KEYRING_NAMES.WALLETCONNECT;
       break;
+    case KEYRING_TYPES.SATOCHIP:
+      label = KEYRING_NAMES.SATOCHIP;
+      break;
     default:
       return null;
   }

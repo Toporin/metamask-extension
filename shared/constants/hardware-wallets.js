@@ -8,6 +8,7 @@ export const KEYRING_TYPES = {
   TREZOR: 'Trezor Hardware',
   LATTICE: 'Lattice Hardware',
   WALLETCONNECT: 'WalletConnect Hardware Wallet Device',
+  SATOCHIP: 'Satochip Hardware',
   QR: 'QR Hardware Wallet Device',
   IMPORTED: 'Simple Key Pair',
 };
@@ -17,6 +18,7 @@ export const DEVICE_NAMES = {
   TREZOR: 'trezor',
   QR: 'QR Hardware',
   WALLETCONNECT: 'WalletConnect Hardware',
+  SATOCHIP: 'satochip',
   LATTICE: 'lattice',
 };
 
@@ -25,6 +27,7 @@ export const KEYRING_NAMES = {
   TREZOR: 'Trezor',
   QR: 'QR',
   WALLETCONNECT: 'WalletConnect',
+  SATOCHIP: 'Satochip',
   LATTICE: 'Lattice1',
 };
 

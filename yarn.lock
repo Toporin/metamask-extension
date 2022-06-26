@@ -11184,8 +11184,10 @@ eth-rpc-errors@^4.0.0, eth-rpc-errors@^4.0.2, eth-rpc-errors@^4.0.3:
   dependencies:
     fast-safe-stringify "^2.0.6"
 
-"eth-satochip-keyring@file:../eth-satochip-keyring":
+eth-satochip-keyring@0.3.0:
   version "0.3.0"
+  resolved "https://registry.yarnpkg.com/eth-satochip-keyring/-/eth-satochip-keyring-0.3.0.tgz#3da0a1952f7f32ee5047710c1658c46b0cbaba65"
+  integrity sha512-lplyKJEal6JvUly413posYIPsAuiDTHxJ48XYD1bVea/XIEaAPsrMur3jTgn108qOElchRiQENj314YknfXckw==
   dependencies:
     "@ethereumjs/tx" "^3.2.1"
     "@metamask/eth-sig-util" "4.0.1"

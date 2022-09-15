@@ -2215,7 +2215,7 @@ export default class MetamaskController extends EventEmitter {
       trezor: [],
       lattice: [],
       walletconnect: [],
-      Satochip: [],
+      satochip: [],
     };
 
     // transactions

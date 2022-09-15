@@ -4710,9 +4710,9 @@
     form-data "^3.0.0"
 
 "@types/node@*":
-  version "18.0.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.0.tgz#67c7b724e1bcdd7a8821ce0d5ee184d3b4dd525a"
-  integrity sha512-cHlGmko4gWLVI27cGJntjs/Sj8th9aYwplmZFwmmgYQQvL5NUsgVJG7OddLvNfLqYS31KFN0s3qlaD9qCaxACA==
+  version "18.7.17"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.17.tgz#52438111ea98f77475470fc62d79b9eb96bb2c92"
+  integrity sha512-0UyfUnt02zIuqp7yC8RYtDkp/vo8bFaQ13KkSEvUAohPOAlnVNbj5Fi3fgPSuwzakS+EvvnnZ4x9y7i6ASaSPQ==
 
 "@types/node@10.12.18":
   version "10.12.18"
@@ -11184,10 +11184,10 @@ eth-rpc-errors@^4.0.0, eth-rpc-errors@^4.0.2, eth-rpc-errors@^4.0.3:
   dependencies:
     fast-safe-stringify "^2.0.6"
 
-eth-satochip-keyring@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/eth-satochip-keyring/-/eth-satochip-keyring-0.3.0.tgz#3da0a1952f7f32ee5047710c1658c46b0cbaba65"
-  integrity sha512-lplyKJEal6JvUly413posYIPsAuiDTHxJ48XYD1bVea/XIEaAPsrMur3jTgn108qOElchRiQENj314YknfXckw==
+eth-satochip-keyring@0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/eth-satochip-keyring/-/eth-satochip-keyring-0.3.1.tgz#e51c1820b0f56890089edd93e32740cb3c26cb88"
+  integrity sha512-CC1JlPj83lKUbBLcz4E8QLdtWdOc6KeUGyu/c/A4ZpQR7sqSp7rMdNY2cNXettXUlIgX71QAP3dSBdM3MobUsw==
   dependencies:
     "@ethereumjs/tx" "^3.2.1"
     "@metamask/eth-sig-util" "4.0.1"
@@ -19574,7 +19574,12 @@ node-gyp-build@4.3.0:
   resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.3.0.tgz#9f256b03e5826150be39c764bf51e993946d71a3"
   integrity sha512-iWjXZvmboq0ja1pUGULQBexmxq8CV4xBhX7VDOTbL7ZR4FOowwY/VOtRxBN/yKxmdGoIp4j5ysNT4u3S2pDQ3Q==
 
-node-gyp-build@^4.2.0, node-gyp-build@^4.2.2, node-gyp-build@^4.2.3, node-gyp-build@^4.3.0:
+node-gyp-build@^4.2.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.5.0.tgz#7a64eefa0b21112f89f58379da128ac177f20e40"
+  integrity sha512-2iGbaQBV+ITgCz76ZEjmhUKAKVf7xfY1sRl4UiKQspfZMH2h06SyhNsnSVy50cwkFQDGLyif6m/6uFXHkOZ6rg==
+
+node-gyp-build@^4.2.2, node-gyp-build@^4.2.3, node-gyp-build@^4.3.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.4.0.tgz#42e99687ce87ddeaf3a10b99dc06abc11021f3f4"
   integrity sha512-amJnQCcgtRVw9SvoebO3BKGESClrfXGCUTX9hSn1OuGQTQBOZmVd0Z0OlecpuRksKvbsUqALE8jls/ErClAPuQ==

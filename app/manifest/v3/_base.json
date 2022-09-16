@@ -9,10 +9,10 @@
       "128": "images/icon-128.png",
       "512": "images/icon-512.png"
     },
-    "default_title": "MetaMask",
+    "default_title": "SatoMask",
     "default_popup": "popup.html"
   },
-  "author": "https://metamask.io",
+  "author": "https://satochip.io",
   "background": {
     "service_worker": "app-init.js"
   },

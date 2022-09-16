@@ -1,10 +1,10 @@
 {
-  "name": "metamask-crx",
+  "name": "satomask-crx",
   "version": "10.14.7",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/metamask-extension.git"
+    "url": "https://github.com/Toporin/metamask-extension.git"
   },
   "scripts": {
     "setup": "yarn install && yarn setup:postinstall",

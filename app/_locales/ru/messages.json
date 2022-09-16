@@ -109,7 +109,7 @@
     "message": "Добавить ник"
   },
   "addAcquiredTokens": {
-    "message": "Добавьте токены, которые вы приобрели с помощью MetaMask"
+    "message": "Добавьте токены, которые вы приобрели с помощью SatoMask"
   },
   "addAlias": {
     "message": "Добавить псевдоним"
@@ -125,10 +125,10 @@
     "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Это позволит использовать эту сеть в MetaMask."
+    "message": "Это позволит использовать эту сеть в SatoMask."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask не проверяет пользовательские сети."
+    "message": "SatoMask не проверяет пользовательские сети."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Подробнее о $1.",
@@ -238,15 +238,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Бета-версия MetaMask",
+    "message": "Бета-версия SatoMask",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -305,7 +305,7 @@
     "message": "Таймер автоблокировки (минуты)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Установите время бездействия в минутах, прежде чем MetaMask будет заблокирован."
+    "message": "Установите время бездействия в минутах, прежде чем SatoMask будет заблокирован."
   },
   "average": {
     "message": "Средний"
@@ -317,7 +317,7 @@
     "message": "Назад ко всем"
   },
   "backupApprovalInfo": {
-    "message": "Этот секретный код необходим для восстановления вашего кошелька в случае, если вы потеряете свое устройство, забудете пароль, вам придется переустановить MetaMask или захотите получить доступ к своему кошельку на другом устройстве."
+    "message": "Этот секретный код необходим для восстановления вашего кошелька в случае, если вы потеряете свое устройство, забудете пароль, вам придется переустановить SatoMask или захотите получить доступ к своему кошельку на другом устройстве."
   },
   "backupApprovalNotice": {
     "message": "Сделайте копию своей секретной фразы для восстановления, чтобы обезопасить свой кошелек и средства."
@@ -338,10 +338,10 @@
     "message": "Базовый"
   },
   "betaMetamaskDescription": {
-    "message": "MetaMask, которому доверяют миллионы, — это безопасный кошелек, предоставляющий всем доступ к миру web3."
+    "message": "SatoMask, которому доверяют миллионы, — это безопасный кошелек, предоставляющий всем доступ к миру web3."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Используйте эту версию для тестирования будущих функций перед их выпуском. Ваше использование и отзывы помогают нам создать лучшую из возможных версий MetaMask. За использование бета-версии MetaMask взимается наша стандартная комиссия $1 и наша комиссия $2. В бета-версии может быть повышенный риск ошибок. Продолжая, вы принимаете и признаете эти риски, а также риски, указанные в наших Условиях и Условиях бета-версии.",
+    "message": "Используйте эту версию для тестирования будущих функций перед их выпуском. Ваше использование и отзывы помогают нам создать лучшую из возможных версий SatoMask. За использование бета-версии SatoMask взимается наша стандартная комиссия $1 и наша комиссия $2. В бета-версии может быть повышенный риск ошибок. Продолжая, вы принимаете и признаете эти риски, а также риски, указанные в наших Условиях и Условиях бета-версии.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -351,10 +351,10 @@
     "message": "Условия"
   },
   "betaMetamaskVersion": {
-    "message": "Бета-версия MetaMask"
+    "message": "Бета-версия SatoMask"
   },
   "betaWelcome": {
-    "message": "Добро пожаловать в бета-версию MetaMask"
+    "message": "Добро пожаловать в бета-версию SatoMask"
   },
   "blockExplorerAccountAction": {
     "message": "Счет",
@@ -388,7 +388,7 @@
     "message": "Создайте список контактов"
   },
   "builtAroundTheWorld": {
-    "message": "MetaMask разработан и создан с учетом потребностей мира."
+    "message": "SatoMask разработан и создан с учетом потребностей мира."
   },
   "busy": {
     "message": "Занят"
@@ -405,21 +405,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay поддерживает популярные способы оплаты, включая Visa, Mastercard, Apple/Google/Samsung Pay, а также банковские переводы в 145 странах. Токены зачисляются на ваш счет MetaMask."
+    "message": "MoonPay поддерживает популярные способы оплаты, включая Visa, Mastercard, Apple/Google/Samsung Pay, а также банковские переводы в 145 странах. Токены зачисляются на ваш счет SatoMask."
   },
   "buyCryptoWithTransak": {
     "message": "Купить $1 с помощью Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak поддерживает кредитные и дебетовые карты, Apple Pay, MobiKwik и банковские переводы (в зависимости от местоположения) в более чем 100 странах. $1 вносится прямо на ваш счет MetaMask.",
+    "message": "Transak поддерживает кредитные и дебетовые карты, Apple Pay, MobiKwik и банковские переводы (в зависимости от местоположения) в более чем 100 странах. $1 вносится прямо на ваш счет SatoMask.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Купить $1 с помощью Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre позволяет использовать дебетовую карту для внесения $1 прямо на ваш счет MetaMask."
+    "message": "Wyre позволяет использовать дебетовую карту для внесения $1 прямо на ваш счет SatoMask."
   },
   "bytes": {
     "message": "Байты"
@@ -470,7 +470,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Вам необходимо использовать MetaMask в Google Chrome, чтобы подключиться к аппаратному кошельку."
+    "message": "Вам необходимо использовать SatoMask в Google Chrome, чтобы подключиться к аппаратному кошельку."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Нажмите здесь, чтобы подключить свой леджер через WebHID",
@@ -549,7 +549,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Подключиться с помощью MetaMask"
+    "message": "Подключиться с помощью SatoMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "К этому сайту подключено $1 ваших счета(-ов).",
@@ -559,7 +559,7 @@
     "message": "К этому сайту подключен 1 ваш счет."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask не подключен к этому сайту. Чтобы подключиться к сайту web3, найдите и нажмите кнопку подключения."
+    "message": "SatoMask не подключен к этому сайту. Чтобы подключиться к сайту web3, найдите и нажмите кнопку подключения."
   },
   "connectedSites": {
     "message": "Подключенные сайты"
@@ -631,7 +631,7 @@
     "message": "Взаимодействие по контракту"
   },
   "convertTokenToNFTDescription": {
-    "message": "Мы обнаружили, что этот актив является NFT. MetaMask теперь имеет полную встроенную поддержку NFT. Хотите удалить его из списка токенов и добавить в качестве NFT?"
+    "message": "Мы обнаружили, что этот актив является NFT. SatoMask теперь имеет полную встроенную поддержку NFT. Хотите удалить его из списка токенов и добавить в качестве NFT?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Мы обнаружили, что этот актив был добавлен как NFT. Хотите удалить его из списка токенов?"
@@ -754,7 +754,7 @@
     "message": "Данные"
   },
   "dataBackupFoundInfo": {
-    "message": "Некоторые данные вашего счета были скопированы во время предыдущей установки MetaMask. Они могли включать ваши настройки, контакты и токены. Хотите восстановить эти данные сейчас?"
+    "message": "Некоторые данные вашего счета были скопированы во время предыдущей установки SatoMask. Они могли включать ваши настройки, контакты и токены. Хотите восстановить эти данные сейчас?"
   },
   "dataHex": {
     "message": "Шестнадцатиричные"
@@ -1057,7 +1057,7 @@
     "message": "Никогда не сообщайте никому эту фразу."
   },
   "endOfFlowMessage5": {
-    "message": "Остерегайтесь фишинга! MetaMask никогда неожиданно не запросит вашу секретную фразу для восстановления."
+    "message": "Остерегайтесь фишинга! SatoMask никогда неожиданно не запросит вашу секретную фразу для восстановления."
   },
   "endOfFlowMessage6": {
     "message": "Если вам нужно снова создать резервную копию секретной фразы для восстановления, вы можете найти эту функцию в разделе «Настройки» -> «Безопасность»."
@@ -1067,7 +1067,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "Просто помните, что MetaMask не может восстановить секретную фразу для восстановления."
+    "message": "Просто помните, что SatoMask не может восстановить секретную фразу для восстановления."
   },
   "endOfFlowMessage9": {
     "message": "Узнайте подробнее."
@@ -1125,7 +1125,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask обнаружил ошибку",
+    "message": "SatoMask обнаружил ошибку",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1219,10 +1219,10 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Мы не гарантируем безопасность и стабильность этого расширения. Новые API-интерфейсы, предлагаемые Flask, не защищены от фишинговых атак, а это означает, что любой сайт или снап, для которых требуется Flask, могут быть злонамеренной попыткой украсть ваши активы.",
-    "description": "This explains the risks of using MetaMask Flask"
+    "description": "This explains the risks of using SatoMask Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Все API Flask являются экспериментальными. Они могут быть изменены или удалены без предварительного уведомления или могут оставаться во Flask на неопределенный срок без переноса в стабильную версию MetaMask. Используйте их на свой страх и риск.",
+    "message": "Все API Flask являются экспериментальными. Они могут быть изменены или удалены без предварительного уведомления или могут оставаться во Flask на неопределенный срок без переноса в стабильную версию SatoMask. Используйте их на свой страх и риск.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarningAcceptButton": {
@@ -1404,7 +1404,7 @@
     "message": "Подключить аппаратный кошелек"
   },
   "hardwareWalletsMsg": {
-    "message": "Выберите аппаратный кошелек, который хотите использовать с MetaMask."
+    "message": "Выберите аппаратный кошелек, который хотите использовать с SatoMask."
   },
   "here": {
     "message": "здесь",
@@ -1456,7 +1456,7 @@
     "message": "Ошибка импорта счета."
   },
   "importAccountMsg": {
-    "message": "Импортированные счета не будут связаны с секретной фразой для восстановления вашего изначально созданного счета MetaMask. Узнайте больше об импортированных счетах"
+    "message": "Импортированные счета не будут связаны с секретной фразой для восстановления вашего изначально созданного счета SatoMask. Узнайте больше об импортированных счетах"
   },
   "importAccountSeedPhrase": {
     "message": "Импорт кошелька с помощью секретной фразы для восстановления"
@@ -1502,7 +1502,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask не удалось подключиться к хосту блокчейна. Узнать возможные причины можно $1.",
+    "message": "SatoMask не удалось подключиться к хосту блокчейна. Узнать возможные причины можно $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1656,7 +1656,7 @@
     "message": "Откройте и разблокируйте приложение Ledger Live"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Настройте подключение леджера к MetaMask. Рекомендуется $1, но возможны и другие варианты. См. подробнее здесь: $2",
+    "message": "Настройте подключение леджера к SatoMask. Рекомендуется $1, но возможны и другие варианты. См. подробнее здесь: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1664,7 +1664,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to MetaMask."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to SatoMask."
   },
   "ledgerLiveApp": {
     "message": "приложение Ledger Live"
@@ -1783,7 +1783,7 @@
     "message": "Сообщение"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Теперь у вас больше возможностей контроля за подключениями счетов в MetaMask."
+    "message": "Теперь у вас больше возможностей контроля за подключениями счетов в SatoMask."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Нажмите на него, чтобы управлять подключенными счетами."
@@ -1795,10 +1795,10 @@
     "message": "Подключение вас к Ethereum и децентрализованной сети..."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Сервис обмена MetaMask на техобслуживании. Зайдите позже."
+    "message": "Сервис обмена SatoMask на техобслуживании. Зайдите позже."
   },
   "metamaskVersion": {
-    "message": "Версия MetaMask"
+    "message": "Версия SatoMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Всегда разрешать вам отказываться в Настройках"
@@ -1811,7 +1811,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask..."
+    "message": "SatoMask..."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Никогда не собирает ключи, адреса, транзакции, балансы, хэши или любую личную информацию"
@@ -1838,16 +1838,16 @@
     "message": "Отправлять анонимизированные события кликов и просмотров страниц"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Помогите нам улучшить MetaMask"
+    "message": "Помогите нам улучшить SatoMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask хотел бы собрать основные данные об использовании, чтобы лучше понять, как наши пользователи взаимодействуют с расширением. Эти данные будут использоваться для постоянного повышения удобства и улучшения впечатлений от использования нашего продукта и экосистемы Ethereum."
+    "message": "SatoMask хотел бы собрать основные данные об использовании, чтобы лучше понять, как наши пользователи взаимодействуют с расширением. Эти данные будут использоваться для постоянного повышения удобства и улучшения впечатлений от использования нашего продукта и экосистемы Ethereum."
   },
   "metametricsOptInDescription2": {
     "message": "Мы хотели бы получить базовые данные об использовании, чтобы повысить удобство использования нашего продукта. Эти показатели будут..."
   },
   "metametricsTitle": {
-    "message": "Присоединяйтесь к более чем 6 млн пользователей, чтобы улучшить MetaMask"
+    "message": "Присоединяйтесь к более чем 6 млн пользователей, чтобы улучшить SatoMask"
   },
   "mismatchedChain": {
     "message": "Сведения о сети для этого ID цепочки не совпадают с указанными в записях. Мы рекомендуем $1 до того, как продолжить.",
@@ -1870,7 +1870,7 @@
     "message": "Не видите свой токен?"
   },
   "mobileSyncWarning": {
-    "message": "Функция «Синхронизация с расширением» временно отключена. Если вы хотите использовать свой кошелек из расширения браузера в мобильной версии MetaMask, тогда в мобильном приложении вернитесь к параметрам настройки кошелька и выберите параметр «Импортировать с помощью секретной фразы для восстановления». Используйте секретную фразу своего кошелька из расширения, чтобы импортировать кошелек на мобильное устройство."
+    "message": "Функция «Синхронизация с расширением» временно отключена. Если вы хотите использовать свой кошелек из расширения браузера в мобильной версии SatoMask, тогда в мобильном приложении вернитесь к параметрам настройки кошелька и выберите параметр «Импортировать с помощью секретной фразы для восстановления». Используйте секретную фразу своего кошелька из расширения, чтобы импортировать кошелек на мобильное устройство."
   },
   "mustSelectOne": {
     "message": "Необходимо выбрать хотя бы 1 токен."
@@ -1882,7 +1882,7 @@
     "message": "Имя"
   },
   "needCryptoInWallet": {
-    "message": "Для взаимодействия с децентрализованными приложениями с помощью MetaMask вам понадобится $1 в вашем кошельке.",
+    "message": "Для взаимодействия с децентрализованными приложениями с помощью SatoMask вам понадобится $1 в вашем кошельке.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1893,7 +1893,7 @@
     "message": "Оставьте отзыв"
   },
   "needHelpLinkText": {
-    "message": "службу поддержки MetaMask"
+    "message": "службу поддержки SatoMask"
   },
   "needHelpSubmitTicket": {
     "message": "Отправить запрос о поддержке"
@@ -1987,7 +1987,7 @@
     "message": "Новый контракт"
   },
   "newNFTDetectedMessage": {
-    "message": "Разрешите MetaMask автоматически обнаруживать NFT из Opensea и отображать их в вашем кошельке."
+    "message": "Разрешите SatoMask автоматически обнаруживать NFT из Opensea и отображать их в вашем кошельке."
   },
   "newNFTsDetected": {
     "message": "Новинка! Обнаружение NFT"
@@ -1999,7 +1999,7 @@
     "message": "Новый пароль (мин. 8 знаков)"
   },
   "newToMetaMask": {
-    "message": "Впервые в MetaMask?"
+    "message": "Впервые в SatoMask?"
   },
   "newTotal": {
     "message": "Новая общая сумма"
@@ -2015,7 +2015,7 @@
   },
   "nextNonceWarning": {
     "message": "Одноразовый номер больше, чем предложенный одноразовый номер $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "nftTokenIdPlaceholder": {
     "message": "Введите ид. коллекционного актива"
@@ -2115,19 +2115,19 @@
     "message": "Когда появится темный режим? Он уже появился! ️"
   },
   "notifications1Description": {
-    "message": "Теперь пользователи MetaMask Mobile могут обменивать токены в своем мобильном кошельке. Отсканируйте QR-код, чтобы скачать мобильное приложение и начать обмен.",
+    "message": "Теперь пользователи SatoMask Mobile могут обменивать токены в своем мобильном кошельке. Отсканируйте QR-код, чтобы скачать мобильное приложение и начать обмен.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Обмен на мобильном устройстве уже доступен!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use SatoMask Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Подробнее",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Ознакомьтесь с методами безопасной работы в MetaMask и актуальными советами по безопасности на официальном сайте поддержки MetaMask.",
+    "message": "Ознакомьтесь с методами безопасной работы в SatoMask и актуальными советами по безопасности на официальном сайте поддержки SatoMask.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2139,7 +2139,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Получайте лучшие ценовые предложения на обмен токенов прямо в своем кошельке. Теперь через MetaMask можно взаимодействовать с несколькими децентрализованными агрегаторами обмена и профессиональными маркет-мейкерами в Binance Smart Chain.",
+    "message": "Получайте лучшие ценовые предложения на обмен токенов прямо в своем кошельке. Теперь через SatoMask можно взаимодействовать с несколькими децентрализованными агрегаторами обмена и профессиональными маркет-мейкерами в Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2151,11 +2151,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Начиная с Chrome версии 91, API, обеспечивавший нашу поддержку леджеров (U2F), больше не поддерживают аппаратные кошельки . Компания MetaMask реализовала новую поддержку Ledger Live, которая позволяет по-прежнему подключаться к леджеру через приложение Ledger Live для ПК.",
+    "message": "Начиная с Chrome версии 91, API, обеспечивавший нашу поддержку леджеров (U2F), больше не поддерживают аппаратные кошельки . Компания SatoMask реализовала новую поддержку Ledger Live, которая позволяет по-прежнему подключаться к леджеру через приложение Ledger Live для ПК.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "При использовании счета вашего леджера в MetaMask откроется новая вкладка,и будет предложено открыть приложение Ledger Live.  Когда приложение откроется, вы увидите запрос разрешения на WebSocket-соединение с вашим счетом MetaMask.  Вот и все!",
+    "message": "При использовании счета вашего леджера в SatoMask откроется новая вкладка,и будет предложено открыть приложение Ledger Live.  Когда приложение откроется, вы увидите запрос разрешения на WebSocket-соединение с вашим счетом SatoMask.  Вот и все!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2167,7 +2167,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "MetaMask v10.1.0 включает новую поддержку транзакций EIP-1559 при использовании леджеров.",
+    "message": "SatoMask v10.1.0 включает новую поддержку транзакций EIP-1559 при использовании леджеров.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2183,7 +2183,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced Settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Начиная с версии MetaMask 10.4.0, вам больше не требуется Ledger Live для подключения леджера к MetaMask.",
+    "message": "Начиная с версии SatoMask 10.4.0, вам больше не требуется Ledger Live для подключения леджера к SatoMask.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2244,16 +2244,16 @@
     "message": "Нажмите на значок расширения браузера"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Закрепите расширение MetaMask в браузере для его постоянной доступности и легкого просмотра подтверждений транзакций."
+    "message": "Закрепите расширение SatoMask в браузере для его постоянной доступности и легкого просмотра подтверждений транзакций."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Вы можете открыть MetaMask, нажав на расширение, и получить доступ к своему кошельку одним щелчком мыши."
+    "message": "Вы можете открыть SatoMask, нажав на расширение, и получить доступ к своему кошельку одним щелчком мыши."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Нажмите на значок расширения браузера для мгновенного перехода к нему"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Закрепить MetaMask"
+    "message": "Закрепить SatoMask"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2262,7 +2262,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Установка MetaMask завершена!"
+    "message": "Установка SatoMask завершена!"
   },
   "onboardingReturnNotice": {
     "message": "Кнопка «$1» закрывает эту вкладку и возвращает на сайт $2",
@@ -2283,8 +2283,8 @@
     "message": "Подключайтесь только к сайтам, которым доверяете."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Откройте MetaMask в полноэкранном режиме, чтобы подключить свой леджер через WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing MetaMask in a popup window but need to connect their ledger via webhid."
+    "message": "Откройте SatoMask в полноэкранном режиме, чтобы подключить свой леджер через WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing SatoMask in a popup window but need to connect their ledger via webhid."
   },
   "openSourceCode": {
     "message": "Проверьте исходный код"
@@ -2317,7 +2317,7 @@
     "message": "Пароль недостаточно длинный"
   },
   "passwordSetupDetails": {
-    "message": "Этот пароль разблокирует ваш кошелек MetaMask только на этом устройстве. MetaMask не может восстановить этот пароль."
+    "message": "Этот пароль разблокирует ваш кошелек SatoMask только на этом устройстве. SatoMask не может восстановить этот пароль."
   },
   "passwordStrength": {
     "message": "Надежность пароля: $1",
@@ -2327,7 +2327,7 @@
     "message": "Надежный пароль может повысить безопасность вашего кошелька в случае кражи или взлома вашего устройства."
   },
   "passwordTermsWarning": {
-    "message": "Я понимаю, что MetaMask не может восстановить этот пароль для меня. $1"
+    "message": "Я понимаю, что SatoMask не может восстановить этот пароль для меня. $1"
   },
   "passwordsDontMatch": {
     "message": "Пароли не совпадают"
@@ -2364,7 +2364,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Показать подтверждение в MetaMask.",
+    "message": "Показать подтверждение в SatoMask.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2490,7 +2490,7 @@
     "message": "Никогда никому не сообщайте никому свою секретную фразу для восстановления."
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Команда MetaMask никогда неожиданно не запросит вашу секретную фразу для восстановления"
+    "message": "Команда SatoMask никогда неожиданно не запросит вашу секретную фразу для восстановления"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Ваша секретная фраза для восстановления контролирует все ваши счета."
@@ -2566,7 +2566,7 @@
     "message": "Сбросить кошелек"
   },
   "resetWalletSubHeader": {
-    "message": "MetaMask не хранит копию вашего пароля. Если у вас возникли проблемы с разблокировкой счета, вам необходимо сбросить настройки кошелька. Вы можете сделать это, введя секретную фразу восстановления, которую вы использовали при настройке кошелька."
+    "message": "SatoMask не хранит копию вашего пароля. Если у вас возникли проблемы с разблокировкой счета, вам необходимо сбросить настройки кошелька. Вы можете сделать это, введя секретную фразу восстановления, которую вы использовали при настройке кошелька."
   },
   "resetWalletUsingSRP": {
     "message": "Это действие удалит ваш текущий кошелек и секретную фразу восстановления с этого устройства, а также список счетов, которые вы курировали. После сброса с помощью секретной фразы восстановления вы увидите список счетов, основанный на секретной фразе восстановления, которую вы использовали для сброса. Этот новый список будет автоматически включать счета, на которых есть средства. Вы также сможете получить $1, созданный ранее. Пользовательские счета, которые вы импортировали, должны будут $2, и любые пользовательские токены, которые вы добавили на счет, также должны будут $3."
@@ -2693,7 +2693,7 @@
     "message": "Если кто-то просит вас сообщить фразу для восстановления, этот человек, скорее всего, пытается вас обмануть и похитить деньги из вашего кошелька."
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Никогда не сообщайте секретную фразу для восстановления никому, даже сотрудникам MetaMask!"
+    "message": "Никогда не сообщайте секретную фразу для восстановления никому, даже сотрудникам SatoMask!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Что такое секретная фраза для восстановления?"
@@ -2732,7 +2732,7 @@
     "message": "Выберите счет"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Этот счет уже подключен к MetaMask"
+    "message": "Этот счет уже подключен к SatoMask"
   },
   "selectEachPhrase": {
     "message": "Выберите каждую фразу, чтобы убедиться, что она верна."
@@ -2779,7 +2779,7 @@
     "message": "Задать дополнительные настройки конфиденциальности"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "MetaMask использует эти доверенные сторонние сервисы для повышения удобства использования и безопасности продукта."
+    "message": "SatoMask использует эти доверенные сторонние сервисы для повышения удобства использования и безопасности продукта."
   },
   "settings": {
     "message": "Настройки"
@@ -2986,7 +2986,7 @@
     "message": "Ошибка при получении журналов состояния."
   },
   "stateLogFileName": {
-    "message": "Журналы состояния MetaMask"
+    "message": "Журналы состояния SatoMask"
   },
   "stateLogs": {
     "message": "Журналы состояний"
@@ -3007,7 +3007,7 @@
     "message": "Убедитесь, что Lattice1 готово к подключению"
   },
   "step1LatticeWalletMsg": {
-    "message": "Вы можете подключить MetaMask к своему устройству Lattice1, как только оно будет настроено и подключено к сети. Разблокируйте устройство и подготовьте свой идентификатор устройства. Подробнее об использовании аппаратных кошельков: $1",
+    "message": "Вы можете подключить SatoMask к своему устройству Lattice1, как только оно будет настроено и подключено к сети. Разблокируйте устройство и подготовьте свой идентификатор устройства. Подробнее об использовании аппаратных кошельков: $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3062,7 +3062,7 @@
     "message": "Попробуйте обменять еще раз. Мы готовы защитить вас от подобных рисков в следующий раз."
   },
   "stxDescription": {
-    "message": "Функция обмена в MetaMask стала намного умнее! Включение смарт-транзакций позволит MetaMask программно оптимизировать ваш обмен, чтобы помочь:"
+    "message": "Функция обмена в SatoMask стала намного умнее! Включение смарт-транзакций позволит SatoMask программно оптимизировать ваш обмен, чтобы помочь:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Недостаточно средств для смарт-транзакции."
@@ -3193,7 +3193,7 @@
     "message": "Изменить лимит"
   },
   "swapEnableDescription": {
-    "message": "Это необходимо и дает MetaMask разрешение на обмен вашего $1.",
+    "message": "Это необходимо и дает SatoMask разрешение на обмен вашего $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
@@ -3243,14 +3243,14 @@
     "message": "Плата за газ, указанная на предыдущем экране, распределяется между этими двумя транзакциями."
   },
   "swapGasFeesSummary": {
-    "message": "Плата за газ переводится майнерам, которые обрабатывают транзакции в сети $1. MetaMask не получает прибыли от платы за газ.",
+    "message": "Плата за газ переводится майнерам, которые обрабатывают транзакции в сети $1. SatoMask не получает прибыли от платы за газ.",
     "description": "$1 is the selected network, e.g. Ethereum or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Сумма проскальзывания очень велика."
   },
   "swapIncludesMMFee": {
-    "message": "Включает комиссию MetaMask в размере $1%.",
+    "message": "Включает комиссию SatoMask в размере $1%.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3260,7 +3260,7 @@
     "message": "Максимальное проскальзывание"
   },
   "swapMetaMaskFee": {
-    "message": "Комиссия MetaMask"
+    "message": "Комиссия SatoMask"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Мы всегда находим лучшую цену из лучших источников ликвидности. В эту котировку автоматически включается комиссия в размере $1%.",
@@ -3443,7 +3443,7 @@
     "message": "Посмотреть в журнале активности"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "В результате этого сеть, выбранная в MetaMask, будет изменена на ранее добавленную:"
+    "message": "В результате этого сеть, выбранная в SatoMask, будет изменена на ранее добавленную:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Разрешить этому сайту сменить сеть?"
@@ -3479,16 +3479,16 @@
     "message": "Убедитесь, что никто не смотрит на ваш экран, когда вы сканируете этот код"
   },
   "syncWithMobileComplete": {
-    "message": "Ваши данные успешно синхронизированы. Наслаждайтесь мобильным приложением MetaMask!"
+    "message": "Ваши данные успешно синхронизированы. Наслаждайтесь мобильным приложением SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Вы можете синхронизировать свои счета и информацию со своим мобильным устройством. Откройте мобильное приложение MetaMask, перейдите в раздел «Настройки» и нажмите «Синхронизировать из расширения браузера»."
+    "message": "Вы можете синхронизировать свои счета и информацию со своим мобильным устройством. Откройте мобильное приложение SatoMask, перейдите в раздел «Настройки» и нажмите «Синхронизировать из расширения браузера»."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Если вы открываете приложение MetaMask Mobile в первый раз, просто следуйте инструкциям на телефоне."
+    "message": "Если вы открываете приложение SatoMask Mobile в первый раз, просто следуйте инструкциям на телефоне."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Отсканируйте этот код с помощью мобильного приложения MetaMask"
+    "message": "Отсканируйте этот код с помощью мобильного приложения SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Синхронизировать с мобильным устройством"
@@ -3521,7 +3521,7 @@
     "message": "Тема"
   },
   "themeDescription": {
-    "message": "Выберите предпочитаемую тему MetaMask."
+    "message": "Выберите предпочитаемую тему SatoMask."
   },
   "thisWillCreate": {
     "message": "Это создаст новый кошелек и секретную фразу для восстановления"
@@ -3622,7 +3622,7 @@
     "message": "Рекомендовано сайтом"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Отредактируйте, чтобы использовать рекомендованную MetaMask плату за газ с учетом последнего блока."
+    "message": "Отредактируйте, чтобы использовать рекомендованную SatoMask плату за газ с учетом последнего блока."
   },
   "transactionDetailGasHeading": {
     "message": "Примерная плата за газ"
@@ -3637,7 +3637,7 @@
     "message": "Плата за газ устанавливается сетью и варьируется в зависимости от сетевого трафика и сложности транзакции."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Плата за газ переводится майнерам, которые обрабатывают транзакции в сети $1. MetaMask не получает прибыли от платы за газ."
+    "message": "Плата за газ переводится майнерам, которые обрабатывают транзакции в сети $1. SatoMask не получает прибыли от платы за газ."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Сумма + плата за газ"
@@ -3726,11 +3726,11 @@
     "message": "Для этого контракта сейчас не поддерживается аналитика транзакций."
   },
   "typePassword": {
-    "message": "Введите свой пароль MetaMask"
+    "message": "Введите свой пароль SatoMask"
   },
   "u2f": {
     "message": "U2F:",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect MetaMask to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect SatoMask to Ledger devices."
   },
   "unapproved": {
     "message": "Не одобрен"
@@ -3805,7 +3805,7 @@
     "message": "Использовать обнаружение токенов"
   },
   "useTokenDetectionDescription": {
-    "message": "Мы используем сторонние API для обнаружения и отображения новых токенов, отправленных в ваш кошелек. Отключите, если не хотите, чтобы MetaMask получал данные от этих служб."
+    "message": "Мы используем сторонние API для обнаружения и отображения новых токенов, отправленных в ваш кошелек. Отключите, если не хотите, чтобы SatoMask получал данные от этих служб."
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Автоматическое отображение токенов, отправленных на ваш счет, требует обмена данными со сторонними серверами для получения изображений токенов. Эти серверы получат доступ к вашему IP-адресу."
@@ -3871,10 +3871,10 @@
     "message": "Вы успешно защитили свой кошелек. Сохраните секретную фразу для восстановления в тайне — вы отвечаете за ее сохранность!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "MetaMask не сможет восстановить вашу секретную фразу для восстановления."
+    "message": "SatoMask не сможет восстановить вашу секретную фразу для восстановления."
   },
   "walletCreationSuccessReminder2": {
-    "message": "MetaMask никогда не запрашивает у вас секретную фразу для восстановления."
+    "message": "SatoMask никогда не запрашивает у вас секретную фразу для восстановления."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1, чтобы предотвратить кражу ваших средств",
@@ -3899,7 +3899,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Добро пожаловать в MetaMask"
+    "message": "Добро пожаловать в SatoMask"
   },
   "welcomeBack": {
     "message": "С возвращением!"
@@ -3911,7 +3911,7 @@
     "message": "Ознакомьтесь с децентрализованными приложениями"
   },
   "welcomeLoginDescription": {
-    "message": "Используйте кошелек MetaMask для входа в децентрализованные приложения — регистрация не потребуется."
+    "message": "Используйте кошелек SatoMask для входа в децентрализованные приложения — регистрация не потребуется."
   },
   "welcomeLoginTitle": {
     "message": "Поприветствуйте свой кошелек"
@@ -3920,11 +3920,11 @@
     "message": "Давайте приступим к делу"
   },
   "welcomeToMetaMaskIntro": {
-    "message": "MetaMask, которому доверяют миллионы, — это безопасный кошелек, предоставляющий всем доступ к миру web3."
+    "message": "SatoMask, которому доверяют миллионы, — это безопасный кошелек, предоставляющий всем доступ к миру web3."
   },
   "whatsNew": {
     "message": "Что нового",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to SatoMask."
   },
   "whatsThis": {
     "message": "Что это?"

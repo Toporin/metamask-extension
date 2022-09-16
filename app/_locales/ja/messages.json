@@ -109,7 +109,7 @@
     "message": "ニックネームを追加"
   },
   "addAcquiredTokens": {
-    "message": "MetaMaskを使用して取得したトークンを追加します"
+    "message": "SatoMaskを使用して取得したトークンを追加します"
   },
   "addAlias": {
     "message": "別名を追加"
@@ -125,10 +125,10 @@
     "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "これにより、このネットワークはMetaMask内で使用できるようになります。"
+    "message": "これにより、このネットワークはSatoMask内で使用できるようになります。"
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMaskはカスタム ネットワークを検証しません。"
+    "message": "SatoMaskはカスタム ネットワークを検証しません。"
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "$1の詳細。",
@@ -238,15 +238,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -305,7 +305,7 @@
     "message": "オートロックタイマー (分)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "MetaMaskがロックされるまでのアイドル時間を分単位で設定します。"
+    "message": "SatoMaskがロックされるまでのアイドル時間を分単位で設定します。"
   },
   "average": {
     "message": "平均"
@@ -317,7 +317,7 @@
     "message": "一覧に戻る"
   },
   "backupApprovalInfo": {
-    "message": "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、MetaMaskの再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。"
+    "message": "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、SatoMaskの再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。"
   },
   "backupApprovalNotice": {
     "message": "シークレットリカバリコードをバックアップして、ウォレットと資金の安全を確保してください。"
@@ -338,10 +338,10 @@
     "message": "基本"
   },
   "betaMetamaskDescription": {
-    "message": "MetaMaskは何百万人もに信頼されている安全なウォレットで、誰もがWeb3の世界にアクセスできるようにしています。"
+    "message": "SatoMaskは何百万人もに信頼されている安全なウォレットで、誰もがWeb3の世界にアクセスできるようにしています。"
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "このバージョンを使うと、リリース前に今後の機能をテストできます。皆様からのご意見は、可能な限り最高のバージョンのMetaMaskを開発するうえで参考にさせていただきます。MetaMaskベータの使用には、標準の$1および弊社の$2が適用されます。ベータ版のため、バグのリスクが高くなる可能性があります。 続行することにより、これらのリスクと、弊社の利用規約およびベータ規約に記載されているリスクを承認し、これらに同意したものとみなされます。",
+    "message": "このバージョンを使うと、リリース前に今後の機能をテストできます。皆様からのご意見は、可能な限り最高のバージョンのSatoMaskを開発するうえで参考にさせていただきます。SatoMaskベータの使用には、標準の$1および弊社の$2が適用されます。ベータ版のため、バグのリスクが高くなる可能性があります。 続行することにより、これらのリスクと、弊社の利用規約およびベータ規約に記載されているリスクを承認し、これらに同意したものとみなされます。",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -351,10 +351,10 @@
     "message": "利用規約"
   },
   "betaMetamaskVersion": {
-    "message": "MetaMaskベータバージョン"
+    "message": "SatoMaskベータバージョン"
   },
   "betaWelcome": {
-    "message": "MetaMaskベータへようこそ"
+    "message": "SatoMaskベータへようこそ"
   },
   "blockExplorerAccountAction": {
     "message": "アカウント",
@@ -388,7 +388,7 @@
     "message": "連絡先リストを作成する"
   },
   "builtAroundTheWorld": {
-    "message": "MetaMaskは、世界中でデザイン・開発されています。"
+    "message": "SatoMaskは、世界中でデザイン・開発されています。"
   },
   "busy": {
     "message": "ビジー状態"
@@ -405,21 +405,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay は 145 か国以上で、Visa、Mastercard、Apple / Google / Samsung Pay、銀行送金などの一般的な支払方法に対応しています。トークンは MetaMask アカウントに入金されます。"
+    "message": "MoonPay は 145 か国以上で、Visa、Mastercard、Apple / Google / Samsung Pay、銀行送金などの一般的な支払方法に対応しています。トークンは SatoMask アカウントに入金されます。"
   },
   "buyCryptoWithTransak": {
     "message": "Transak で $1 を購入",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak は、100 か国以上でクレジット・デビットカード、Apple Pay、MobiKwik、銀行送金 (場所による) に対応しています。$1 は MetaMask アカウントに直接入金されます。",
+    "message": "Transak は、100 か国以上でクレジット・デビットカード、Apple Pay、MobiKwik、銀行送金 (場所による) に対応しています。$1 は SatoMask アカウントに直接入金されます。",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Wyreで $1 を購入"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreを使用すると、デビット カードを使用して、$1 をMetaMaskアカウントに直接デポジットできます。"
+    "message": "Wyreを使用すると、デビット カードを使用して、$1 をSatoMaskアカウントに直接デポジットできます。"
   },
   "bytes": {
     "message": "バイト"
@@ -470,7 +470,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "ハードウェアウォレットに接続するには、MetaMaskをGoogle Chromeで使用する必要があります。"
+    "message": "ハードウェアウォレットに接続するには、SatoMaskをGoogle Chromeで使用する必要があります。"
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "ここをクリックして、WebHIDでLedgerを接続します",
@@ -549,7 +549,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "MetaMaskを使用して接続"
+    "message": "SatoMaskを使用して接続"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "このサイトに接続されているアカウントを$1個持っています。",
@@ -559,7 +559,7 @@
     "message": "このサイトに接続されているアカウントを1個持っています。"
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMaskはこのサイトに接続されていません。web3サイトに接続するには、そのサイトの接続ボタンをクリックしてください。"
+    "message": "SatoMaskはこのサイトに接続されていません。web3サイトに接続するには、そのサイトの接続ボタンをクリックしてください。"
   },
   "connectedSites": {
     "message": "接続済みのサイト"
@@ -754,7 +754,7 @@
     "message": "データ"
   },
   "dataBackupFoundInfo": {
-    "message": "一部のアカウントデータはMetaMaskの前回のインストール時にバックアップされました。これには、設定、連絡先、およびトークンが含まれている可能性があります。このデータを今すぐ復元しますか?"
+    "message": "一部のアカウントデータはSatoMaskの前回のインストール時にバックアップされました。これには、設定、連絡先、およびトークンが含まれている可能性があります。このデータを今すぐ復元しますか?"
   },
   "dataHex": {
     "message": "16進法"
@@ -1057,7 +1057,7 @@
     "message": "フレーズは絶対に誰にも教えないでください。"
   },
   "endOfFlowMessage5": {
-    "message": "フィッシングにご注意ください! MetaMaskがシークレットリカバリーフレーズをいきなり要求することは絶対にありません。"
+    "message": "フィッシングにご注意ください! SatoMaskがシークレットリカバリーフレーズをいきなり要求することは絶対にありません。"
   },
   "endOfFlowMessage6": {
     "message": "シークレットリカバリーフレーズを再度バックアップする場合は、[設定] -> [セキュリティ] でそれを見つけることができます。"
@@ -1067,7 +1067,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMaskはシークレットリカバリーフレーズを復元できません。"
+    "message": "SatoMaskはシークレットリカバリーフレーズを復元できません。"
   },
   "endOfFlowMessage9": {
     "message": "詳細。"
@@ -1125,7 +1125,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMaskにエラーが発生しました",
+    "message": "SatoMaskにエラーが発生しました",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1219,10 +1219,10 @@
   },
   "flaskWelcomeWarning2": {
     "message": "この拡張機能の安全性や安定性は保証されていません。Flask で提供される新しい API はフィッシング攻撃への対策ができていないため、Flask を必要とするサイトまたはスナップは、アセットの盗難を目的とした悪質なものである可能性があります。",
-    "description": "This explains the risks of using MetaMask Flask"
+    "description": "This explains the risks of using SatoMask Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Flask API はすべて実験的なものです。これらは通知なしに変更または削除される可能性があり、安定した MetaMask に移行することなく永久に Flask に残る可能性もあります。自己責任でご使用ください。",
+    "message": "Flask API はすべて実験的なものです。これらは通知なしに変更または削除される可能性があり、安定した SatoMask に移行することなく永久に Flask に残る可能性もあります。自己責任でご使用ください。",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarningAcceptButton": {
@@ -1404,7 +1404,7 @@
     "message": "ハードウェアウォレットを接続"
   },
   "hardwareWalletsMsg": {
-    "message": "MetaMaskに接続するハードウェアウォレットを選択してください。"
+    "message": "SatoMaskに接続するハードウェアウォレットを選択してください。"
   },
   "here": {
     "message": "こちら",
@@ -1456,7 +1456,7 @@
     "message": "アカウントのインポート中にエラーが発生しました。"
   },
   "importAccountMsg": {
-    "message": " インポートされたアカウントは、最初に作成したMetaMaskアカウントのシークレットリカバリーフレーズと関連付けられません。インポートされたアカウントの詳細を表示"
+    "message": " インポートされたアカウントは、最初に作成したSatoMaskアカウントのシークレットリカバリーフレーズと関連付けられません。インポートされたアカウントの詳細を表示"
   },
   "importAccountSeedPhrase": {
     "message": "シークレットリカバリーフレーズを使用してウォレットをインポート"
@@ -1502,7 +1502,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMaskがブロックチェーンのホストに接続できません。考えられる理由$1を確認してください。",
+    "message": "SatoMaskがブロックチェーンのホストに接続できません。考えられる理由$1を確認してください。",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1656,7 +1656,7 @@
     "message": "Ledger Liveアプリを開いてロックを解除してください"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "LedgerをMetaMaskに接続する方法をカスタマイズします。$1が推奨されますが、他のオプションも利用できます。詳細はこちらをご覧ください: $2",
+    "message": "LedgerをSatoMaskに接続する方法をカスタマイズします。$1が推奨されますが、他のオプションも利用できます。詳細はこちらをご覧ください: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1664,7 +1664,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to MetaMask."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to SatoMask."
   },
   "ledgerLiveApp": {
     "message": "Ledger Liveアプリ"
@@ -1783,7 +1783,7 @@
     "message": "メッセージ"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "アカウントの接続をMetaMaskでさらに制御できるようになりました。"
+    "message": "アカウントの接続をSatoMaskでさらに制御できるようになりました。"
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "接続されているアカウントを管理するには、これをクリックします。"
@@ -1795,10 +1795,10 @@
     "message": "イーサリアムと分散型Webに接続しています。"
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swapsはメンテナンス中です。後でもう一度確認してください。"
+    "message": "SatoMask Swapsはメンテナンス中です。後でもう一度確認してください。"
   },
   "metamaskVersion": {
-    "message": "MetaMaskのバージョン"
+    "message": "SatoMaskのバージョン"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "いつでも設定からオプトアウトできるようにします"
@@ -1811,7 +1811,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMaskが実行する内容"
+    "message": "SatoMaskが実行する内容"
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集されることはありません"
@@ -1838,16 +1838,16 @@
     "message": "匿名化されたクリック・ページビューイベントを送信します"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "MetaMaskの品質向上へのご協力のお願い"
+    "message": "SatoMaskの品質向上へのご協力のお願い"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMaskでは、ユーザーによる拡張機能の利用状況についてよりよく理解するため、基本的な使用状況データを収集させていただきたいと考えています。このデータは、当社の製品およびイーサリアムエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
+    "message": "SatoMaskでは、ユーザーによる拡張機能の利用状況についてよりよく理解するため、基本的な使用状況データを収集させていただきたいと考えています。このデータは、当社の製品およびイーサリアムエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
   },
   "metametricsOptInDescription2": {
     "message": "弊社の製品をより使いやすくするために、基本的な使用データを収集したいと考えています. これらの指標は..."
   },
   "metametricsTitle": {
-    "message": "6百万人以上のユーザーと共に、MetaMaskの改善にご協力ください"
+    "message": "6百万人以上のユーザーと共に、SatoMaskの改善にご協力ください"
   },
   "mismatchedChain": {
     "message": "このチェーンIDのネットワーク詳細が、レコードと一致しません。続行する前に$1をお勧めします。",
@@ -1870,7 +1870,7 @@
     "message": "トークンが見当たりませんか？"
   },
   "mobileSyncWarning": {
-    "message": "「拡張機能と同期」機能は一時的に無効になっています。拡張ウォレットをMetaMaskモバイルで使用する場合は、モバイルアプリでウォレットの設定オプションに戻り、「シークレットリカバリーフレーズでインポート」オプションを選択します。拡張ウォレットのシークレットフレーズを使用して、ウォレットをモバイルにインポートします。"
+    "message": "「拡張機能と同期」機能は一時的に無効になっています。拡張ウォレットをSatoMaskモバイルで使用する場合は、モバイルアプリでウォレットの設定オプションに戻り、「シークレットリカバリーフレーズでインポート」オプションを選択します。拡張ウォレットのシークレットフレーズを使用して、ウォレットをモバイルにインポートします。"
   },
   "mustSelectOne": {
     "message": "トークンを1つ以上選択する必要があります。"
@@ -1882,7 +1882,7 @@
     "message": "名前"
   },
   "needCryptoInWallet": {
-    "message": "MetaMask で分散型アプリケーションとやり取りするには、ウォレットに $1 が必要です。",
+    "message": "SatoMask で分散型アプリケーションとやり取りするには、ウォレットに $1 が必要です。",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1893,7 +1893,7 @@
     "message": "フィードバックを提供"
   },
   "needHelpLinkText": {
-    "message": "MetaMaskサポート"
+    "message": "SatoMaskサポート"
   },
   "needHelpSubmitTicket": {
     "message": "チケットを送信"
@@ -1987,7 +1987,7 @@
     "message": "新しいコントラクト"
   },
   "newNFTDetectedMessage": {
-    "message": "Opensea からの NFT の自動検出とウォレットへの表示をMetaMask に許可してください。"
+    "message": "Opensea からの NFT の自動検出とウォレットへの表示をSatoMask に許可してください。"
   },
   "newNFTsDetected": {
     "message": "新機能! NFT検出"
@@ -1999,7 +1999,7 @@
     "message": "新しいパスワード (最低8文字)"
   },
   "newToMetaMask": {
-    "message": "MetaMaskを初めてご利用の場合"
+    "message": "SatoMaskを初めてご利用の場合"
   },
   "newTotal": {
     "message": "新しい総額"
@@ -2015,7 +2015,7 @@
   },
   "nextNonceWarning": {
     "message": "ナンスが提案され$1よりも大きいです",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "nftTokenIdPlaceholder": {
     "message": "コレクティブルIDを入力してください"
@@ -2115,19 +2115,19 @@
     "message": "いつダークモードに？今ダークモードです！🕶️🦊"
   },
   "notifications1Description": {
-    "message": "MetaMask Mobileのユーザーが、モバイルウォレット内でトークンを交換できるようになりました。QRコードをスキャンしてモバイルアプリを取得し、スワップを開始します。",
+    "message": "SatoMask Mobileのユーザーが、モバイルウォレット内でトークンを交換できるようになりました。QRコードをスキャンしてモバイルアプリを取得し、スワップを開始します。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "モバイルでのスワッピングが可能になりました!\n",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use SatoMask Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "続きを表示",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "MetaMaskの最新のセキュリティベストプラクティスについて学び、MetaMaskの公式サポートから最新のセキュリティ情報を入手してください。",
+    "message": "SatoMaskの最新のセキュリティベストプラクティスについて学び、SatoMaskの公式サポートから最新のセキュリティ情報を入手してください。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2139,7 +2139,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "ウォレットのトークンのスワップに最高の価格をご利用ください。MetaMaskで、Binance Smart Chainの複数の分散型エクスチェンジアグリゲーターや専門のマーケットメーカーと接続できるようになりました。",
+    "message": "ウォレットのトークンのスワップに最高の価格をご利用ください。SatoMaskで、Binance Smart Chainの複数の分散型エクスチェンジアグリゲーターや専門のマーケットメーカーと接続できるようになりました。",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2151,11 +2151,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Chromeバージョン91以降は、Ledgerのサポートを可能にしていたAPI (U2F) がハードウェアウォレットをサポートしなくなります。MetaMaskでは、ユーザーがLedger Liveのデスクトップアプリを介してLedgerデバイスに継続的に接続できる、新しいLedger Liveサポートを導入しました。",
+    "message": "Chromeバージョン91以降は、Ledgerのサポートを可能にしていたAPI (U2F) がハードウェアウォレットをサポートしなくなります。SatoMaskでは、ユーザーがLedger Liveのデスクトップアプリを介してLedgerデバイスに継続的に接続できる、新しいLedger Liveサポートを導入しました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "MetaMaskでLedgerアカウントを使用する際は、新しいタブが開き、Ledger Liveアプリを開くよう指示されます。アプリが開いたら、MetaMaskアカウントへのWebSocket接続を許可するよう指示されます。以上です。",
+    "message": "SatoMaskでLedgerアカウントを使用する際は、新しいタブが開き、Ledger Liveアプリを開くよう指示されます。アプリが開いたら、SatoMaskアカウントへのWebSocket接続を許可するよう指示されます。以上です。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2167,7 +2167,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "MetaMask v10.1.0には、Ledgerデバイスを使用時のEIP-1559トランザクションのサポートが新たに追加されました。",
+    "message": "SatoMask v10.1.0には、Ledgerデバイスを使用時のEIP-1559トランザクションのサポートが新たに追加されました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2183,7 +2183,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced Settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "MetaMask v10.4.0以降では、LedgerデバイスのMetaMaskへの接続にLedger Liveが不要になりました。",
+    "message": "SatoMask v10.4.0以降では、LedgerデバイスのSatoMaskへの接続にLedger Liveが不要になりました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2244,16 +2244,16 @@
     "message": "ブラウザの拡張機能アイコンをクリックします"
   },
   "onboardingPinExtensionDescription": {
-    "message": "MetaMaskをブラウザにピン留めすることで、アクセスしやすくなり、トランザクションの確認を簡単に表示できるようになります。"
+    "message": "SatoMaskをブラウザにピン留めすることで、アクセスしやすくなり、トランザクションの確認を簡単に表示できるようになります。"
   },
   "onboardingPinExtensionDescription2": {
-    "message": "拡張機能をクリックしてMetaMaskを開き、ワンクリックでウォレットにアクセスできます。"
+    "message": "拡張機能をクリックしてSatoMaskを開き、ワンクリックでウォレットにアクセスできます。"
   },
   "onboardingPinExtensionDescription3": {
     "message": "ブラウザの拡張機能アイコンをクリックすると、すぐにアクセスできます"
   },
   "onboardingPinExtensionLabel": {
-    "message": "MetaMaskをピン留めする"
+    "message": "SatoMaskをピン留めする"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2262,7 +2262,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "MetaMaskのインストールが完了しました!"
+    "message": "SatoMaskのインストールが完了しました!"
   },
   "onboardingReturnNotice": {
     "message": "「$1」はこのタブを閉じます。$2に戻ってください。",
@@ -2283,8 +2283,8 @@
     "message": "信頼するサイトにのみ接続してください。"
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "WebHIDでLedgerを接続するには、MetaMaskを全画面モードで開いてください。",
-    "description": "Shown to the user on the confirm screen when they are viewing MetaMask in a popup window but need to connect their ledger via webhid."
+    "message": "WebHIDでLedgerを接続するには、SatoMaskを全画面モードで開いてください。",
+    "description": "Shown to the user on the confirm screen when they are viewing SatoMask in a popup window but need to connect their ledger via webhid."
   },
   "openSourceCode": {
     "message": "ソースコードを確認"
@@ -2308,7 +2308,7 @@
     "message": "MetaMetricsに参加"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMetricsに参加して、MetaMaskの改善にご協力ください"
+    "message": "MetaMetricsに参加して、SatoMaskの改善にご協力ください"
   },
   "password": {
     "message": "パスワード"
@@ -2317,7 +2317,7 @@
     "message": "パスワードの長さが足りません"
   },
   "passwordSetupDetails": {
-    "message": "このパスワードは、このデバイスでのみMetaMaskウォレットのロックを解除します。MetaMaskはこのパスワードを復元できません。"
+    "message": "このパスワードは、このデバイスでのみSatoMaskウォレットのロックを解除します。SatoMaskはこのパスワードを復元できません。"
   },
   "passwordStrength": {
     "message": "パスワードの強度: $1",
@@ -2327,7 +2327,7 @@
     "message": "強力なパスワードは、デバイスが盗まれたり侵入されたりした場合に、ウォレットのセキュリティを高めます。"
   },
   "passwordTermsWarning": {
-    "message": "私はMetaMaskがこのパスワードを復元できないことを理解しています。$1"
+    "message": "私はSatoMaskがこのパスワードを復元できないことを理解しています。$1"
   },
   "passwordsDontMatch": {
     "message": "パスワードが一致しません"
@@ -2364,7 +2364,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "MetaMask に確認を表示します。",
+    "message": "SatoMask に確認を表示します。",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2490,7 +2490,7 @@
     "message": "シークレットリカバリーフレーズは誰とも決して共有しないでください"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "MetaMaskチームが、ユーザーのシークレットリカバリーフレーズを確認することは絶対にありません"
+    "message": "SatoMaskチームが、ユーザーのシークレットリカバリーフレーズを確認することは絶対にありません"
   },
   "recoveryPhraseReminderSubText": {
     "message": "シークレットリカバリーフレーズは、ご利用のすべてのアカウントを制御します。"
@@ -2566,7 +2566,7 @@
     "message": "ウォレットのリセット"
   },
   "resetWalletSubHeader": {
-    "message": "MetaMask はパスワードのコピーを保管しません。アカウントのロックを解除できない場合は、ウォレットをリセットする必要があります。これは、ウォレットのセットアップ時に使用した秘密のリカバリーフレーズを入力することで行えます。"
+    "message": "SatoMask はパスワードのコピーを保管しません。アカウントのロックを解除できない場合は、ウォレットをリセットする必要があります。これは、ウォレットのセットアップ時に使用した秘密のリカバリーフレーズを入力することで行えます。"
   },
   "resetWalletUsingSRP": {
     "message": "この操作により、このデバイスから現在のウォレットと秘密のリカバリーフレーズ、および作成されたアカウントのリストが削除されます。秘密のリカバリーフレーズでリセットすると、リセットに使用された秘密のリカバリーフレーズに基づくアカウントのリストが表示されます。この新しいリストには、残高のあるアカウントが自動的に含まれます。また、以前作成された$1をすることもできます。インポートしたカスタムアカウントは$2である必要があり、アカウントに追加されたカスタムトークンも$3である必要があります。"
@@ -2693,7 +2693,7 @@
     "message": "誰かにリカバリーフレーズを尋ねられたら、騙そうとしている可能性が高いです。"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "シークレットリカバリ フレーズはMetaMaskを含め、決して誰とも共有しないでください!"
+    "message": "シークレットリカバリ フレーズはSatoMaskを含め、決して誰とも共有しないでください!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "シークレットリカバリーフレーズとは何ですか?"
@@ -2732,7 +2732,7 @@
     "message": "アカウントを選択してください"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "このアカウントはすでにMetaMaskに接続されています"
+    "message": "このアカウントはすでにSatoMaskに接続されています"
   },
   "selectEachPhrase": {
     "message": "各フレーズを選択して、正しいことを確認してください。"
@@ -2779,7 +2779,7 @@
     "message": "高度なプライバシー設定を設定"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "MetaMaskはこれらの信頼できるサードパーティーサービスを使用して、製品の使いやすさと安全性を向上させています。"
+    "message": "SatoMaskはこれらの信頼できるサードパーティーサービスを使用して、製品の使いやすさと安全性を向上させています。"
   },
   "settings": {
     "message": "設定"
@@ -2986,7 +2986,7 @@
     "message": "ステータスログの取得中にエラーが発生しました。"
   },
   "stateLogFileName": {
-    "message": "MetaMaskステータスログ"
+    "message": "SatoMaskステータスログ"
   },
   "stateLogs": {
     "message": "ステータスログ"
@@ -3007,7 +3007,7 @@
     "message": "Lattice1の接続準備ができていることを確認してください"
   },
   "step1LatticeWalletMsg": {
-    "message": "セットアップが完了しオンラインになると、MetaMaskをLattice1デバイスに接続できます。デバイスのロックを解除し、デバイスIDを準備してください。ハードウェアウォレットの使用に関する詳細は、$1",
+    "message": "セットアップが完了しオンラインになると、SatoMaskをLattice1デバイスに接続できます。デバイスのロックを解除し、デバイスIDを準備してください。ハードウェアウォレットの使用に関する詳細は、$1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3062,7 +3062,7 @@
     "message": "もう一度スワップをお試しください。次回は同様のリスクを避けられるようサポートします。"
   },
   "stxDescription": {
-    "message": "MetaMask Swaps がはるかに賢くなりました！スマートトランザクションを有効にすると、MetaMask がプログラムに従ってスワップを最適化できるようになるため、以下のようなメリットがあります。"
+    "message": "SatoMask Swaps がはるかに賢くなりました！スマートトランザクションを有効にすると、SatoMask がプログラムに従ってスワップを最適化できるようになるため、以下のようなメリットがあります。"
   },
   "stxErrorNotEnoughFunds": {
     "message": "スマートトランザクションに十分な資金がありません。"
@@ -3193,7 +3193,7 @@
     "message": "限度額を編集"
   },
   "swapEnableDescription": {
-    "message": "これは必須であり、MetaMaskに$1をスワップする許可を付与します。",
+    "message": "これは必須であり、SatoMaskに$1をスワップする許可を付与します。",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
@@ -3243,14 +3243,14 @@
     "message": "前の画面のガス料金は、この2つのトランザクションに分けられています。"
   },
   "swapGasFeesSummary": {
-    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーに支払われます。MetaMaskはガス代から利益を得ません。",
+    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーに支払われます。SatoMaskはガス代から利益を得ません。",
     "description": "$1 is the selected network, e.g. Ethereum or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "スリッページが非常に大きいです。"
   },
   "swapIncludesMMFee": {
-    "message": "$1%のMetaMask手数料が含まれています。",
+    "message": "$1%のSatoMask手数料が含まれています。",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3260,7 +3260,7 @@
     "message": "最大スリッページ"
   },
   "swapMetaMaskFee": {
-    "message": "MetaMask手数料"
+    "message": "SatoMask手数料"
   },
   "swapMetaMaskFeeDescription": {
     "message": "弊社は毎回最上位の流動性ソースから最良の価格を見つけます。$1%の手数料が自動的にこの見積もりに含まれます。",
@@ -3443,7 +3443,7 @@
     "message": "アクティビティに表示"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "これによりMetaMask内で選択されたネットワークが、以前に追加されたものに切り替わります。"
+    "message": "これによりSatoMask内で選択されたネットワークが、以前に追加されたものに切り替わります。"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "このサイトによるネットワークの切り替えを許可しますか?"
@@ -3479,16 +3479,16 @@
     "message": "このコードをスキャンするとき、画面を誰にも見られていないことを確認してください"
   },
   "syncWithMobileComplete": {
-    "message": "データの同期に成功しました。MetaMaskモバイルアプリをご活用ください!"
+    "message": "データの同期に成功しました。SatoMaskモバイルアプリをご活用ください!"
   },
   "syncWithMobileDesc": {
-    "message": "アカウントと情報を、モバイルデバイスと同期させることができます。MetaMaskモバイルアプリを開き、「設定」に進み、「ブラウザ拡張機能から同期」をタップします。"
+    "message": "アカウントと情報を、モバイルデバイスと同期させることができます。SatoMaskモバイルアプリを開き、「設定」に進み、「ブラウザ拡張機能から同期」をタップします。"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "MetaMaskモバイルアプリを初めて開く場合は、スマートフォンを以下のステップに従って操作してください。"
+    "message": "SatoMaskモバイルアプリを初めて開く場合は、スマートフォンを以下のステップに従って操作してください。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "MetaMaskモバイルアプリでこのコードをスキャンします"
+    "message": "SatoMaskモバイルアプリでこのコードをスキャンします"
   },
   "syncWithMobileTitle": {
     "message": "モバイルと同期"
@@ -3521,7 +3521,7 @@
     "message": "テーマ"
   },
   "themeDescription": {
-    "message": "ご希望の MetaMask テーマを選択してください。"
+    "message": "ご希望の SatoMask テーマを選択してください。"
   },
   "thisWillCreate": {
     "message": "これにより、新しいウォレットとシークレットリカバリーフレーズが作成されます"
@@ -3622,7 +3622,7 @@
     "message": "サイトが提案されました"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "最新のブロックに基づくMetaMaskの推奨ガス代を使用するように編集します。"
+    "message": "最新のブロックに基づくSatoMaskの推奨ガス代を使用するように編集します。"
   },
   "transactionDetailGasHeading": {
     "message": "ガス代見積もり"
@@ -3637,7 +3637,7 @@
     "message": "ガス代はネットワークにより設定され、ネットワークトラフィックとトランザクションの複雑さに基づき変動します。"
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーにに支払われます。MetaMaskはガス代から利益を得ません。"
+    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーにに支払われます。SatoMaskはガス代から利益を得ません。"
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "金額 + ガス代"
@@ -3726,11 +3726,11 @@
     "message": "現時点ではこのコントラクトでトランザクションインサイトはサポートされていません。"
   },
   "typePassword": {
-    "message": "MetaMaskパスワードを入力してください"
+    "message": "SatoMaskパスワードを入力してください"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect MetaMask to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect SatoMask to Ledger devices."
   },
   "unapproved": {
     "message": "未承認"
@@ -3805,7 +3805,7 @@
     "message": "トークン検出を使用"
   },
   "useTokenDetectionDescription": {
-    "message": "弊社はユーザーのウォレットに送信された新しいトークンを検出して表示するために、サードパーティーAPIを使用します。MetaMaskにこれらのサービスからデータを取得させたくない場合は、この機能をオフにしてください。"
+    "message": "弊社はユーザーのウォレットに送信された新しいトークンを検出して表示するために、サードパーティーAPIを使用します。SatoMaskにこれらのサービスからデータを取得させたくない場合は、この機能をオフにしてください。"
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "アカウントに送られたトークンを自動的に表示するには、サードパーティーサーバーと通信し、トークンの画像を取得する必要があります。これらのサーバーはユーザーの IP アドレスにアクセスできます。"
@@ -3871,10 +3871,10 @@
     "message": "ウォレットが正常に保護されました。シークレットリカバリーフレーズを安全かつ機密に保管してください。これはユーザーの責任です!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "MetaMaskはシークレットリカバリーフレーズを復元できません。"
+    "message": "SatoMaskはシークレットリカバリーフレーズを復元できません。"
   },
   "walletCreationSuccessReminder2": {
-    "message": "MetaMaskがユーザーのシークレットリカバリーフレーズを確認することは絶対にありません。"
+    "message": "SatoMaskがユーザーのシークレットリカバリーフレーズを確認することは絶対にありません。"
   },
   "walletCreationSuccessReminder3": {
     "message": "誰に対しても$1。資金が盗まれる恐れがあります",
@@ -3899,7 +3899,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "MetaMaskにようこそ"
+    "message": "SatoMaskにようこそ"
   },
   "welcomeBack": {
     "message": "ようこそ!"
@@ -3911,7 +3911,7 @@
     "message": "分散型アプリを閲覧"
   },
   "welcomeLoginDescription": {
-    "message": "MetaMaskを使用して分散型アプリにログイン。サインアップは不要です。"
+    "message": "SatoMaskを使用して分散型アプリにログイン。サインアップは不要です。"
   },
   "welcomeLoginTitle": {
     "message": "ウォレットにようこそ"
@@ -3920,11 +3920,11 @@
     "message": "始めましょう"
   },
   "welcomeToMetaMaskIntro": {
-    "message": "MetaMaskは何百万人もに信頼されている安全なウォレットで、すべての人々によるWeb3の世界へのアクセスを可能にしています。"
+    "message": "SatoMaskは何百万人もに信頼されている安全なウォレットで、すべての人々によるWeb3の世界へのアクセスを可能にしています。"
   },
   "whatsNew": {
     "message": "新機能",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to SatoMask."
   },
   "whatsThis": {
     "message": "これは何ですか?"

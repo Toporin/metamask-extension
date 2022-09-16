@@ -109,7 +109,7 @@
     "message": "Thêm tên riêng"
   },
   "addAcquiredTokens": {
-    "message": "Thêm token mà bạn đã mua bằng MetaMask"
+    "message": "Thêm token mà bạn đã mua bằng SatoMask"
   },
   "addAlias": {
     "message": "Thêm biệt danh"
@@ -125,10 +125,10 @@
     "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Thao tác này sẽ cho phép sử dụng mạng này trong MetaMask."
+    "message": "Thao tác này sẽ cho phép sử dụng mạng này trong SatoMask."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask không xác minh mạng tùy chỉnh."
+    "message": "SatoMask không xác minh mạng tùy chỉnh."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Tìm hiểu về $1.",
@@ -238,15 +238,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -305,7 +305,7 @@
     "message": "Hẹn giờ tự động khóa (phút)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Đặt khoảng thời gian không hoạt động tính bằng phút trước khi MetaMask khóa."
+    "message": "Đặt khoảng thời gian không hoạt động tính bằng phút trước khi SatoMask khóa."
   },
   "average": {
     "message": "Trung bình"
@@ -317,7 +317,7 @@
     "message": "Quay lại toàn bộ danh sách"
   },
   "backupApprovalInfo": {
-    "message": "Đây là mã bí mật bắt buộc phải dùng để khôi phục ví trong trường hợp bạn bị mất thiết bị, quên mật khẩu, phải cài đặt lại MetaMask hoặc muốn truy cập ví của mình trên một thiết bị khác."
+    "message": "Đây là mã bí mật bắt buộc phải dùng để khôi phục ví trong trường hợp bạn bị mất thiết bị, quên mật khẩu, phải cài đặt lại SatoMask hoặc muốn truy cập ví của mình trên một thiết bị khác."
   },
   "backupApprovalNotice": {
     "message": "Sao lưu Cụm mật khẩu khôi phục bí mật để đảm bảo an toàn cho ví và tiền của bạn."
@@ -338,10 +338,10 @@
     "message": "Cơ bản"
   },
   "betaMetamaskDescription": {
-    "message": "Được hàng triệu người tin dùng, MetaMask là một ví an toàn cho phép mọi người có thể truy cập vào thế giới web3."
+    "message": "Được hàng triệu người tin dùng, SatoMask là một ví an toàn cho phép mọi người có thể truy cập vào thế giới web3."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Sử dụng phiên bản này để thử nghiệm các tính năng sắp ra mắt trước khi chúng được phát hành. Việc sử dụng và phản hồi của bạn sẽ giúp chúng tôi xây dựng phiên bản MetaMask tốt nhất có thể. Việc bạn sử dụng MetaMask Beta phải tuân theo $1 tiêu chuẩn cũng như $2 của chúng tôi. Vì đây là phiên bản Beta, nguy cơ xuất hiện lỗi sẽ nhiều hơn bình thường. Bằng cách tiếp tục, bạn chấp nhận và thừa nhận những nguy cơ này, cũng như những nguy cơ theo Điều Khoản Beta và Điều Khoản của chúng tôi.",
+    "message": "Sử dụng phiên bản này để thử nghiệm các tính năng sắp ra mắt trước khi chúng được phát hành. Việc sử dụng và phản hồi của bạn sẽ giúp chúng tôi xây dựng phiên bản SatoMask tốt nhất có thể. Việc bạn sử dụng SatoMask Beta phải tuân theo $1 tiêu chuẩn cũng như $2 của chúng tôi. Vì đây là phiên bản Beta, nguy cơ xuất hiện lỗi sẽ nhiều hơn bình thường. Bằng cách tiếp tục, bạn chấp nhận và thừa nhận những nguy cơ này, cũng như những nguy cơ theo Điều Khoản Beta và Điều Khoản của chúng tôi.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -351,10 +351,10 @@
     "message": "Điều khoản"
   },
   "betaMetamaskVersion": {
-    "message": "Phiên Bản MetaMask Beta"
+    "message": "Phiên Bản SatoMask Beta"
   },
   "betaWelcome": {
-    "message": "Chào mừng đến với MetaMask Beta"
+    "message": "Chào mừng đến với SatoMask Beta"
   },
   "blockExplorerAccountAction": {
     "message": "Tài khoản",
@@ -388,7 +388,7 @@
     "message": "Xây dựng danh sách liên hệ của bạn"
   },
   "builtAroundTheWorld": {
-    "message": "MetaMask được thiết kế và xây dựng trên khắp thế giới."
+    "message": "SatoMask được thiết kế và xây dựng trên khắp thế giới."
   },
   "busy": {
     "message": "Đang bận"
@@ -405,21 +405,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay hỗ trợ các phương thức thanh toán phổ biến, bao gồm Visa, Mastercard, Apple / Google / Samsung Pay và chuyển khoản ngân hàng tại hơn 145 quốc gia. Nạp token vào tài khoản MetaMask của bạn."
+    "message": "MoonPay hỗ trợ các phương thức thanh toán phổ biến, bao gồm Visa, Mastercard, Apple / Google / Samsung Pay và chuyển khoản ngân hàng tại hơn 145 quốc gia. Nạp token vào tài khoản SatoMask của bạn."
   },
   "buyCryptoWithTransak": {
     "message": "Mua $1 bằng Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak hỗ trợ thẻ tín dụng và ghi nợ, Apple Pay, MobiKwik và chuyển khoản ngân hàng (tùy thuộc vào vị trí) tại hơn 100 quốc gia. Nạp trực tiếp $1 vào tài khoản MetaMask của bạn.",
+    "message": "Transak hỗ trợ thẻ tín dụng và ghi nợ, Apple Pay, MobiKwik và chuyển khoản ngân hàng (tùy thuộc vào vị trí) tại hơn 100 quốc gia. Nạp trực tiếp $1 vào tài khoản SatoMask của bạn.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Mua $1 qua Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre cho phép bạn dùng thẻ ghi nợ để nạp $1 trực tiếp vào tài khoản MetaMask của mình."
+    "message": "Wyre cho phép bạn dùng thẻ ghi nợ để nạp $1 trực tiếp vào tài khoản SatoMask của mình."
   },
   "bytes": {
     "message": "Byte"
@@ -470,7 +470,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Bạn cần sử dụng MetaMask trên Google Chrome để kết nối với Ví cứng của bạn."
+    "message": "Bạn cần sử dụng SatoMask trên Google Chrome để kết nối với Ví cứng của bạn."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Nhấn vào đây để kết nối với thiết bị Ledger của bạn qua WebHID",
@@ -549,7 +549,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Kết nối với MetaMask"
+    "message": "Kết nối với SatoMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Bạn có $1 tài khoản kết nối với trang web này.",
@@ -559,7 +559,7 @@
     "message": "Bạn có 1 tài khoản kết nối với trang web này."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask chưa kết nối với trang web này. Để kết nối với một trang web trên web3, hãy tìm nút kết nối trên trang web của họ."
+    "message": "SatoMask chưa kết nối với trang web này. Để kết nối với một trang web trên web3, hãy tìm nút kết nối trên trang web của họ."
   },
   "connectedSites": {
     "message": "Trang web đã kết nối"
@@ -631,7 +631,7 @@
     "message": "Tương tác với hợp đồng"
   },
   "convertTokenToNFTDescription": {
-    "message": "Chúng tôi phát hiện tài sản này là một NFT. MetaMask hiện đã hỗ trợ gốc đầy đủ cho NFT. Bạn có muốn xóa tài sản khỏi danh sách token và thêm tài sản dưới dạng NFT không?"
+    "message": "Chúng tôi phát hiện tài sản này là một NFT. SatoMask hiện đã hỗ trợ gốc đầy đủ cho NFT. Bạn có muốn xóa tài sản khỏi danh sách token và thêm tài sản dưới dạng NFT không?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Chúng tôi phát hiện tài sản này đã được thêm dưới dạng NFT. Bạn có muốn xóa tài sản khỏi danh sách token không?"
@@ -754,7 +754,7 @@
     "message": "Dữ liệu"
   },
   "dataBackupFoundInfo": {
-    "message": "Một số dữ liệu tài khoản của bạn đã được sao lưu trong lần cài đặt MetaMask trước đó. Dữ liệu này có thể bao gồm các tùy chọn cài đặt, danh bạ và token. Bạn có muốn khôi phục dữ liệu này bây giờ không?"
+    "message": "Một số dữ liệu tài khoản của bạn đã được sao lưu trong lần cài đặt SatoMask trước đó. Dữ liệu này có thể bao gồm các tùy chọn cài đặt, danh bạ và token. Bạn có muốn khôi phục dữ liệu này bây giờ không?"
   },
   "dataHex": {
     "message": "Thập lục phân"
@@ -1057,7 +1057,7 @@
     "message": "Tuyệt đối không chia sẻ cụm mật khẩu với bất kỳ ai."
   },
   "endOfFlowMessage5": {
-    "message": "Hãy cẩn thận với hành vi lừa đảo! MetaMask sẽ không bao giờ tự ý hỏi Cụm mật khẩu khôi phục bí mật của bạn."
+    "message": "Hãy cẩn thận với hành vi lừa đảo! SatoMask sẽ không bao giờ tự ý hỏi Cụm mật khẩu khôi phục bí mật của bạn."
   },
   "endOfFlowMessage6": {
     "message": "Nếu bạn cần sao lưu lại Cụm mật khẩu khôi phục bí mật, bạn có thể tìm thấy chức năng này trong phần Cài đặt -> Bảo mật."
@@ -1067,7 +1067,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask không thể khôi phục Cụm mật khẩu khôi phục bí mật của bạn."
+    "message": "SatoMask không thể khôi phục Cụm mật khẩu khôi phục bí mật của bạn."
   },
   "endOfFlowMessage9": {
     "message": "Tìm hiểu thêm."
@@ -1125,7 +1125,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask đã gặp lỗi",
+    "message": "SatoMask đã gặp lỗi",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1219,10 +1219,10 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Chúng tôi không đảm bảo tính an toàn hay ổn định của tiện ích mở rộng này. Các API mới do Flask cung cấp không đủ sức chống lại các cuộc tấn công lừa đảo, có nghĩa rằng bất kỳ trang web hay Snap nào yêu cầu truy cập vào Flask đều có thể mang mục đích xấu nhằm đánh cắp tài sản của bạn.",
-    "description": "This explains the risks of using MetaMask Flask"
+    "description": "This explains the risks of using SatoMask Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Tất cả các API của Flask đều là thử nghiệm. Chúng có thể bị thay đổi hoặc xóa mà không cần thông báo, hoặc chúng có thể ở trên Flask vô thời hạn mà không bao giờ được chuyển sang phiên bản MetaMask ổn định. Bạn phải tự chịu rủi ro khi sử dụng chúng.",
+    "message": "Tất cả các API của Flask đều là thử nghiệm. Chúng có thể bị thay đổi hoặc xóa mà không cần thông báo, hoặc chúng có thể ở trên Flask vô thời hạn mà không bao giờ được chuyển sang phiên bản SatoMask ổn định. Bạn phải tự chịu rủi ro khi sử dụng chúng.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarningAcceptButton": {
@@ -1404,7 +1404,7 @@
     "message": "Kết nối với một ví cứng"
   },
   "hardwareWalletsMsg": {
-    "message": "Chọn một ví cứng mà bạn muốn sử dụng với MetaMask."
+    "message": "Chọn một ví cứng mà bạn muốn sử dụng với SatoMask."
   },
   "here": {
     "message": "tại đây",
@@ -1456,7 +1456,7 @@
     "message": "Lỗi khi nhập tài khoản."
   },
   "importAccountMsg": {
-    "message": "Tài khoản đã nhập sẽ không được liên kết với Cụm mật khẩu khôi phục bí mật cho tài khoản MetaMask đã tạo ban đầu của bạn. Tìm hiểu thêm về các tài khoản đã nhập"
+    "message": "Tài khoản đã nhập sẽ không được liên kết với Cụm mật khẩu khôi phục bí mật cho tài khoản SatoMask đã tạo ban đầu của bạn. Tìm hiểu thêm về các tài khoản đã nhập"
   },
   "importAccountSeedPhrase": {
     "message": "Nhập một ví bằng Cụm mật khẩu khôi phục bí mật"
@@ -1502,7 +1502,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask không thể kết nối với máy chủ chuỗi khối. Hãy xem xét các lý do tiềm ẩn $1.",
+    "message": "SatoMask không thể kết nối với máy chủ chuỗi khối. Hãy xem xét các lý do tiềm ẩn $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1656,7 +1656,7 @@
     "message": "Mở và mở khóa Ứng Dụng Ledger Live"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Tùy chỉnh cách thức kết nối Ledger với MetaMask. Nên dùng $1, nhưng cũng có sẵn các tùy chọn khác. Đọc thêm tại đây: $2",
+    "message": "Tùy chỉnh cách thức kết nối Ledger với SatoMask. Nên dùng $1, nhưng cũng có sẵn các tùy chọn khác. Đọc thêm tại đây: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1664,7 +1664,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to MetaMask."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to SatoMask."
   },
   "ledgerLiveApp": {
     "message": "Ứng dụng Ledger Live"
@@ -1783,7 +1783,7 @@
     "message": "Thông báo"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Giờ đây, bạn có nhiều quyền kiểm soát hơn đối với các kết nối của tài khoản trong MetaMask."
+    "message": "Giờ đây, bạn có nhiều quyền kiểm soát hơn đối với các kết nối của tài khoản trong SatoMask."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Nhấn vào để quản lý các tài khoản đã kết nối của bạn."
@@ -1795,10 +1795,10 @@
     "message": "Kết nối bạn với Ethereum và trang Web phi tập trung."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Tính năng Hoán đổi trên MetaMask đang được bảo trì. Vui lòng kiểm tra lại sau."
+    "message": "Tính năng Hoán đổi trên SatoMask đang được bảo trì. Vui lòng kiểm tra lại sau."
   },
   "metamaskVersion": {
-    "message": "Phiên bản MetaMask"
+    "message": "Phiên bản SatoMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Luôn cho phép bạn chọn không tham gia thông qua phần Cài đặt"
@@ -1811,7 +1811,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask sẽ.."
+    "message": "SatoMask sẽ.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Không bao giờ thu thập mã khóa, địa chỉ, giao dịch, số dư, mã băm hoặc bất kỳ thông tin cá nhân nào"
@@ -1838,16 +1838,16 @@
     "message": "Gửi các lượt nhấn và xem trang đã được ẩn danh"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Giúp chúng tôi cải thiện MetaMask"
+    "message": "Giúp chúng tôi cải thiện SatoMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái Ethereum."
+    "message": "SatoMask muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái Ethereum."
   },
   "metametricsOptInDescription2": {
     "message": "Chúng tôi muốn thu thập dữ liệu sử dụng cơ bản để cải thiện mức độ hữu ích của sản phẩm. Các chỉ số này sẽ..."
   },
   "metametricsTitle": {
-    "message": "Tham gia cùng hơn 6 Triệu người dùng để cải thiện MetaMask"
+    "message": "Tham gia cùng hơn 6 Triệu người dùng để cải thiện SatoMask"
   },
   "mismatchedChain": {
     "message": "Thông tin về mạng cho mã chuỗi này không khớp với hồ sơ của chúng tôi. Bạn nên $1 trước khi tiếp tục.",
@@ -1870,7 +1870,7 @@
     "message": "Không thấy token của mình?"
   },
   "mobileSyncWarning": {
-    "message": "Tính năng 'Đồng bộ với tiện ích' tạm thời bị tắt. Nếu bạn muốn sử dụng ví tiện ích trên thiết bị di động MetaMask, thì trên ứng dụng di động: hãy quay lại các tùy chọn thiết lập ví và chọn phương án 'Nhập bằng Cụm Mật Khẩu Khôi Phục Bí Mật'. Sử dụng cụm mật khẩu bí mật của ví tiện ích để nhập ví của bạn vào thiết bị di động."
+    "message": "Tính năng 'Đồng bộ với tiện ích' tạm thời bị tắt. Nếu bạn muốn sử dụng ví tiện ích trên thiết bị di động SatoMask, thì trên ứng dụng di động: hãy quay lại các tùy chọn thiết lập ví và chọn phương án 'Nhập bằng Cụm Mật Khẩu Khôi Phục Bí Mật'. Sử dụng cụm mật khẩu bí mật của ví tiện ích để nhập ví của bạn vào thiết bị di động."
   },
   "mustSelectOne": {
     "message": "Phải chọn ít nhất 1 token."
@@ -1882,7 +1882,7 @@
     "message": "Tên"
   },
   "needCryptoInWallet": {
-    "message": "Để tương tác với các ứng dụng phi tập trung bằng MetaMask, bạn sẽ cần $1 trong ví.",
+    "message": "Để tương tác với các ứng dụng phi tập trung bằng SatoMask, bạn sẽ cần $1 trong ví.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1893,7 +1893,7 @@
     "message": "Chia sẻ Phản Hồi của bạn"
   },
   "needHelpLinkText": {
-    "message": "Hỗ trợ về MetaMask"
+    "message": "Hỗ trợ về SatoMask"
   },
   "needHelpSubmitTicket": {
     "message": "Gửi Phiếu"
@@ -1987,7 +1987,7 @@
     "message": "Hợp đồng mới"
   },
   "newNFTDetectedMessage": {
-    "message": "Cho phép MetaMask tự động phát hiện NFT từ OpenSea và hiển thị trên ví MetaMask của bạn."
+    "message": "Cho phép SatoMask tự động phát hiện NFT từ OpenSea và hiển thị trên ví SatoMask của bạn."
   },
   "newNFTsDetected": {
     "message": "Mới! Phát hiện NFT"
@@ -1999,7 +1999,7 @@
     "message": "Mật khẩu mới (tối thiểu 8 ký tự)"
   },
   "newToMetaMask": {
-    "message": "Bạn mới sử dụng MetaMask?"
+    "message": "Bạn mới sử dụng SatoMask?"
   },
   "newTotal": {
     "message": "Tổng mới"
@@ -2015,7 +2015,7 @@
   },
   "nextNonceWarning": {
     "message": "Số chỉ dùng một lần lớn hơn số chỉ dùng một lần gợi ý là $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "nftTokenIdPlaceholder": {
     "message": "Nhập ID bộ sưu tập"
@@ -2115,19 +2115,19 @@
     "message": "Dùng chế độ tối khi nào? Ngay bây giờ! 🕶️🦊"
   },
   "notifications1Description": {
-    "message": "Giờ đây, người dùng MetaMask trên điện thoại di động có thể hoán đổi token trong ví di động của họ. Quét mã QR để tải ứng dụng di động và bắt đầu hoán đổi.",
+    "message": "Giờ đây, người dùng SatoMask trên điện thoại di động có thể hoán đổi token trong ví di động của họ. Quét mã QR để tải ứng dụng di động và bắt đầu hoán đổi.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Tính năng hoán đổi trên điện thoại di động đã sẵn sàng!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use SatoMask Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Đọc thêm",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Luôn cập nhật các phương pháp bảo mật tốt nhất của MetaMask và nhận các mẹo mới nhất về bảo mật từ nhóm hỗ trợ chính thức của MetaMask.",
+    "message": "Luôn cập nhật các phương pháp bảo mật tốt nhất của SatoMask và nhận các mẹo mới nhất về bảo mật từ nhóm hỗ trợ chính thức của SatoMask.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2139,7 +2139,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Nhận giá hoán đổi token tốt nhất ngay trong ví của bạn. Giờ đây, MetaMask sẽ kết nối bạn với nhiều trình tổng hợp sàn giao dịch phi tập trung và nhà tạo lập thị trường chuyên nghiệp trên Binance Smart Chain.",
+    "message": "Nhận giá hoán đổi token tốt nhất ngay trong ví của bạn. Giờ đây, SatoMask sẽ kết nối bạn với nhiều trình tổng hợp sàn giao dịch phi tập trung và nhà tạo lập thị trường chuyên nghiệp trên Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2151,11 +2151,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Kể từ phiên bản Chrome 91, API từng cho phép hỗ trợ Ledger (U2F) của chúng tôi không còn hỗ trợ ví cứng nữa. MetaMask đã triển khai một tính năng hỗ trợ Ledger Live mới cho phép bạn tiếp tục kết nối với thiết bị Ledger của mình thông qua ứng dụng Ledger Live trên máy tính.",
+    "message": "Kể từ phiên bản Chrome 91, API từng cho phép hỗ trợ Ledger (U2F) của chúng tôi không còn hỗ trợ ví cứng nữa. SatoMask đã triển khai một tính năng hỗ trợ Ledger Live mới cho phép bạn tiếp tục kết nối với thiết bị Ledger của mình thông qua ứng dụng Ledger Live trên máy tính.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "Khi tương tác với tài khoản Ledger của bạn trong MetaMask, một tab mới sẽ mở ra và bạn sẽ được yêu cầu mở ứng dụng Ledger Live.  Khi ứng dụng này mở ra, bạn sẽ được yêu cầu cho phép kết nối WebSocket với tài khoản MetaMask của mình.  Đơn giản vậy thôi!",
+    "message": "Khi tương tác với tài khoản Ledger của bạn trong SatoMask, một tab mới sẽ mở ra và bạn sẽ được yêu cầu mở ứng dụng Ledger Live.  Khi ứng dụng này mở ra, bạn sẽ được yêu cầu cho phép kết nối WebSocket với tài khoản SatoMask của mình.  Đơn giản vậy thôi!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2167,7 +2167,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "MetaMask v10.1.0 bao gồm hỗ trợ mới cho các giao dịch EIP-1559 khi sử dụng thiết bị Ledger.",
+    "message": "SatoMask v10.1.0 bao gồm hỗ trợ mới cho các giao dịch EIP-1559 khi sử dụng thiết bị Ledger.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2183,7 +2183,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced Settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Kể từ phiên bản MetaMask v10.4.0, bạn không cần phần mềm Ledger Live để kết nối thiết bị Ledger của mình với MetaMask nữa.",
+    "message": "Kể từ phiên bản SatoMask v10.4.0, bạn không cần phần mềm Ledger Live để kết nối thiết bị Ledger của mình với SatoMask nữa.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2244,16 +2244,16 @@
     "message": "Nhấn vào biểu tượng tiện ích trên trình duyệt"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Ghim MetaMask trên trình duyệt để bạn có thể truy cập và dễ dàng xem các xác nhận giao dịch."
+    "message": "Ghim SatoMask trên trình duyệt để bạn có thể truy cập và dễ dàng xem các xác nhận giao dịch."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Bạn có thể mở MetaMask bằng cách nhấn vào tiện ích và truy cập ví của mình chỉ với 1 cú nhấp chuột."
+    "message": "Bạn có thể mở SatoMask bằng cách nhấn vào tiện ích và truy cập ví của mình chỉ với 1 cú nhấp chuột."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Nhấn vào biểu tượng tiện ích trên trình duyệt để truy cập tức thì"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Ghim MetaMask"
+    "message": "Ghim SatoMask"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2262,7 +2262,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Quá trình cài đặt MetaMask đã hoàn tất!"
+    "message": "Quá trình cài đặt SatoMask đã hoàn tất!"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" sẽ đóng tab này và quay về $2",
@@ -2283,8 +2283,8 @@
     "message": "Chỉ kết nối với các trang web mà bạn tin tưởng."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Mở MetaMask ở chế độ toàn màn hình để kết nối thiết bị Ledger của bạn qua WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing MetaMask in a popup window but need to connect their ledger via webhid."
+    "message": "Mở SatoMask ở chế độ toàn màn hình để kết nối thiết bị Ledger của bạn qua WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing SatoMask in a popup window but need to connect their ledger via webhid."
   },
   "openSourceCode": {
     "message": "Kiểm tra mã nguồn"
@@ -2308,7 +2308,7 @@
     "message": "Tham gia MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Tham gia MetaMetrics để giúp chúng tôi cải thiện MetaMask"
+    "message": "Tham gia MetaMetrics để giúp chúng tôi cải thiện SatoMask"
   },
   "password": {
     "message": "Mật khẩu"
@@ -2317,7 +2317,7 @@
     "message": "Mật khẩu không đủ dài"
   },
   "passwordSetupDetails": {
-    "message": "Mật khẩu này sẽ chỉ mở khóa ví MetaMask của bạn trên thiết bị này. MetaMask không thể khôi phục mật khẩu này."
+    "message": "Mật khẩu này sẽ chỉ mở khóa ví SatoMask của bạn trên thiết bị này. SatoMask không thể khôi phục mật khẩu này."
   },
   "passwordStrength": {
     "message": "Độ mạnh của mật khẩu: $1",
@@ -2327,7 +2327,7 @@
     "message": "Một mật khẩu mạnh có thể giúp tăng cường bảo mật cho ví nếu thiết bị của bạn bị đánh cắp hoặc xâm phạm."
   },
   "passwordTermsWarning": {
-    "message": "Tôi hiểu rằng MetaMask không thể khôi phục mật khẩu này cho tôi. $1"
+    "message": "Tôi hiểu rằng SatoMask không thể khôi phục mật khẩu này cho tôi. $1"
   },
   "passwordsDontMatch": {
     "message": "Mật khẩu không khớp"
@@ -2364,7 +2364,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Hiển thị xác nhận trong MetaMask.",
+    "message": "Hiển thị xác nhận trong SatoMask.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2490,7 +2490,7 @@
     "message": "Tuyệt đối không cho ai biết Cụm mật khẩu khôi phục bí mật"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Nhóm MetaMask sẽ không bao giờ hỏi Cụm mật khẩu khôi phục bí mật của bạn"
+    "message": "Nhóm SatoMask sẽ không bao giờ hỏi Cụm mật khẩu khôi phục bí mật của bạn"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Cụm mật khẩu khôi phục bí mật sẽ kiểm soát mọi thứ trong tài khoản của bạn."
@@ -2566,7 +2566,7 @@
     "message": "Đặt lại ví"
   },
   "resetWalletSubHeader": {
-    "message": "MetaMask không lưu giữ bản sao mật khẩu của bạn. Nếu bạn đang gặp sự cố khi mở khóa tài khoản, bạn sẽ cần đặt lại ví của mình. Bạn có thể thực hiện bằng cách cung cấp Cụm từ khôi phục bí mật mà bạn đã sử dụng khi thiết lập ví."
+    "message": "SatoMask không lưu giữ bản sao mật khẩu của bạn. Nếu bạn đang gặp sự cố khi mở khóa tài khoản, bạn sẽ cần đặt lại ví của mình. Bạn có thể thực hiện bằng cách cung cấp Cụm từ khôi phục bí mật mà bạn đã sử dụng khi thiết lập ví."
   },
   "resetWalletUsingSRP": {
     "message": "Hành động này sẽ xóa ví hiện tại và Cụm từ khôi phục bí mật khỏi thiết bị này, cùng với danh sách các tài khoản mà bạn quản lý. Sau khi đặt lại bằng Cụm từ khôi phục bí mật, bạn sẽ thấy danh sách các tài khoản dựa trên Cụm từ khôi phục bí mật mà bạn sử dụng để đặt lại. Danh sách mới này sẽ tự động bổ sung các tài khoản có số dư. Bạn cũng sẽ có thể $1 đã tạo trước đó. Các tài khoản tùy chỉnh mà bạn đã nhập sẽ cần $2, và mọi token tùy chỉnh mà bạn thêm vào tài khoản cũng sẽ cần $3."
@@ -2693,7 +2693,7 @@
     "message": "Nếu ai đó hỏi bạn cụm mật khẩu khôi phục bí mật, thì họ đang cố gắng lừa đảo và đánh cắp tiền trong ví của bạn"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Đừng bao giờ cho ai biết cụm mật khẩu khôi phục bí mật, kể cả MetaMask!"
+    "message": "Đừng bao giờ cho ai biết cụm mật khẩu khôi phục bí mật, kể cả SatoMask!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Cụm mật khẩu khôi phục bí mật là gì?"
@@ -2732,7 +2732,7 @@
     "message": "Chọn một tài khoản"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Tài khoản này đã được kết nối với MetaMask"
+    "message": "Tài khoản này đã được kết nối với SatoMask"
   },
   "selectEachPhrase": {
     "message": "Vui lòng chọn từng cụm mật khẩu theo thứ tự để đảm bảo sự chính xác."
@@ -2779,7 +2779,7 @@
     "message": "Thiết lập cài đặt quyền riêng tư nâng cao"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "MetaMask sử dụng các dịch vụ của bên thứ ba đáng tin cậy này để nâng cao sự hữu ích và an toàn của sản phẩm."
+    "message": "SatoMask sử dụng các dịch vụ của bên thứ ba đáng tin cậy này để nâng cao sự hữu ích và an toàn của sản phẩm."
   },
   "settings": {
     "message": "Cài đặt"
@@ -2986,7 +2986,7 @@
     "message": "Lỗi khi truy xuất nhật ký trạng thái."
   },
   "stateLogFileName": {
-    "message": "Nhật ký trạng thái của MetaMask"
+    "message": "Nhật ký trạng thái của SatoMask"
   },
   "stateLogs": {
     "message": "Nhật ký trạng thái"
@@ -3007,7 +3007,7 @@
     "message": "Đảm bảo Lattice1 của bạn đã sẵn sàng để kết nối"
   },
   "step1LatticeWalletMsg": {
-    "message": "Bạn có thể kết nối MetaMask với Lattice1 sau khi thiết bị đã được thiết lập và trực tuyến. Mở khóa thiết bị và chuẩn bị sẵn ID Thiết Bị. Để biết thêm về cách sử dụng ví cứng, $1",
+    "message": "Bạn có thể kết nối SatoMask với Lattice1 sau khi thiết bị đã được thiết lập và trực tuyến. Mở khóa thiết bị và chuẩn bị sẵn ID Thiết Bị. Để biết thêm về cách sử dụng ví cứng, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3062,7 +3062,7 @@
     "message": "Hãy thử hoán đổi lại. Chúng tôi ở đây để bảo vệ bạn trước những rủi ro tương tự trong lần tới."
   },
   "stxDescription": {
-    "message": "Tính năng Hoán đổi của MetaMask nay đã thông minh hơn rất nhiều! Kích hoạt Giao dịch thông minh sẽ cho phép MetaMask tối ưu quy trình Hoán đổi để giúp bạn:"
+    "message": "Tính năng Hoán đổi của SatoMask nay đã thông minh hơn rất nhiều! Kích hoạt Giao dịch thông minh sẽ cho phép SatoMask tối ưu quy trình Hoán đổi để giúp bạn:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Không có đủ tiền để thực hiện giao dịch thông minh."
@@ -3193,7 +3193,7 @@
     "message": "Chỉnh sửa giới hạn"
   },
   "swapEnableDescription": {
-    "message": "Thao tác này là bắt buộc và cấp cho MetaMask quyền hoán đổi $1 của bạn.",
+    "message": "Thao tác này là bắt buộc và cấp cho SatoMask quyền hoán đổi $1 của bạn.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
@@ -3243,14 +3243,14 @@
     "message": "Phí gas trên màn hình trước được chia đôi giữa hai giao dịch này."
   },
   "swapGasFeesSummary": {
-    "message": "Phí gas được trả cho thợ đào tiền điện tử, họ là những người xử lý các giao dịch trên mạng $1. MetaMask không thu lợi nhuận từ phí gas.",
+    "message": "Phí gas được trả cho thợ đào tiền điện tử, họ là những người xử lý các giao dịch trên mạng $1. SatoMask không thu lợi nhuận từ phí gas.",
     "description": "$1 is the selected network, e.g. Ethereum or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Số tiền trượt giá rất cao."
   },
   "swapIncludesMMFee": {
-    "message": "Bao gồm $1% phí của MetaMask.",
+    "message": "Bao gồm $1% phí của SatoMask.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3260,7 +3260,7 @@
     "message": "Mức trượt giá tối đa"
   },
   "swapMetaMaskFee": {
-    "message": "Phí của MetaMask"
+    "message": "Phí của SatoMask"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Chúng tôi luôn tìm giá tốt nhất từ các nguồn thanh khoản hàng đầu. Phí $1% được tự động tính vào báo giá này.",
@@ -3443,7 +3443,7 @@
     "message": "Xem hoạt động"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Thao tác này sẽ chuyển mạng được chọn trong MetaMask sang một mạng đã thêm trước đó:"
+    "message": "Thao tác này sẽ chuyển mạng được chọn trong SatoMask sang một mạng đã thêm trước đó:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Cho phép trang web này chuyển mạng?"
@@ -3479,16 +3479,16 @@
     "message": "Đảm bảo rằng không có ai nhìn vào màn hình của bạn khi quét mã này"
   },
   "syncWithMobileComplete": {
-    "message": "Đã đồng bộ thành công dữ liệu của bạn. Tận hưởng ứng dụng MetaMask trên thiết bị di động!"
+    "message": "Đã đồng bộ thành công dữ liệu của bạn. Tận hưởng ứng dụng SatoMask trên thiết bị di động!"
   },
   "syncWithMobileDesc": {
-    "message": "Bạn có thể đồng bộ tài khoản và thông tin của mình với thiết bị di động. Mở ứng dụng MetaMask trên thiết bị di động, chuyển đến phần \"Cài đặt\" và nhấn vào \"Đồng bộ với tiện ích trình duyệt\""
+    "message": "Bạn có thể đồng bộ tài khoản và thông tin của mình với thiết bị di động. Mở ứng dụng SatoMask trên thiết bị di động, chuyển đến phần \"Cài đặt\" và nhấn vào \"Đồng bộ với tiện ích trình duyệt\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Nếu mới mở ứng dụng MetaMask trên thiết bị di động lần đầu tiên, bạn chỉ cần làm theo các bước hướng dẫn trên điện thoại."
+    "message": "Nếu mới mở ứng dụng SatoMask trên thiết bị di động lần đầu tiên, bạn chỉ cần làm theo các bước hướng dẫn trên điện thoại."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Quét mã này bằng ứng dụng MetaMask trên thiết bị di động"
+    "message": "Quét mã này bằng ứng dụng SatoMask trên thiết bị di động"
   },
   "syncWithMobileTitle": {
     "message": "Đồng bộ với thiết bị di động"
@@ -3521,7 +3521,7 @@
     "message": "Chủ đề"
   },
   "themeDescription": {
-    "message": "Chọn chủ đề MetaMask yêu thích của bạn."
+    "message": "Chọn chủ đề SatoMask yêu thích của bạn."
   },
   "thisWillCreate": {
     "message": "Thao tác này sẽ tạo một ví mới và Cụm mật khẩu khôi phục bí mật"
@@ -3622,7 +3622,7 @@
     "message": "Trang web gợi ý"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Chỉnh sửa để sử dụng mức phí gas được đề xuất của MetaMask dựa trên khối mới nhất."
+    "message": "Chỉnh sửa để sử dụng mức phí gas được đề xuất của SatoMask dựa trên khối mới nhất."
   },
   "transactionDetailGasHeading": {
     "message": "Phí gas ước tính"
@@ -3637,7 +3637,7 @@
     "message": "Phí gas do mạng thiết lập và sẽ dao động dựa trên lưu lượng mạng và độ phức tạp của giao dịch."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Phí gas được trả cho thợ đào tiền điện tử, họ là những người xử lý các giao dịch trên mạng $1. MetaMask không thu lợi nhuận từ phí gas."
+    "message": "Phí gas được trả cho thợ đào tiền điện tử, họ là những người xử lý các giao dịch trên mạng $1. SatoMask không thu lợi nhuận từ phí gas."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Số lượng + phí gas"
@@ -3726,11 +3726,11 @@
     "message": "Thông tin chi tiết về giao dịch không được hỗ trợ cho hợp đồng này tại thời điểm này."
   },
   "typePassword": {
-    "message": "Nhập mật khẩu MetaMask của bạn"
+    "message": "Nhập mật khẩu SatoMask của bạn"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect MetaMask to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect SatoMask to Ledger devices."
   },
   "unapproved": {
     "message": "Chưa phê duyệt"
@@ -3805,7 +3805,7 @@
     "message": "Sử Dụng Phát Hiện Token"
   },
   "useTokenDetectionDescription": {
-    "message": "Chúng tôi sử dụng API của bên thứ ba để phát hiện và hiển thị các token mới được gửi vào ví của bạn. Hãy tắt tính năng này nếu bạn không muốn MetaMask lấy dữ liệu từ các dịch vụ đó."
+    "message": "Chúng tôi sử dụng API của bên thứ ba để phát hiện và hiển thị các token mới được gửi vào ví của bạn. Hãy tắt tính năng này nếu bạn không muốn SatoMask lấy dữ liệu từ các dịch vụ đó."
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Tự động hiển thị các token được gửi vào tài khoản của bạn có liên quan đến hoạt động trao đổi thông tin với các máy chủ bên thứ ba để tìm nạp hình ảnh của token. Các máy chủ đó sẽ có quyền truy cập vào địa chỉ IP của bạn."
@@ -3871,10 +3871,10 @@
     "message": "Bạn đã bảo vệ thành công ví của mình. Hãy đảm bảo an toàn và bí mật cho Cụm Mật Khẩu Khôi Phục Bí Mật của bạn -- đây là trách nhiệm của bạn!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "MetaMask không thể khôi phục Cụm Mật Khẩu Khôi Phục Bí Mật của bạn."
+    "message": "SatoMask không thể khôi phục Cụm Mật Khẩu Khôi Phục Bí Mật của bạn."
   },
   "walletCreationSuccessReminder2": {
-    "message": "MetaMask sẽ không bao giờ hỏi về Cụm Mật Khẩu Khôi Phục Bí Mật của bạn."
+    "message": "SatoMask sẽ không bao giờ hỏi về Cụm Mật Khẩu Khôi Phục Bí Mật của bạn."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 với bất kỳ ai, nếu không bạn sẽ có nguy cơ bị mất tiền",
@@ -3899,7 +3899,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Chào mừng bạn đến với MetaMask"
+    "message": "Chào mừng bạn đến với SatoMask"
   },
   "welcomeBack": {
     "message": "Chào mừng bạn trở lại!"
@@ -3911,7 +3911,7 @@
     "message": "Khám phá các ứng dụng phi tập trung"
   },
   "welcomeLoginDescription": {
-    "message": "Sử dụng MetaMask của bạn để đăng nhập vào các ứng dụng phi tập trung - không cần đăng ký."
+    "message": "Sử dụng SatoMask của bạn để đăng nhập vào các ứng dụng phi tập trung - không cần đăng ký."
   },
   "welcomeLoginTitle": {
     "message": "Gửi lời chào đến ví của bạn"
@@ -3920,11 +3920,11 @@
     "message": "Bắt đầu nào"
   },
   "welcomeToMetaMaskIntro": {
-    "message": "Được hàng triệu người tin dùng, MetaMask là một ví an toàn cho phép mọi người có thể truy cập vào thế giới web3."
+    "message": "Được hàng triệu người tin dùng, SatoMask là một ví an toàn cho phép mọi người có thể truy cập vào thế giới web3."
   },
   "whatsNew": {
     "message": "Xem tính năng mới",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to SatoMask."
   },
   "whatsThis": {
     "message": "Đây là gì?"

@@ -33,7 +33,7 @@
     "message": "Дневник на дейността"
   },
   "addAcquiredTokens": {
-    "message": "Добавете жетоните, които сте придобили с помощта на MetaMask"
+    "message": "Добавете жетоните, които сте придобили с помощта на SatoMask"
   },
   "addAlias": {
     "message": "Добавете псевдоним"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Таймер за автоматично излизане (минути)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Задайте времето на неактивност в минути, преди MetaMask автоматично да Ви отпише от акаунта"
+    "message": "Задайте времето на неактивност в минути, преди SatoMask автоматично да Ви отпише от акаунта"
   },
   "average": {
     "message": "Средно аритметично"
@@ -109,7 +109,7 @@
     "message": "Назад към всички"
   },
   "backupApprovalInfo": {
-    "message": "Този секретен код е необходим за възстановяване на портфейла ви, в случай че загубите устройството си, забравите паролата си, трябва да инсталирате отново MetaMask или искате да получите достъп до портфейла си на друго устройство."
+    "message": "Този секретен код е необходим за възстановяване на портфейла ви, в случай че загубите устройството си, забравите паролата си, трябва да инсталирате отново SatoMask или искате да получите достъп до портфейла си на друго устройство."
   },
   "backupApprovalNotice": {
     "message": "Раправете резервно копие на вашия Secret Recovery код, за да запазите портфейла и средствата си."
@@ -140,7 +140,7 @@
     "message": "Купете $1 с Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате $1 право във вашата MetaMask сметка."
+    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате $1 право във вашата SatoMask сметка."
   },
   "bytes": {
     "message": "Байта"
@@ -158,7 +158,7 @@
     "message": "Идентификатор на веригата"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "За да се свържете с хардуерния си портфейл, трябва да използвате MetaMask в Google Chrome."
+    "message": "За да се свържете с хардуерния си портфейл, трябва да използвате SatoMask в Google Chrome."
   },
   "clickToRevealSeed": {
     "message": "Кликнете тук, за да разкриете тайните думи"
@@ -317,13 +317,13 @@
     "message": "Никога не споделяйте фразата с никого."
   },
   "endOfFlowMessage5": {
-    "message": "Внимавайте с фишинга! MetaMask никога няма да поиска спонтанно вашата фраза зародиш."
+    "message": "Внимавайте с фишинга! SatoMask никога няма да поиска спонтанно вашата фраза зародиш."
   },
   "endOfFlowMessage6": {
     "message": "Ако отново трябва да архивирате основната си фраза, можете да я намерите в Настройки -> Защита."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask не може да възстанови ключовата Ви фраза. Научете повече."
+    "message": "SatoMask не може да възстанови ключовата Ви фраза. Научете повече."
   },
   "endOfFlowMessage9": {
     "message": "Научете повече."
@@ -424,7 +424,7 @@
     "message": "Свържете хардуерен портфейл"
   },
   "hardwareWalletsMsg": {
-    "message": "Изберете хардуерен портфейл, който искате да използвате с MetaMask"
+    "message": "Изберете хардуерен портфейл, който искате да използвате с SatoMask"
   },
   "here": {
     "message": "тук",
@@ -554,7 +554,7 @@
     "message": "Свързва ви с Ethereum и децентрализираната мрежа."
   },
   "metamaskVersion": {
-    "message": "Версия на MetaMask"
+    "message": "Версия на SatoMask"
   },
   "mustSelectOne": {
     "message": "Трябва да изберете поне 1 жетон."
@@ -598,7 +598,7 @@
     "message": "Нова парола (мин. 8 символа)"
   },
   "newToMetaMask": {
-    "message": "Нови ли сте в MetaMask?"
+    "message": "Нови ли сте в SatoMask?"
   },
   "newTotal": {
     "message": "Ново общо"
@@ -652,7 +652,7 @@
     "message": "Участвайте в MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Участвайте в MetaMetrics, за да ни помогнете да подобрим MetaMask"
+    "message": "Участвайте в MetaMetrics, за да ни помогнете да подобрим SatoMask"
   },
   "password": {
     "message": "Парола"
@@ -921,16 +921,16 @@
     "message": "Уверете се, че никой друг не гледа екрана ви, когато сканирате този код"
   },
   "syncWithMobileComplete": {
-    "message": "Вашите данни са синхронизирани успешно. Насладете се на мобилното приложение MetaMask!"
+    "message": "Вашите данни са синхронизирани успешно. Насладете се на мобилното приложение SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Можете да синхронизирате вашите акаунти и информация с мобилното си устройство. Отворете мобилното приложение MetaMask, отидете на „Настройки“ и докоснете „Синхронизиране от разширението на браузъра“"
+    "message": "Можете да синхронизирате вашите акаунти и информация с мобилното си устройство. Отворете мобилното приложение SatoMask, отидете на „Настройки“ и докоснете „Синхронизиране от разширението на браузъра“"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ако отворите приложението MetaMask Mobile за първи път, просто следвайте стъпките в телефона си."
+    "message": "Ако отворите приложението SatoMask Mobile за първи път, просто следвайте стъпките в телефона си."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Сканирайте този код с вашето мобилно приложение MetaMask"
+    "message": "Сканирайте този код с вашето мобилно приложение SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Синхронизиране с мобилни устройства"
@@ -1021,7 +1021,7 @@
     "message": "Нов опит"
   },
   "typePassword": {
-    "message": "Въведете паролата си за MetaMask"
+    "message": "Въведете паролата си за SatoMask"
   },
   "unapproved": {
     "message": "Неодобрено"
@@ -1072,7 +1072,7 @@
     "message": "Посетете нашият уеб сайт"
   },
   "welcome": {
-    "message": "Добре дошли в MetaMask"
+    "message": "Добре дошли в SatoMask"
   },
   "welcomeBack": {
     "message": "Добре дошли отново!"

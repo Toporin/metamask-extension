@@ -33,7 +33,7 @@
     "message": "darbību žurnāls"
   },
   "addAcquiredTokens": {
-    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot MetaMask"
+    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot SatoMask"
   },
   "addAlias": {
     "message": "Pievienot segvārdu"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automātiskās izrakstīšanās taimeris (minūtes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura MetaMask veiks automātisku izrakstīšanu"
+    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura SatoMask veiks automātisku izrakstīšanu"
   },
   "average": {
     "message": "Vidēji"
@@ -109,7 +109,7 @@
     "message": "Atgriezties pie visiem"
   },
   "backupApprovalInfo": {
-    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē MetaMask vai vēlaties piekļūt makam no citas ierīces."
+    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē SatoMask vai vēlaties piekļūt makam no citas ierīces."
   },
   "backupApprovalNotice": {
     "message": "Dublējiet savu slepeno atgūšanas kodu, lai maks un līdzekļi atrastos drošībā."
@@ -140,7 +140,7 @@
     "message": "Pirkt $1 ar Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ļauj noguldīt $1 tieši jūsu MetaMask kontā, izmantojot kredītkarti."
+    "message": "Wyre ļauj noguldīt $1 tieši jūsu SatoMask kontā, izmantojot kredītkarti."
   },
   "bytes": {
     "message": "Baiti"
@@ -158,7 +158,7 @@
     "message": "Ķēdes ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "MetaMask ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
+    "message": "SatoMask ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
   },
   "clickToRevealSeed": {
     "message": "Klikšķiniet šeit, lai skatītu slepenos vārdus"
@@ -317,13 +317,13 @@
     "message": "Nekad neizpaudiet šo frāzi citiem cilvēkiem."
   },
   "endOfFlowMessage5": {
-    "message": "Uzmanieties no pikšķerēšanas! MetaMask nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
+    "message": "Uzmanieties no pikšķerēšanas! SatoMask nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
   },
   "endOfFlowMessage6": {
     "message": "Ja nepieciešams atkārtoti dublēt atkopšanas frāzi, varat to atrast, dodoties uz Iestatījumi -> Drošība."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
+    "message": "SatoMask nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
   },
   "endOfFlowMessage9": {
     "message": "Uzzināt vairāk."
@@ -424,7 +424,7 @@
     "message": "Pieslēdziet aparatūras maku"
   },
   "hardwareWalletsMsg": {
-    "message": "Atlasiet aparatūras maku lietošanai ar MetaMask"
+    "message": "Atlasiet aparatūras maku lietošanai ar SatoMask"
   },
   "here": {
     "message": "šeit",
@@ -450,7 +450,7 @@
     "message": "Importēt kontu"
   },
   "importAccountMsg": {
-    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā MetaMask konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
+    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā SatoMask konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
   },
   "importAccountSeedPhrase": {
     "message": "Importēt kontu ar atkopšanas frāzi"
@@ -554,7 +554,7 @@
     "message": "Veido savienojumu ar Ethereum un decentralizēto tīmekli."
   },
   "metamaskVersion": {
-    "message": "MetaMask versija"
+    "message": "SatoMask versija"
   },
   "mustSelectOne": {
     "message": "Jāatlasa vismaz 1 marķieris."
@@ -598,7 +598,7 @@
     "message": "Jauna parole (vism. 8 rakstzīmes)"
   },
   "newToMetaMask": {
-    "message": "Nepazīstat MetaMask?"
+    "message": "Nepazīstat SatoMask?"
   },
   "newTotal": {
     "message": "Jaunā kopsumma"
@@ -921,16 +921,16 @@
     "message": "Pārliecinieties, ka neviens cits neskatās jūsu ekrānā, kad skenējat šo kodu."
   },
   "syncWithMobileComplete": {
-    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu MetaMask mobilās lietotnes lietošanu!"
+    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu SatoMask mobilās lietotnes lietošanu!"
   },
   "syncWithMobileDesc": {
-    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet MetaMask mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
+    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet SatoMask mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ja esat pirmoreiz atvēris MetaMask mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
+    "message": "Ja esat pirmoreiz atvēris SatoMask mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Noskenējiet šo kodu ar MetaMask mobilo lietotni"
+    "message": "Noskenējiet šo kodu ar SatoMask mobilo lietotni"
   },
   "syncWithMobileTitle": {
     "message": "Sinhronizēt ar tālruni"
@@ -1021,7 +1021,7 @@
     "message": "Mēģināt vēlreiz"
   },
   "typePassword": {
-    "message": "Ievadiet savu MetaMask paroli"
+    "message": "Ievadiet savu SatoMask paroli"
   },
   "unapproved": {
     "message": "Nav apstiprināts"
@@ -1072,7 +1072,7 @@
     "message": "Apmeklējiet mūsu tīmekļa vietni"
   },
   "welcome": {
-    "message": "Laipni lūgti MetaMask"
+    "message": "Laipni lūgti SatoMask"
   },
   "welcomeBack": {
     "message": "Ar atgriešanos!"

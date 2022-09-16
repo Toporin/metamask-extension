@@ -109,7 +109,7 @@
     "message": "Tambahkan nama panggilan"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang Anda peroleh menggunakan MetaMask"
+    "message": "Tambahkan token yang Anda peroleh menggunakan SatoMask"
   },
   "addAlias": {
     "message": "Tambahkan alias"
@@ -125,10 +125,10 @@
     "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Tindakan ini akan membantu jaringan ini agar dapat digunakan dengan MetaMask."
+    "message": "Tindakan ini akan membantu jaringan ini agar dapat digunakan dengan SatoMask."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask tidak memverifikasi jaringan kustom."
+    "message": "SatoMask tidak memverifikasi jaringan kustom."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Pelajari tentang $1.",
@@ -238,15 +238,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -305,7 +305,7 @@
     "message": "Pewaktu Kunci Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu siaga dalam menit sebelum MetaMask terkunci."
+    "message": "Atur waktu siaga dalam menit sebelum SatoMask terkunci."
   },
   "average": {
     "message": "Rata-rata"
@@ -317,7 +317,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya perangkat Anda hilang, lupa kata sandi, harus memasang kembali MetaMask, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya perangkat Anda hilang, lupa kata sandi, harus memasang kembali SatoMask, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan Frasa Pemulihan Rahasia Anda untuk menjaga keamanan dompet dan dana Anda."
@@ -338,10 +338,10 @@
     "message": "Dasar"
   },
   "betaMetamaskDescription": {
-    "message": "MetaMask merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
+    "message": "SatoMask merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Gunakan versi ini untuk menguji fitur mendatang sebelum dirilis. Penggunaan dan masukan Anda membantu kami membangun versi MetaMask terbaik. Penggunaan MetaMask Beta Anda tunduk pada $1 standar kami dan $2 kami. Sebagai Beta, akan ada peningkatan risiko kekutu. Dengan melanjutkan, Anda menerima dan mengakui risiko ini, serta risiko yang ditemukan dalam Syarat dan Ketentuan Beta kami.",
+    "message": "Gunakan versi ini untuk menguji fitur mendatang sebelum dirilis. Penggunaan dan masukan Anda membantu kami membangun versi SatoMask terbaik. Penggunaan SatoMask Beta Anda tunduk pada $1 standar kami dan $2 kami. Sebagai Beta, akan ada peningkatan risiko kekutu. Dengan melanjutkan, Anda menerima dan mengakui risiko ini, serta risiko yang ditemukan dalam Syarat dan Ketentuan Beta kami.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -351,10 +351,10 @@
     "message": "Syarat"
   },
   "betaMetamaskVersion": {
-    "message": "Versi Beta MetaMask"
+    "message": "Versi Beta SatoMask"
   },
   "betaWelcome": {
-    "message": "Selamat datang di MetaMask Beta"
+    "message": "Selamat datang di SatoMask Beta"
   },
   "blockExplorerAccountAction": {
     "message": "Akun",
@@ -388,7 +388,7 @@
     "message": "Buat daftar kontak Anda"
   },
   "builtAroundTheWorld": {
-    "message": "MetaMask dirancang dan dibangun di seluruh dunia."
+    "message": "SatoMask dirancang dan dibangun di seluruh dunia."
   },
   "busy": {
     "message": "Sibuk"
@@ -405,21 +405,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay mendukung metode pembayaran populer, termasuk Visa, Mastercard, Apple/Google/Samsung Pay, dan transfer bank di 145+ negara. Token akan didepositokan ke akun MetaMask Anda."
+    "message": "MoonPay mendukung metode pembayaran populer, termasuk Visa, Mastercard, Apple/Google/Samsung Pay, dan transfer bank di 145+ negara. Token akan didepositokan ke akun SatoMask Anda."
   },
   "buyCryptoWithTransak": {
     "message": "Beli $1 melalui Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak mendukung kartu kredit & debit, Apple Pay, MobiKwik, dan transfer bank (tergantung lokasi) di 100+ negara. $1 akan langsung didepositokan ke akun MetaMask Anda.",
+    "message": "Transak mendukung kartu kredit & debit, Apple Pay, MobiKwik, dan transfer bank (tergantung lokasi) di 100+ negara. $1 akan langsung didepositokan ke akun SatoMask Anda.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Beli $1 dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun MetaMask Anda."
+    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun SatoMask Anda."
   },
   "bytes": {
     "message": "Byte"
@@ -470,7 +470,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan MetaMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
+    "message": "Anda perlu menggunakan SatoMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Klik di sini untuk menghubungkan Ledger Anda melalui WebHID",
@@ -549,7 +549,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Hubungkan Dengan MetaMask"
+    "message": "Hubungkan Dengan SatoMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Anda memiliki $1 akun yang terhubung ke situs ini.",
@@ -559,7 +559,7 @@
     "message": "Anda memiliki 1 akun yang terhubung ke situs ini."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan dan klik tombol hubungkan."
+    "message": "SatoMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan dan klik tombol hubungkan."
   },
   "connectedSites": {
     "message": "Situs yang terhubung"
@@ -631,7 +631,7 @@
     "message": "Interaksi Kontrak"
   },
   "convertTokenToNFTDescription": {
-    "message": "Kami mendeteksi bahwa aset ini merupakan NFT. Kini MetaMask memiliki dukungan asli penuh untuk NFT. Anda ingin menghapusnya dari daftar token dan menambahkannya sebagai NFT?"
+    "message": "Kami mendeteksi bahwa aset ini merupakan NFT. Kini SatoMask memiliki dukungan asli penuh untuk NFT. Anda ingin menghapusnya dari daftar token dan menambahkannya sebagai NFT?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Kami mendeteksi bahwa aset ini telah ditambahkan sebagai NFT. Anda ingin menghapusnya dari daftar token?"
@@ -754,7 +754,7 @@
     "message": "Data"
   },
   "dataBackupFoundInfo": {
-    "message": "Beberapa data akun Anda telah dicadangkan selama pemasangan MetaMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
+    "message": "Beberapa data akun Anda telah dicadangkan selama pemasangan SatoMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
   },
   "dataHex": {
     "message": "Hex"
@@ -1057,7 +1057,7 @@
     "message": "Jangan bagikan frasa kepada siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hatilah dengan pengelabuan! MetaMask tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
+    "message": "Berhati-hatilah dengan pengelabuan! SatoMask tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan Frasa Pemulihan Rahasia lagi, Anda dapat menemukannya di Pengaturan -> Keamanan."
@@ -1067,7 +1067,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
+    "message": "SatoMask tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari selengkapnya."
@@ -1125,7 +1125,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask mengalami galat",
+    "message": "SatoMask mengalami galat",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1219,10 +1219,10 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Kami tidak menjamin keamanan atau stabilitas ekstensi ini. API baru yang ditawarkan oleh Flask tidak diperkuat untuk menghadapi serangan pengelabuan, artinya setiap situs atau snap yang memerlukan Flask mungkin merupakan upaya jahat untuk mencuri aset Anda.",
-    "description": "This explains the risks of using MetaMask Flask"
+    "description": "This explains the risks of using SatoMask Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Semua API Flask bersifat eksperimental. API dapat diubah atau dihapus tanpa pemberitahuan, atau tetap berada di Flask tanpa batas waktu dan tanpa pernah dimigrasikan ke MetaMask yang stabil. Gunakan API dengan risiko Anda sendiri.",
+    "message": "Semua API Flask bersifat eksperimental. API dapat diubah atau dihapus tanpa pemberitahuan, atau tetap berada di Flask tanpa batas waktu dan tanpa pernah dimigrasikan ke SatoMask yang stabil. Gunakan API dengan risiko Anda sendiri.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarningAcceptButton": {
@@ -1404,7 +1404,7 @@
     "message": "Hubungkan dompet perangkat keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan MetaMask."
+    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan SatoMask."
   },
   "here": {
     "message": "di sini",
@@ -1456,7 +1456,7 @@
     "message": "Galat saat mengimpor akun."
   },
   "importAccountMsg": {
-    "message": "Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun MetaMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor"
+    "message": "Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun SatoMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor"
   },
   "importAccountSeedPhrase": {
     "message": "Impor dompet dengan Frasa Pemulihan Rahasia"
@@ -1502,7 +1502,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
+    "message": "SatoMask tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1656,7 +1656,7 @@
     "message": "Buka dan buka Aplikasi Ledger Live"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Sesuaikan cara Anda menghubungkan Ledger ke MetaMask. Kami merekomendasikan $1, tetapi opsi lain tersedia. Baca selengkapnya di sini: $2",
+    "message": "Sesuaikan cara Anda menghubungkan Ledger ke SatoMask. Kami merekomendasikan $1, tetapi opsi lain tersedia. Baca selengkapnya di sini: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1664,7 +1664,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to MetaMask."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to SatoMask."
   },
   "ledgerLiveApp": {
     "message": "Aplikasi Ledger Live"
@@ -1783,7 +1783,7 @@
     "message": "Pesan"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di MetaMask."
+    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di SatoMask."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Klik untuk mengelola akun Anda yang terhubung."
@@ -1795,10 +1795,10 @@
     "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swap sedang dalam pemeliharaan. Harap periksa kembali nanti."
+    "message": "SatoMask Swap sedang dalam pemeliharaan. Harap periksa kembali nanti."
   },
   "metamaskVersion": {
-    "message": "Versi MetaMask"
+    "message": "Versi SatoMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk keluar melalui Pengaturan"
@@ -1811,7 +1811,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask akan.."
+    "message": "SatoMask akan.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Jangan pernah mengumpulkan kunci, alamat, transaksi, saldo, hash, atau informasi pribadi apa pun"
@@ -1838,16 +1838,16 @@
     "message": "Kirim kejadian pageview & klik anonim"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Bantu Kami Menyempurnakan MetaMask"
+    "message": "Bantu Kami Menyempurnakan SatoMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk meningkatkan kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum secara berkala."
+    "message": "SatoMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk meningkatkan kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum secara berkala."
   },
   "metametricsOptInDescription2": {
     "message": "Kami ingin mengumpulkan data penggunaan dasar dalam rangka meningkatkan kegunaan produk kami. Metrik ini akan..."
   },
   "metametricsTitle": {
-    "message": "Bergabunglah bersama 6 Jt+ pengguna untuk meningkatkan MetaMask"
+    "message": "Bergabunglah bersama 6 Jt+ pengguna untuk meningkatkan SatoMask"
   },
   "mismatchedChain": {
     "message": "Detail jaringan untuk ID rantai ini tidak cocok dengan catatan kami. Kami menyarankan agar Anda $1 sebelum melanjutkan.",
@@ -1870,7 +1870,7 @@
     "message": "Tidak melihat token Anda?"
   },
   "mobileSyncWarning": {
-    "message": "Fitur 'Sinkronkan dengan ekstensi' dinonaktifkan untuk sementara waktu. Jika Anda ingin menggunakan dompet ekstensi Anda di ponsel MetaMask, maka pada aplikasi seluler Anda: kembali ke opsi pengaturan dompet dan pilih opsi 'Impor dengan Frasa Pemulihan Rahasia'. Gunakan frasa rahasia dompet ekstensi Anda untuk mengimpor dompet Anda ke ponsel nantinya."
+    "message": "Fitur 'Sinkronkan dengan ekstensi' dinonaktifkan untuk sementara waktu. Jika Anda ingin menggunakan dompet ekstensi Anda di ponsel SatoMask, maka pada aplikasi seluler Anda: kembali ke opsi pengaturan dompet dan pilih opsi 'Impor dengan Frasa Pemulihan Rahasia'. Gunakan frasa rahasia dompet ekstensi Anda untuk mengimpor dompet Anda ke ponsel nantinya."
   },
   "mustSelectOne": {
     "message": "Harus memilih minimal 1 token."
@@ -1882,7 +1882,7 @@
     "message": "Nama"
   },
   "needCryptoInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan MetaMask, Anda memerlukan $1 di dompet.",
+    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan SatoMask, Anda memerlukan $1 di dompet.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1893,7 +1893,7 @@
     "message": "Bagikan Masukan Anda"
   },
   "needHelpLinkText": {
-    "message": "Dukungan MetaMask"
+    "message": "Dukungan SatoMask"
   },
   "needHelpSubmitTicket": {
     "message": "Kirimkan Tiket"
@@ -1987,7 +1987,7 @@
     "message": "Kontrak Baru"
   },
   "newNFTDetectedMessage": {
-    "message": "Izinkan MetaMask mendeteksi NFT dari Opensea secara otomatis dan menampilkannya di dompet Anda."
+    "message": "Izinkan SatoMask mendeteksi NFT dari Opensea secara otomatis dan menampilkannya di dompet Anda."
   },
   "newNFTsDetected": {
     "message": "Baru! Deteksi NFT"
@@ -1999,7 +1999,7 @@
     "message": "Kata sandi baru (min 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Baru menggunakan MetaMask?"
+    "message": "Baru menggunakan SatoMask?"
   },
   "newTotal": {
     "message": "Total Baru"
@@ -2015,7 +2015,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce lebih tinggi dari nonce $1 yang disarankan",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "nftTokenIdPlaceholder": {
     "message": "Masukkan ID koleksi"
@@ -2115,19 +2115,19 @@
     "message": "Kapan mode gelap? Ini saatnya mode gelap! ️🕶️🦊"
   },
   "notifications1Description": {
-    "message": "Pengguna MetaMask Mobile kini bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
+    "message": "Pengguna SatoMask Mobile kini bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Penukaran pada perangkat seluler telah hadir!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use SatoMask Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Baca selengkapnya",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Dapatkan informasi terbaru seputar praktik terbaik keamanan MetaMask dan dapatkan kiat-kiat keamanan terkini dari dukungan MetaMask resmi.",
+    "message": "Dapatkan informasi terbaru seputar praktik terbaik keamanan SatoMask dan dapatkan kiat-kiat keamanan terkini dari dukungan SatoMask resmi.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2139,7 +2139,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Dapatkan harga penukaran token terbaik langsung di dompet Anda. MetaMask kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
+    "message": "Dapatkan harga penukaran token terbaik langsung di dompet Anda. SatoMask kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2151,11 +2151,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Pada Chrome versi 91, API yang memungkinkan dukungan Ledger (U2F) kami tidak lagi mendukung dompet perangkat keras. MetaMask telah menerapkan dukungan Ledger Live baru yang memungkinkan Anda untuk terus terhubung ke perangkat Ledger Anda melalui aplikasi desktop Ledger Live.",
+    "message": "Pada Chrome versi 91, API yang memungkinkan dukungan Ledger (U2F) kami tidak lagi mendukung dompet perangkat keras. SatoMask telah menerapkan dukungan Ledger Live baru yang memungkinkan Anda untuk terus terhubung ke perangkat Ledger Anda melalui aplikasi desktop Ledger Live.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "Saat berinteraksi dengan akun Ledger Anda di MetaMask, tab baru akan terbuka dan Anda akan diminta untuk membuka aplikasi Ledger Live.  Setelah aplikasi tersebut terbuka, Anda akan diminta untuk mengizinkan koneksi WebSocket ke akun MetaMask Anda. Tidak diperlukan tindakan lebih lanjut!",
+    "message": "Saat berinteraksi dengan akun Ledger Anda di SatoMask, tab baru akan terbuka dan Anda akan diminta untuk membuka aplikasi Ledger Live.  Setelah aplikasi tersebut terbuka, Anda akan diminta untuk mengizinkan koneksi WebSocket ke akun SatoMask Anda. Tidak diperlukan tindakan lebih lanjut!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2167,7 +2167,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "MetaMask v10.1.0 menyertakan dukungan baru untuk transaksi EIP-1559 saat menggunakan perangkat Ledger.",
+    "message": "SatoMask v10.1.0 menyertakan dukungan baru untuk transaksi EIP-1559 saat menggunakan perangkat Ledger.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2183,7 +2183,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced Settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Pada MetaMask v10.4.0, Anda tidak lagi memerlukan Ledger Live untuk menghubungkan perangkat Ledger Anda ke MetaMask.",
+    "message": "Pada SatoMask v10.4.0, Anda tidak lagi memerlukan Ledger Live untuk menghubungkan perangkat Ledger Anda ke SatoMask.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2244,16 +2244,16 @@
     "message": "Klik ikon ekstensi peramban"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Sematkan MetaMask pada peramban Anda agar dapat diakses dan memudahkan dalam melihat konfirmasi transaksi."
+    "message": "Sematkan SatoMask pada peramban Anda agar dapat diakses dan memudahkan dalam melihat konfirmasi transaksi."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Anda dapat membuka MetaMask dengan mengeklik ekstensi dan mengakses dompet Anda dalam 1 klik."
+    "message": "Anda dapat membuka SatoMask dengan mengeklik ekstensi dan mengakses dompet Anda dalam 1 klik."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Klik ikon ekstensi peramban untuk mengaksesnya secara langsung"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Sematkan MetaMask"
+    "message": "Sematkan SatoMask"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2262,7 +2262,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Pemasangan MetaMask Anda selesai!"
+    "message": "Pemasangan SatoMask Anda selesai!"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" akan menutup tab ini dan mengarahkan kembali ke $2",
@@ -2283,8 +2283,8 @@
     "message": "Hanya hubungkan ke situs yang Anda percayai."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Buka MetaMask dalam layar penuh untuk menghubungkan ledger Anda melalui WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing MetaMask in a popup window but need to connect their ledger via webhid."
+    "message": "Buka SatoMask dalam layar penuh untuk menghubungkan ledger Anda melalui WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing SatoMask in a popup window but need to connect their ledger via webhid."
   },
   "openSourceCode": {
     "message": "Periksa kode sumbernya"
@@ -2308,7 +2308,7 @@
     "message": "Berpartisipasilah dalam MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Berpartisipasilah dalam MetaMetrics untuk membantu kami menjadikan MetaMask lebih baik lagi"
+    "message": "Berpartisipasilah dalam MetaMetrics untuk membantu kami menjadikan SatoMask lebih baik lagi"
   },
   "password": {
     "message": "Kata sandi"
@@ -2317,7 +2317,7 @@
     "message": "Kata sandi kurang panjang"
   },
   "passwordSetupDetails": {
-    "message": "Kata sandi ini akan membuka dompet MetaMask Anda hanya pada perangkat ini. MetaMask tidak dapat memulihkan kata sandi ini."
+    "message": "Kata sandi ini akan membuka dompet SatoMask Anda hanya pada perangkat ini. SatoMask tidak dapat memulihkan kata sandi ini."
   },
   "passwordStrength": {
     "message": "Kekuatan kata sandi: $1",
@@ -2327,7 +2327,7 @@
     "message": "Kata sandi yang kuat dapat meningkatkan keamanan dompet jika perangkat Anda dicuri atau disusupi."
   },
   "passwordTermsWarning": {
-    "message": "Saya memahami bahwa MetaMask tidak dapat memulihkan kata sandi ini untuk saya. $1"
+    "message": "Saya memahami bahwa SatoMask tidak dapat memulihkan kata sandi ini untuk saya. $1"
   },
   "passwordsDontMatch": {
     "message": "Kata Sandi Tidak Cocok"
@@ -2364,7 +2364,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Tampilkan konfirmasi di MetaMask.",
+    "message": "Tampilkan konfirmasi di SatoMask.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2490,7 +2490,7 @@
     "message": "Jangan membagikan Frasa Pemulihan Rahasia Anda kepada siapa pun"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Tim MetaMask tidak akan pernah meminta Frasa Pemulihan Rahasia Anda"
+    "message": "Tim SatoMask tidak akan pernah meminta Frasa Pemulihan Rahasia Anda"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Frasa Pemulihan Rahasia Anda mengendalikan semua akun Anda."
@@ -2566,7 +2566,7 @@
     "message": "Reset Dompet"
   },
   "resetWalletSubHeader": {
-    "message": "MetaMask tidak menyimpan salinan kata sandi Anda. Jika terjadi masalah saat membuka akun, reset dompet Anda. Anda dapat melakukannya dengan memberikan Frasa Pemulihan Rahasia yang digunakan saat mengatur dompet."
+    "message": "SatoMask tidak menyimpan salinan kata sandi Anda. Jika terjadi masalah saat membuka akun, reset dompet Anda. Anda dapat melakukannya dengan memberikan Frasa Pemulihan Rahasia yang digunakan saat mengatur dompet."
   },
   "resetWalletUsingSRP": {
     "message": "Tindakan ini akan menghapus dompet saat ini dan Frasa Pemulihan Rahasia dari perangkat ini, bersama dengan daftar akun yang telah Anda kelola. Setelah direset dengan Frasa Pemulihan Rahasia, Anda akan melihat daftar akun berdasarkan Frasa Pemulihan Rahasia yang Anda gunakan untuk mereset. Daftar baru ini secara otomatis akan menyertakan akun yang memiliki saldo. Anda juga dapat $1 yang telah dibuat sebelumnya. Akun khusus yang Anda impor harus $2, dan token khusus yang Anda tambahkan ke akun harus $3 juga."
@@ -2693,7 +2693,7 @@
     "message": "Jika seseorang menanyakan frasa pemulihan Anda, kemungkinan mereka akan mencoba menipu dan mencuri dana di dompet Anda"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Jangan pernah membagikan Frasa Pemulihan Rahasia Anda bahkan kepada MetaMask sekali pun!"
+    "message": "Jangan pernah membagikan Frasa Pemulihan Rahasia Anda bahkan kepada SatoMask sekali pun!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Apa itu Frasa Pemulihan Rahasia?"
@@ -2732,7 +2732,7 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Akun ini sudah terhubung ke MetaMask."
+    "message": "Akun ini sudah terhubung ke SatoMask."
   },
   "selectEachPhrase": {
     "message": "Pilih masing-masing frasa untuk memastikan kebenarannya."
@@ -2779,7 +2779,7 @@
     "message": "Atur pengaturan privasi lanjutan"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "MetaMask menggunakan layanan pihak ketiga tepercaya ini untuk meningkatkan kegunaan dan keamanan produk."
+    "message": "SatoMask menggunakan layanan pihak ketiga tepercaya ini untuk meningkatkan kegunaan dan keamanan produk."
   },
   "settings": {
     "message": "Pengaturan"
@@ -2986,7 +2986,7 @@
     "message": "Galat pada log status pengambilan."
   },
   "stateLogFileName": {
-    "message": "Log Status MetaMask"
+    "message": "Log Status SatoMask"
   },
   "stateLogs": {
     "message": "Log Status"
@@ -3007,7 +3007,7 @@
     "message": "Pastikan Lattice1 Anda siap terhubung"
   },
   "step1LatticeWalletMsg": {
-    "message": "Anda dapat menghubungkan MetaMask ke perangkat Lattice1 setelah diatur dan online. Buka perangkat Anda dan siapkan ID Perangkat Anda. Untuk informasi selengkapnya seputar penggunaan dompet perangkat keras, $1",
+    "message": "Anda dapat menghubungkan SatoMask ke perangkat Lattice1 setelah diatur dan online. Buka perangkat Anda dan siapkan ID Perangkat Anda. Untuk informasi selengkapnya seputar penggunaan dompet perangkat keras, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3062,7 +3062,7 @@
     "message": "Cobalah untuk menukar lagi. Kami akan selalu hadir untuk melindungi Anda dari risiko serupa di lain waktu."
   },
   "stxDescription": {
-    "message": "Pertukaran MetaMask menjadi semakin pintar! Mengaktifkan Transaksi Pintar akan memungkinkan MetaMask mengoptimalkan Pertukaran Anda secara terprogram untuk membantu:"
+    "message": "Pertukaran SatoMask menjadi semakin pintar! Mengaktifkan Transaksi Pintar akan memungkinkan SatoMask mengoptimalkan Pertukaran Anda secara terprogram untuk membantu:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Dana tidak cukup untuk mengaktifkan transaksi pintar."
@@ -3193,7 +3193,7 @@
     "message": "Edit batas"
   },
   "swapEnableDescription": {
-    "message": "Ini diwajibkan dan memberikan MetaMask izin untuk menukar $1 Anda.",
+    "message": "Ini diwajibkan dan memberikan SatoMask izin untuk menukar $1 Anda.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
@@ -3243,14 +3243,14 @@
     "message": "Biaya gas pada layar sebelumnya dibagi antara kedua transaksi ini."
   },
   "swapGasFeesSummary": {
-    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. MetaMask tidak mengambil keuntungan dari biaya gas.",
+    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. SatoMask tidak mengambil keuntungan dari biaya gas.",
     "description": "$1 is the selected network, e.g. Ethereum or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Jumlah slippage sangat tinggi."
   },
   "swapIncludesMMFee": {
-    "message": "Termasuk $1% biaya MetaMask.",
+    "message": "Termasuk $1% biaya SatoMask.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3260,7 +3260,7 @@
     "message": "Slippage maks"
   },
   "swapMetaMaskFee": {
-    "message": "Biaya MetaMask"
+    "message": "Biaya SatoMask"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% otomatis diperhitungkan ke kuotasi ini.",
@@ -3443,7 +3443,7 @@
     "message": "Lihat di laman aktivitas"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Ini akan mengalihkan jaringan yang dipilih dalam MetaMask ke jaringan yang ditambahkan sebelumnya:"
+    "message": "Ini akan mengalihkan jaringan yang dipilih dalam SatoMask ke jaringan yang ditambahkan sebelumnya:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Izinkan situs ini untuk beralih jaringan?"
@@ -3479,16 +3479,16 @@
     "message": "Pastikan tidak ada orang lain yang melihat layar Anda saat memindai kode ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler MetaMask!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler MetaMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Peramban\""
+    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler SatoMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Peramban\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru membuka aplikasi seluler MetaMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
+    "message": "Jika Anda baru membuka aplikasi seluler SatoMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi seluler MetaMask Anda"
+    "message": "Pindai kode ini dengan aplikasi seluler SatoMask Anda"
   },
   "syncWithMobileTitle": {
     "message": "Sinkronkan dengan seluler"
@@ -3521,7 +3521,7 @@
     "message": "Tema"
   },
   "themeDescription": {
-    "message": "Pilih tema MetaMask yang Anda sukai."
+    "message": "Pilih tema SatoMask yang Anda sukai."
   },
   "thisWillCreate": {
     "message": "Ini akan membuat Frasa Pemulihan Rahasia dan dompet baru"
@@ -3622,7 +3622,7 @@
     "message": "Situs yang disarankan"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Edit untuk menggunakan biaya gas yang direkomendasikan MetaMask berdasarkan blok terbaru."
+    "message": "Edit untuk menggunakan biaya gas yang direkomendasikan SatoMask berdasarkan blok terbaru."
   },
   "transactionDetailGasHeading": {
     "message": "Estimasi biaya gas"
@@ -3637,7 +3637,7 @@
     "message": "Biaya gas ditetapkan oleh jaringan dan berfluktuasi berdasarkan lalu lintas jaringan dan kompleksitas transaksi."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. MetaMask tidak mengambil keuntungan dari biaya gas."
+    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. SatoMask tidak mengambil keuntungan dari biaya gas."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Jumlah + biaya gas"
@@ -3726,11 +3726,11 @@
     "message": "Pemahaman transaksi tidak didukung untuk kontrak ini saat ini."
   },
   "typePassword": {
-    "message": "Ketikkan kata sandi MetaMask Anda"
+    "message": "Ketikkan kata sandi SatoMask Anda"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect MetaMask to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect SatoMask to Ledger devices."
   },
   "unapproved": {
     "message": "Tidak disetujui"
@@ -3805,7 +3805,7 @@
     "message": "Gunakan Deteksi Token"
   },
   "useTokenDetectionDescription": {
-    "message": "Kami menggunakan API pihak ketiga untuk mendeteksi dan menampilkan token baru yang dikirim ke dompet Anda. Matikan jika Anda tidak ingin MetaMask memakai data dari layanan tersebut."
+    "message": "Kami menggunakan API pihak ketiga untuk mendeteksi dan menampilkan token baru yang dikirim ke dompet Anda. Matikan jika Anda tidak ingin SatoMask memakai data dari layanan tersebut."
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Menampilkan token yang dikirim ke akun Anda secara otomatis yang melibatkan komunikasi dengan server pihak ketiga untuk mengambil gambar token. Server tersebut akan memiliki akses ke alamat IP Anda."
@@ -3871,10 +3871,10 @@
     "message": "Anda telah berhasil melindungi dompet Anda. Jaga agar Frasa Pemulihan Rahasia tetap aman dan terlindungi -- ini merupakan tanggung jawab Anda!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "MetaMask tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
+    "message": "SatoMask tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
   },
   "walletCreationSuccessReminder2": {
-    "message": "MetaMask tidak akan pernah menanyakan Frasa Pemulihan Rahasia Anda."
+    "message": "SatoMask tidak akan pernah menanyakan Frasa Pemulihan Rahasia Anda."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 dengan siapa pun atau dana Anda berisiko dicuri",
@@ -3899,7 +3899,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Selamat datang di MetaMask"
+    "message": "Selamat datang di SatoMask"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"
@@ -3911,7 +3911,7 @@
     "message": "Jelajahi aplikasi terdesentralisasi"
   },
   "welcomeLoginDescription": {
-    "message": "Gunakan MetaMask Anda untuk masuk ke aplikasi terdesentralisasi - tak perlu mendaftar."
+    "message": "Gunakan SatoMask Anda untuk masuk ke aplikasi terdesentralisasi - tak perlu mendaftar."
   },
   "welcomeLoginTitle": {
     "message": "Ucapkan halo pada dompet Anda"
@@ -3920,11 +3920,11 @@
     "message": "Mari kita mulai"
   },
   "welcomeToMetaMaskIntro": {
-    "message": "MetaMask merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
+    "message": "SatoMask merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
   },
   "whatsNew": {
     "message": "Apa yang baru",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to SatoMask."
   },
   "whatsThis": {
     "message": "Apa ini?"

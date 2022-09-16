@@ -33,7 +33,7 @@
     "message": "jurnal activitate"
   },
   "addAcquiredTokens": {
-    "message": "Adăugați token-urile pe care le-ați achiziționat folosind MetaMask"
+    "message": "Adăugați token-urile pe care le-ați achiziționat folosind SatoMask"
   },
   "addAlias": {
     "message": "Adăugare alias"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Temporizator deconectare automată (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Setați perioada de inactivitate în minute înainte ca MetaMask să se deconecteze automat"
+    "message": "Setați perioada de inactivitate în minute înainte ca SatoMask să se deconecteze automat"
   },
   "average": {
     "message": "Mediu"
@@ -109,7 +109,7 @@
     "message": "Înapoi la toate"
   },
   "backupApprovalInfo": {
-    "message": "Acest cod secret este necesar pentru recuperarea portofelului în cazul în care pierdeți dispozitivul, uitați parola, trebuie să reinstalați MetaMask sau vreți să accesați portofelul de pe alt dispozitiv."
+    "message": "Acest cod secret este necesar pentru recuperarea portofelului în cazul în care pierdeți dispozitivul, uitați parola, trebuie să reinstalați SatoMask sau vreți să accesați portofelul de pe alt dispozitiv."
   },
   "backupApprovalNotice": {
     "message": "Creați o copie de rezervă a codului de recuperare secret pentru a vă menține portofelul și fondurile în siguranță."
@@ -140,7 +140,7 @@
     "message": "Cumpărați $1 cu Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vă permite să folosiți un card de credit pentru a depune $1 direct în contul dvs. MetaMask."
+    "message": "Wyre vă permite să folosiți un card de credit pentru a depune $1 direct în contul dvs. SatoMask."
   },
   "bytes": {
     "message": "Octeți"
@@ -158,7 +158,7 @@
     "message": "ID lanț"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Trebuie să folosiți MetaMask în Google Chrome pentru a vă conecta la portofelul hardware."
+    "message": "Trebuie să folosiți SatoMask în Google Chrome pentru a vă conecta la portofelul hardware."
   },
   "clickToRevealSeed": {
     "message": "Faceți clic aici pentru a arăta cuvintele secrete"
@@ -317,13 +317,13 @@
     "message": "Nu comunicați niciodată fraza cuiva."
   },
   "endOfFlowMessage5": {
-    "message": "Aveți grijă la phishing! MetaMask nu vă va cere niciodată în mod spontan expresia sursă."
+    "message": "Aveți grijă la phishing! SatoMask nu vă va cere niciodată în mod spontan expresia sursă."
   },
   "endOfFlowMessage6": {
     "message": "Dacă trebuie să vă salvați din nou fraza seed, puteți să o găsiți în Setări -> Securitate."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nu vă poate recupera expresia sursă. Aflați mai multe."
+    "message": "SatoMask nu vă poate recupera expresia sursă. Aflați mai multe."
   },
   "endOfFlowMessage9": {
     "message": "Aflați mai multe."
@@ -418,7 +418,7 @@
     "message": "Conectați un portofel hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selectați un portofel hardware pe care doriți să îl folosiți cu MetaMask"
+    "message": "Selectați un portofel hardware pe care doriți să îl folosiți cu SatoMask"
   },
   "here": {
     "message": "aici",
@@ -444,7 +444,7 @@
     "message": "Importare cont"
   },
   "importAccountMsg": {
-    "message": "Conturile importate nu vor fi asociate cu seedphrase-ul contului dumneavoastră MetaMask creat inițial. Aflați mai multe despre conturile importate"
+    "message": "Conturile importate nu vor fi asociate cu seedphrase-ul contului dumneavoastră SatoMask creat inițial. Aflați mai multe despre conturile importate"
   },
   "importAccountSeedPhrase": {
     "message": "Importați un cont cu fraza seed"
@@ -545,7 +545,7 @@
     "message": "Vă conectăm la Ethereum și la Internetul descentralizat."
   },
   "metamaskVersion": {
-    "message": "Versiune MetaMask"
+    "message": "Versiune SatoMask"
   },
   "mustSelectOne": {
     "message": "Trebuie să selectați cel puțin 1 simbol."
@@ -589,7 +589,7 @@
     "message": "Parola Nouă (minimum 8 caractere)"
   },
   "newToMetaMask": {
-    "message": "Nefamiliarizat cu MetaMask?"
+    "message": "Nefamiliarizat cu SatoMask?"
   },
   "newTotal": {
     "message": "Total nou"
@@ -643,7 +643,7 @@
     "message": "Participați la MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Alăturați-vă MetaMetrics pentru a ne ajuta să îmbunătățim MetaMask."
+    "message": "Alăturați-vă MetaMetrics pentru a ne ajuta să îmbunătățim SatoMask."
   },
   "password": {
     "message": "Parolă"
@@ -912,16 +912,16 @@
     "message": "Asigurați-vă că nimeni altcineva nu poate vedea ecranul dvs. când scanați acest cod"
   },
   "syncWithMobileComplete": {
-    "message": "Datele dvs. au fost sincronizate cu succes. Bucurați-vă de aplicația mobilă MetaMask!"
+    "message": "Datele dvs. au fost sincronizate cu succes. Bucurați-vă de aplicația mobilă SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Vă puteți sincroniza conturile și informațiile cu dispozitivul dvs. mobil. Deschideți aplicația mobilă MetaMask, mergeți la „Setări” și atingeți „Sincronizare de la extensia de browser”"
+    "message": "Vă puteți sincroniza conturile și informațiile cu dispozitivul dvs. mobil. Deschideți aplicația mobilă SatoMask, mergeți la „Setări” și atingeți „Sincronizare de la extensia de browser”"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Dacă deschideți aplicația pentru mobil MetaMask pentru prima oară, urmați pașii afișați pe telefonul dvs."
+    "message": "Dacă deschideți aplicația pentru mobil SatoMask pentru prima oară, urmați pașii afișați pe telefonul dvs."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Scanați acest cod folosind aplicația dvs. mobilă MetaMask"
+    "message": "Scanați acest cod folosind aplicația dvs. mobilă SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizați cu mobilul"
@@ -1006,7 +1006,7 @@
     "message": "Încearcă din nou"
   },
   "typePassword": {
-    "message": "Scrieți parola dvs. pentru MetaMask"
+    "message": "Scrieți parola dvs. pentru SatoMask"
   },
   "unapproved": {
     "message": "Neaprobat"
@@ -1057,7 +1057,7 @@
     "message": "Accesați site-ul nostru"
   },
   "welcome": {
-    "message": "Bun venit la MetaMask"
+    "message": "Bun venit la SatoMask"
   },
   "welcomeBack": {
     "message": "Bine ai revenit!"

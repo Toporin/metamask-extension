@@ -30,7 +30,7 @@
     "message": "活動紀錄"
   },
   "addAcquiredTokens": {
-    "message": "將您已經擁有的代幣顯示於 MetaMask"
+    "message": "將您已經擁有的代幣顯示於 SatoMask"
   },
   "addAlias": {
     "message": "新增化名"
@@ -58,15 +58,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "自動登出計時器（分）"
   },
   "autoLockTimeLimitDescription": {
-    "message": "設定閒置分鐘上限，時間到時 MetaMask 將自動登出"
+    "message": "設定閒置分鐘上限，時間到時 SatoMask 將自動登出"
   },
   "average": {
     "message": "平均"
@@ -109,7 +109,7 @@
     "message": "回到所有"
   },
   "backupApprovalInfo": {
-    "message": "在裝置遺失、忘記密碼、需要重新安裝 MetaMask、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
+    "message": "在裝置遺失、忘記密碼、需要重新安裝 SatoMask、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
   },
   "backupApprovalNotice": {
     "message": "備份你的秘密還原代碼，安全防護錢包與資金。"
@@ -143,7 +143,7 @@
     "message": "用 Wyre 購買 $1"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre 讓你使用信用卡在 MetaMask 帳號中直接存入 $1 。"
+    "message": "Wyre 讓你使用信用卡在 SatoMask 帳號中直接存入 $1 。"
   },
   "bytes": {
     "message": "位元組"
@@ -161,7 +161,7 @@
     "message": "鏈 ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "您需要在 Google Chrome 瀏覽器使用 MetaMask 連結您的硬體錢包"
+    "message": "您需要在 Google Chrome 瀏覽器使用 SatoMask 連結您的硬體錢包"
   },
   "clickToRevealSeed": {
     "message": "點選顯示助憶詞"
@@ -317,13 +317,13 @@
     "message": "不要分享此助記祠給任何人"
   },
   "endOfFlowMessage5": {
-    "message": "小心網路釣魚！MetaMask 永遠不會主動詢問你的助記詞。"
+    "message": "小心網路釣魚！SatoMask 永遠不會主動詢問你的助記詞。"
   },
   "endOfFlowMessage6": {
     "message": "如你需要再次備份助記詞，可至設定 -> 安全。"
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask 無法還原你的助記詞。暸解更多"
+    "message": "SatoMask 無法還原你的助記詞。暸解更多"
   },
   "endOfFlowMessage9": {
     "message": "深入瞭解。"
@@ -428,7 +428,7 @@
     "message": "連線硬體錢包"
   },
   "hardwareWalletsMsg": {
-    "message": "選擇要連線到 MetaMask 的硬體錢包"
+    "message": "選擇要連線到 SatoMask 的硬體錢包"
   },
   "here": {
     "message": "這裡",
@@ -454,7 +454,7 @@
     "message": "匯入帳戶"
   },
   "importAccountMsg": {
-    "message": " 匯入的帳戶與您原有 MetaMask 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
+    "message": " 匯入的帳戶與您原有 SatoMask 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
   },
   "importAccountSeedPhrase": {
     "message": "利用助憶詞還原"
@@ -549,10 +549,10 @@
     "message": "訊息"
   },
   "metamaskDescription": {
-    "message": "MetaMask 是以太坊安全身份識別金庫"
+    "message": "SatoMask 是以太坊安全身份識別金庫"
   },
   "metamaskVersion": {
-    "message": "MetaMask 版本"
+    "message": "SatoMask 版本"
   },
   "mustSelectOne": {
     "message": "必須選擇至少 1 代幣"
@@ -596,7 +596,7 @@
     "message": "新密碼（至少8個字元）"
   },
   "newToMetaMask": {
-    "message": "新來到 MetaMask？"
+    "message": "新來到 SatoMask？"
   },
   "newTotal": {
     "message": "總費用"
@@ -644,7 +644,7 @@
     "message": "參與 MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "參與 MetaMetrics 來協助我們打造更好的 MetaMask"
+    "message": "參與 MetaMetrics 來協助我們打造更好的 SatoMask"
   },
   "password": {
     "message": "密碼"
@@ -904,16 +904,16 @@
     "message": "掃描代碼時確保沒有其他人在看你的螢幕"
   },
   "syncWithMobileComplete": {
-    "message": "你的資料已成功同步。開始活用 MetaMask 移動 app！"
+    "message": "你的資料已成功同步。開始活用 SatoMask 移動 app！"
   },
   "syncWithMobileDesc": {
-    "message": "你可以用移動裝置同步帳號與資訊。開啟 MetaMask 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
+    "message": "你可以用移動裝置同步帳號與資訊。開啟 SatoMask 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "如你是第一次開啟 MetaMask 移動 app，只要跟著手機上的指示操作即可。"
+    "message": "如你是第一次開啟 SatoMask 移動 app，只要跟著手機上的指示操作即可。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "用你的 MetaMask 移動 app 掃描此代碼"
+    "message": "用你的 SatoMask 移動 app 掃描此代碼"
   },
   "syncWithMobileTitle": {
     "message": "和移動裝置同步"
@@ -1055,7 +1055,7 @@
     "message": "造訪我們的網站"
   },
   "welcome": {
-    "message": "歡迎來到 MetaMask"
+    "message": "歡迎來到 SatoMask"
   },
   "welcomeBack": {
     "message": "歡迎回來!"

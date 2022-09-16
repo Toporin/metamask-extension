@@ -33,7 +33,7 @@
     "message": "tevékenységi napló"
   },
   "addAcquiredTokens": {
-    "message": "Adja hozzá MetaMask-kal a kapott érméket"
+    "message": "Adja hozzá SatoMask-kal a kapott érméket"
   },
   "addAlias": {
     "message": "Álnév hozzáadása"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automatikus kijelentkezés időzítő (perc)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Adja meg a MetaMask automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
+    "message": "Adja meg a SatoMask automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
   },
   "average": {
     "message": "Átlag"
@@ -109,7 +109,7 @@
     "message": "Vissza az összeshez"
   },
   "backupApprovalInfo": {
-    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a MetaMask alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
+    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a SatoMask alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
   },
   "backupApprovalNotice": {
     "message": "Készíts biztonsági másolatot titkos helyreállítási kódodról, hogy pénztárcád és pénzalapod biztosítva legyen."
@@ -158,7 +158,7 @@
     "message": "Lánc azonosítója"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "A MetaMask-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
+    "message": "A SatoMask-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
   },
   "clickToRevealSeed": {
     "message": "Kattintson ide a titkos szavak megjelenítéséhez"
@@ -317,13 +317,13 @@
     "message": "Soha ne ossza meg senkivel a mondatot."
   },
   "endOfFlowMessage5": {
-    "message": "Vigyázzon az adathalászokkal! A MetaMask soha nem kéri spontán módon a seed mondatot."
+    "message": "Vigyázzon az adathalászokkal! A SatoMask soha nem kéri spontán módon a seed mondatot."
   },
   "endOfFlowMessage6": {
     "message": "Ha ismét biztonsági másolatot kell készítenie a seed mondatról, megtalálja azt a Beállítások -> Biztonság menüben."
   },
   "endOfFlowMessage8": {
-    "message": "A MetaMask nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
+    "message": "A SatoMask nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
   },
   "endOfFlowMessage9": {
     "message": "Bővebb információk."
@@ -424,7 +424,7 @@
     "message": "Hardveres tárca csatlakoztatása"
   },
   "hardwareWalletsMsg": {
-    "message": "Válassza ki a MetaMask-kal használni kívánt hardveres pénztárcát"
+    "message": "Válassza ki a SatoMask-kal használni kívánt hardveres pénztárcát"
   },
   "here": {
     "message": "itt",
@@ -450,7 +450,7 @@
     "message": "Fiók importálása"
   },
   "importAccountMsg": {
-    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott MetaMask-fiók seed mondatához. További információ az importált fiókokról"
+    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott SatoMask-fiók seed mondatához. További információ az importált fiókokról"
   },
   "importAccountSeedPhrase": {
     "message": "Fiók importálása seed mondat segítségével"
@@ -551,7 +551,7 @@
     "message": "Csatlakozás az Ethereumhoz és a decentralizált hálózathoz."
   },
   "metamaskVersion": {
-    "message": "MetaMask verzió"
+    "message": "SatoMask verzió"
   },
   "mustSelectOne": {
     "message": "Legalább 1 tokent ki kell választania."
@@ -595,7 +595,7 @@
     "message": "Új jelszó (minimum 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Új a MetaMask-on?"
+    "message": "Új a SatoMask-on?"
   },
   "newTotal": {
     "message": "Új végösszeg"
@@ -649,7 +649,7 @@
     "message": "Vegyen részt a MetaMetrics-ben"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Vegyél részt a MetaMetricsben, hogy segíts a MetaMask fejlesztésében."
+    "message": "Vegyél részt a MetaMetricsben, hogy segíts a SatoMask fejlesztésében."
   },
   "password": {
     "message": "Jelszó"
@@ -918,16 +918,16 @@
     "message": "Győződjön meg arról, hogy senki nem látja a képernyőt, amikor beolvassa ezt a kódot"
   },
   "syncWithMobileComplete": {
-    "message": "Adatai szinkronizálása sikerült. Élvezze a MetaMask mobilalkalmazást!"
+    "message": "Adatai szinkronizálása sikerült. Élvezze a SatoMask mobilalkalmazást!"
   },
   "syncWithMobileDesc": {
-    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a MetaMask mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
+    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a SatoMask mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ha most először nyitja meg a MetaMask mobilalkalmazást, kövesse a telefonon megadott lépéseket."
+    "message": "Ha most először nyitja meg a SatoMask mobilalkalmazást, kövesse a telefonon megadott lépéseket."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Olvasd be ezt a kódot MetaMask mobilalkalmazásoddal"
+    "message": "Olvasd be ezt a kódot SatoMask mobilalkalmazásoddal"
   },
   "syncWithMobileTitle": {
     "message": "Szinkronizálás mobillal"
@@ -1015,7 +1015,7 @@
     "message": "Újra"
   },
   "typePassword": {
-    "message": "Írd be MetaMask jelszavadat"
+    "message": "Írd be SatoMask jelszavadat"
   },
   "unapproved": {
     "message": "Jóvá nem hagyott"

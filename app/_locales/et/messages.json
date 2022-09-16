@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automaatse väljalogimise taimer (minutites)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Seadistage jõudeolek minutites, enne kui MetaMask automaatselt välja logib"
+    "message": "Seadistage jõudeolek minutites, enne kui SatoMask automaatselt välja logib"
   },
   "average": {
     "message": "Keskmine"
@@ -317,13 +317,13 @@
     "message": "Ärge jagage fraasi mitte kellegagi."
   },
   "endOfFlowMessage5": {
-    "message": "Olge ettevaatlik andmepüügi osas! MetaMask ei küsi kunagi spontaanselt teie seemnefraasi."
+    "message": "Olge ettevaatlik andmepüügi osas! SatoMask ei küsi kunagi spontaanselt teie seemnefraasi."
   },
   "endOfFlowMessage6": {
     "message": "Kui peate oma seemnefraasi uuesti varundama, leiate selle valikust Settings (Seaded) -> Security (Turvalisus)."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ei saa teie seemnefraasi taastada. Lisateave."
+    "message": "SatoMask ei saa teie seemnefraasi taastada. Lisateave."
   },
   "endOfFlowMessage9": {
     "message": "Lisateave."

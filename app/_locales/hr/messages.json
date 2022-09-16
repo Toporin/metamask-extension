@@ -33,7 +33,7 @@
     "message": "zapisnik aktivnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodajte tokene koje ste kupili uslugom MetaMask"
+    "message": "Dodajte tokene koje ste kupili uslugom SatoMask"
   },
   "addAlias": {
     "message": "Dodaj pseudonim"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Brojač za automatsko odjavljivanje (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Postavite stanje u mirovanju u minutama prije nego što se MetaMask automatski odjavi"
+    "message": "Postavite stanje u mirovanju u minutama prije nego što se SatoMask automatski odjavi"
   },
   "average": {
     "message": "Prosječno"
@@ -109,7 +109,7 @@
     "message": "Natrag na sve"
   },
   "backupApprovalInfo": {
-    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati MetaMask ili želite pristupiti svojem novčaniku na drugom uređaju."
+    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati SatoMask ili želite pristupiti svojem novčaniku na drugom uređaju."
   },
   "backupApprovalNotice": {
     "message": "Sigurnosno kopirajte svoj sigurnosni kôd za obnavljanje kako biste zaštitili svoj novčanik i sredstva."
@@ -140,7 +140,7 @@
     "message": "Kupi $1 Wyerom"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje $1 -a izravno na vaš račun za MetaMask."
+    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje $1 -a izravno na vaš račun za SatoMask."
   },
   "bytes": {
     "message": "Bajtovi"
@@ -158,7 +158,7 @@
     "message": "Identifikacijska oznaka bloka"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Trebate upotrebljavati MetaMask u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
+    "message": "Trebate upotrebljavati SatoMask u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
   },
   "clickToRevealSeed": {
     "message": "Ovdje kliknite za otkrivanje tajnih riječi"
@@ -317,13 +317,13 @@
     "message": "Nikada ne dijelite rečenicu ni s kim."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na krađu identiteta! Na usluzi MetaMask nikada vas se neće pitati početna rečenica."
+    "message": "Pazite na krađu identiteta! Na usluzi SatoMask nikada vas se neće pitati početna rečenica."
   },
   "endOfFlowMessage6": {
     "message": "Ako trebate ponovno sigurnosno kopirati svoju početnu rečenicu, možete je pronaći unutar stavke Postavke --> Sigurnost."
   },
   "endOfFlowMessage8": {
-    "message": "Osoblje MetaMask ne može obnoviti vašu početnu rečenicu. Saznajte više."
+    "message": "Osoblje SatoMask ne može obnoviti vašu početnu rečenicu. Saznajte više."
   },
   "endOfFlowMessage9": {
     "message": "Saznajte više."
@@ -424,7 +424,7 @@
     "message": "Poveži hardverski novčanik"
   },
   "hardwareWalletsMsg": {
-    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom MetaMask"
+    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom SatoMask"
   },
   "here": {
     "message": "ovdje",
@@ -450,7 +450,7 @@
     "message": "Uvezi račun"
   },
   "importAccountMsg": {
-    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za MetaMask. Saznajte više o uvezenim računima"
+    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za SatoMask. Saznajte više o uvezenim računima"
   },
   "importAccountSeedPhrase": {
     "message": "Uvezi račun početnom rečenicom"
@@ -551,7 +551,7 @@
     "message": "Povezujete se na Ethereum i decentralizirani internet."
   },
   "metamaskVersion": {
-    "message": "Inačica usluge MetaMask"
+    "message": "Inačica usluge SatoMask"
   },
   "mustSelectOne": {
     "message": "Mora se odabrati barem jedan token."
@@ -595,7 +595,7 @@
     "message": "Nova lozinka (najmanje osam znakova)"
   },
   "newToMetaMask": {
-    "message": "Novi korisnik usluge MetaMask?"
+    "message": "Novi korisnik usluge SatoMask?"
   },
   "newTotal": {
     "message": "Novi ukupni zbroj"
@@ -649,7 +649,7 @@
     "message": "Sudjelujte u anketi MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu MetaMask"
+    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu SatoMask"
   },
   "password": {
     "message": "Zaporka"
@@ -918,16 +918,16 @@
     "message": "Pazite da nitko ne gleda u vaš zaslon dok skenirate ovaj kôd"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji MetaMask!"
+    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju MetaMask, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
+    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju SatoMask, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Kad otvorite mobilnu aplikaciju MetaMask po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
+    "message": "Kad otvorite mobilnu aplikaciju SatoMask po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije MetaMask"
+    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Sinkroniziraj s mobilnim telefonom"
@@ -1015,7 +1015,7 @@
     "message": "Pokušaj ponovo"
   },
   "typePassword": {
-    "message": "Upišite svoju lozinku MetaMask."
+    "message": "Upišite svoju lozinku SatoMask."
   },
   "unapproved": {
     "message": "Neodobreno"
@@ -1066,7 +1066,7 @@
     "message": "Posjetite naše mrežno mjesto"
   },
   "welcome": {
-    "message": "Dobro došli u uslugu MetaMask"
+    "message": "Dobro došli u uslugu SatoMask"
   },
   "welcomeBack": {
     "message": "Dobro došli natrag!"

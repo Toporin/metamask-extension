@@ -109,7 +109,7 @@
     "message": "Takma ad ekle"
   },
   "addAcquiredTokens": {
-    "message": "MetaMask kullanarak elde ettiğiniz tokenleri ekleyin"
+    "message": "SatoMask kullanarak elde ettiğiniz tokenleri ekleyin"
   },
   "addAlias": {
     "message": "Diğer adı ekle"
@@ -128,7 +128,7 @@
     "message": "Bu, bu ağın MetaMas dahilinde kullanılmasına olanak tanıyacaktır."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "MetaMask özel ağları doğrulamaz."
+    "message": "SatoMask özel ağları doğrulamaz."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "$1 hakkında bilgi edinin.",
@@ -238,15 +238,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -305,7 +305,7 @@
     "message": "Otomatik Kilitleme Sayacı (dakika)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "MetaMask kilitlenmeden önce dakika olarak boşta kalma süresini belirleyin."
+    "message": "SatoMask kilitlenmeden önce dakika olarak boşta kalma süresini belirleyin."
   },
   "average": {
     "message": "Ortalama"
@@ -317,7 +317,7 @@
     "message": "Tümüne Geri Git"
   },
   "backupApprovalInfo": {
-    "message": "Bu gizli kod, cihazınızı kaybetmeniz, parolanızı unutmanız, MetaMask'ı yeniden kurmanızın gerektiği ya da cüzdanınıza başka bir cihazdan oturum açmak istemeniz durumunda cüzdanınıza erişim sağlamak için gereklidir."
+    "message": "Bu gizli kod, cihazınızı kaybetmeniz, parolanızı unutmanız, SatoMask'ı yeniden kurmanızın gerektiği ya da cüzdanınıza başka bir cihazdan oturum açmak istemeniz durumunda cüzdanınıza erişim sağlamak için gereklidir."
   },
   "backupApprovalNotice": {
     "message": "Cüzdanınızı ve paranızı güvende tutmak için Gizli Kurtarma İfadenizi yedekleyin."
@@ -338,10 +338,10 @@
     "message": "Temel"
   },
   "betaMetamaskDescription": {
-    "message": "Milyonların güvendiği MetaMask, web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır."
+    "message": "Milyonların güvendiği SatoMask, web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Yayınlanmadan önce gelecek özellikleri test etmek için bu sürümü kullanın. Kullanımınız ve geri bildiriminiz mümkün olan en iyi MetaMask sürümünü oluşturmamıza yardımcı olur. MetMask Beta kullanımınız standart $1 ile ayrıca $2 bölümümüze tabidir. Beta sürümü olduğu için hatayla karşılaşma riskiniz daha yüksektir. Devam ederek bu riskleri ve aynı zamanda Şartlar ve Beta Şartları kısımlarında yer alan riskleri kabul eder ve onaylarsınız.",
+    "message": "Yayınlanmadan önce gelecek özellikleri test etmek için bu sürümü kullanın. Kullanımınız ve geri bildiriminiz mümkün olan en iyi SatoMask sürümünü oluşturmamıza yardımcı olur. MetMask Beta kullanımınız standart $1 ile ayrıca $2 bölümümüze tabidir. Beta sürümü olduğu için hatayla karşılaşma riskiniz daha yüksektir. Devam ederek bu riskleri ve aynı zamanda Şartlar ve Beta Şartları kısımlarında yer alan riskleri kabul eder ve onaylarsınız.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -351,10 +351,10 @@
     "message": "Koşullar"
   },
   "betaMetamaskVersion": {
-    "message": "MetaMask Beta Sürümü"
+    "message": "SatoMask Beta Sürümü"
   },
   "betaWelcome": {
-    "message": "MetaMask Beta Sürümüne Hoş Geldiniz"
+    "message": "SatoMask Beta Sürümüne Hoş Geldiniz"
   },
   "blockExplorerAccountAction": {
     "message": "Hesap",
@@ -388,7 +388,7 @@
     "message": "Kişi listenizi oluşturun"
   },
   "builtAroundTheWorld": {
-    "message": "MetaMask dünya çapında geliştirilmiş ve yapılmıştır."
+    "message": "SatoMask dünya çapında geliştirilmiş ve yapılmıştır."
   },
   "busy": {
     "message": "Meşgul"
@@ -405,21 +405,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay, Visa, Mastercard, Apple / Google / Samsung Pay dahil olmak üzere popüler ödeme yöntemlerini ve 145'ten fazla ülkede banka havalelerini destekler. Token'lar MetaMask hesabına yatırılır."
+    "message": "MoonPay, Visa, Mastercard, Apple / Google / Samsung Pay dahil olmak üzere popüler ödeme yöntemlerini ve 145'ten fazla ülkede banka havalelerini destekler. Token'lar SatoMask hesabına yatırılır."
   },
   "buyCryptoWithTransak": {
     "message": "Transak ile $1 satın al",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak, 100'den fazla ülkede kredi ve banka kartlarını, Apple Pay, MobiKwik ve banka transferlerini (konuma bağlı olarak) destekler. $1 doğrudan MetaMask hesabına yatırılır.",
+    "message": "Transak, 100'den fazla ülkede kredi ve banka kartlarını, Apple Pay, MobiKwik ve banka transferlerini (konuma bağlı olarak) destekler. $1 doğrudan SatoMask hesabına yatırılır.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Wyre ile $1 satın al"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre, doğrudan MetaMask hesabınıza $1 yatırma işlemleri için banka kartı kullanmanıza izin verir."
+    "message": "Wyre, doğrudan SatoMask hesabınıza $1 yatırma işlemleri için banka kartı kullanmanıza izin verir."
   },
   "bytes": {
     "message": "Bayt"
@@ -470,7 +470,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Donanım Cüzdanınıza bağlamak için MetaMask'ı Google Chrome'da kullanmanız gerekir."
+    "message": "Donanım Cüzdanınıza bağlamak için SatoMask'ı Google Chrome'da kullanmanız gerekir."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "WebHID üzerinden Kayıt Defterinizi bağlamak için tıklayın",
@@ -549,7 +549,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "MetaMask ile Bağlan"
+    "message": "SatoMask ile Bağlan"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Bu siteye bağlı $1 hesabınız var.",
@@ -559,7 +559,7 @@
     "message": "Bu siteye bağlı 1 hesabınız var."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask bu siteye bağlı değil. Bir web3 sitesine bağlanmak için siteyi bulun ve bağlan düğmesine tıklayın."
+    "message": "SatoMask bu siteye bağlı değil. Bir web3 sitesine bağlanmak için siteyi bulun ve bağlan düğmesine tıklayın."
   },
   "connectedSites": {
     "message": "Bağlı siteler"
@@ -631,7 +631,7 @@
     "message": "Sözleşme Etkileşimi"
   },
   "convertTokenToNFTDescription": {
-    "message": "Bu varlığın bir NFT olduğunu tespit ettik. MetaMask artık NFT'ler için tam yerel desteğe sahiptir. Bunu token listenden çıkarmak ve bir NFT olarak eklemek ister misin?"
+    "message": "Bu varlığın bir NFT olduğunu tespit ettik. SatoMask artık NFT'ler için tam yerel desteğe sahiptir. Bunu token listenden çıkarmak ve bir NFT olarak eklemek ister misin?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Bu varlığın bir NFT olarak eklendiğini tespit ettik. Token listenden çıkarmak ister misin?"
@@ -754,7 +754,7 @@
     "message": "Veri"
   },
   "dataBackupFoundInfo": {
-    "message": "MetaMask'ın önceki bir kurulumu sırasında hesap verilerinizden bazıları yedeklenmiştir. Buna ayarlar, kişiler ve tokenler dahil olabilir. Bu verileri şimdi geri yüklemek ister misiniz?"
+    "message": "SatoMask'ın önceki bir kurulumu sırasında hesap verilerinizden bazıları yedeklenmiştir. Buna ayarlar, kişiler ve tokenler dahil olabilir. Bu verileri şimdi geri yüklemek ister misiniz?"
   },
   "dataHex": {
     "message": "On Altılı"
@@ -1057,7 +1057,7 @@
     "message": "İfadeyi hiç kimseyle paylaşmayın."
   },
   "endOfFlowMessage5": {
-    "message": "Kimlik avına karşı dikkatli olun! MetaMask asla kendiliğinden Gizli Kurtarma İfadenizi istemez."
+    "message": "Kimlik avına karşı dikkatli olun! SatoMask asla kendiliğinden Gizli Kurtarma İfadenizi istemez."
   },
   "endOfFlowMessage6": {
     "message": "Gizli Kurtarma İfadenizi tekrar yedeklemeniz gerekirse Ayarlar -> Güvenlik kısmında bulabilirsiniz."
@@ -1067,7 +1067,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask Gizli Kurtarma İfadenizi kurtaramıyor."
+    "message": "SatoMask Gizli Kurtarma İfadenizi kurtaramıyor."
   },
   "endOfFlowMessage9": {
     "message": "Daha fazla bilgi edinin."
@@ -1125,7 +1125,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "MetaMask bir hata ile karşılaştı",
+    "message": "SatoMask bir hata ile karşılaştı",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1219,10 +1219,10 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Bu uzantının güvenliğini veya istikrarını garanti etmiyoruz. Flask tarafından sunulan yeni API'ler kimlik avı saldırılarına karşı güçlendirilmemiştir, yani Flask gerektiren herhangi bir site veya snap, varlıklarını çalmaya yönelik kötü niyetli bir girişim olabilir.",
-    "description": "This explains the risks of using MetaMask Flask"
+    "description": "This explains the risks of using SatoMask Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Tüm Flask API'leri deneyseldir. Önceden haber verilmeksizin değiştirilebilir veya kaldırılabilirler ya da kararlı MetaMask'e taşınmadan süresiz olarak Flask'ta kalabilirler. Bunları kendi sorumluluğunda kullan.",
+    "message": "Tüm Flask API'leri deneyseldir. Önceden haber verilmeksizin değiştirilebilir veya kaldırılabilirler ya da kararlı SatoMask'e taşınmadan süresiz olarak Flask'ta kalabilirler. Bunları kendi sorumluluğunda kullan.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarningAcceptButton": {
@@ -1404,7 +1404,7 @@
     "message": "Donanım cüzdanı bağla"
   },
   "hardwareWalletsMsg": {
-    "message": "MetaMask ile kullanmak istediğiniz donanım cüzdanını seçin."
+    "message": "SatoMask ile kullanmak istediğiniz donanım cüzdanını seçin."
   },
   "here": {
     "message": "burada",
@@ -1456,7 +1456,7 @@
     "message": "Hesap içe aktarılırken hata oluştu."
   },
   "importAccountMsg": {
-    "message": "İçe aktarılan hesaplar ilk olarak oluşturduğunuz MetaMask hesabı Gizli Kurtarma ifadenizle ilişkilendirilmez. İçe aktarılan hesaplar hakkında daha fazla bilgi edinin"
+    "message": "İçe aktarılan hesaplar ilk olarak oluşturduğunuz SatoMask hesabı Gizli Kurtarma ifadenizle ilişkilendirilmez. İçe aktarılan hesaplar hakkında daha fazla bilgi edinin"
   },
   "importAccountSeedPhrase": {
     "message": "Gizli Kurtarma İfadesi ile bir cüzdanı içe aktarın"
@@ -1502,7 +1502,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "MetaMask blokzincir ana bilgisayarına bağlanamıyor. $1 olası nedenleri inceleyin.",
+    "message": "SatoMask blokzincir ana bilgisayarına bağlanamıyor. $1 olası nedenleri inceleyin.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1656,7 +1656,7 @@
     "message": "Ledger Live Uygulamasını açın ve kilidini açın"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Kayıt Defterinizi MetaMask'a nasıl bağladığınızı özelleştirin. $1 önerilir ancak başka seçenekler de mevcuttur. Buradan daha fazlasını okuyun: $2",
+    "message": "Kayıt Defterinizi SatoMask'a nasıl bağladığınızı özelleştirin. $1 önerilir ancak başka seçenekler de mevcuttur. Buradan daha fazlasını okuyun: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1664,7 +1664,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to MetaMask."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to SatoMask."
   },
   "ledgerLiveApp": {
     "message": "Ledger Live Uygulaması"
@@ -1783,7 +1783,7 @@
     "message": "Mesaj"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Artık MetaMask'te hesap bağlantılarınızın üzerinde daha fazla kontrole sahipsiniz."
+    "message": "Artık SatoMask'te hesap bağlantılarınızın üzerinde daha fazla kontrole sahipsiniz."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Bağlı hesaplarınızı yönetmek için tıklayın."
@@ -1795,10 +1795,10 @@
     "message": "Sizi Ethereum ve Merkezi Olmayan Webe bağlar."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Takas İşlemleri bakımda. Lütfen daha sonra tekrar kontrol edin."
+    "message": "SatoMask Takas İşlemleri bakımda. Lütfen daha sonra tekrar kontrol edin."
   },
   "metamaskVersion": {
-    "message": "MetaMask Sürümü"
+    "message": "SatoMask Sürümü"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Dilediğiniz zaman Ayarlar kısmında vazgeçebilmenize olanak tanır"
@@ -1811,7 +1811,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask.."
+    "message": "SatoMask.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Hiçbir zaman anahtarları, adresleri, işlemleri, bakiyeleri, doğrulama değerlerini veya kişisel bilgileri toplamaz"
@@ -1838,16 +1838,16 @@
     "message": "İsimsizleştirilmiş tıklama ve sayfa görüntüleme olaylarını gönder"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "MetaMask'i geliştirmemize yardımcı olun"
+    "message": "SatoMask'i geliştirmemize yardımcı olun"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask, kullanıcılarımızın uzantıyı nasıl kullandıklarını daha iyi anlamak amacıyla kullanım verilerini toplamak istiyor. Bu veriler ürünümüzün ve Ethereum eko-sisteminin kullanılabilirliği ve kullanıcı deneyimini geliştirmek için sürekli olarak kullanılacaktır."
+    "message": "SatoMask, kullanıcılarımızın uzantıyı nasıl kullandıklarını daha iyi anlamak amacıyla kullanım verilerini toplamak istiyor. Bu veriler ürünümüzün ve Ethereum eko-sisteminin kullanılabilirliği ve kullanıcı deneyimini geliştirmek için sürekli olarak kullanılacaktır."
   },
   "metametricsOptInDescription2": {
     "message": "Ürünümüzün kullanılabilirliğini geliştirmek için temel kullanım verilerini toplamak istiyoruz. Bu ölçümler..."
   },
   "metametricsTitle": {
-    "message": "MetaMask'i geliştirmek için 6 milyondan fazla kullanıcıya katılın"
+    "message": "SatoMask'i geliştirmek için 6 milyondan fazla kullanıcıya katılın"
   },
   "mismatchedChain": {
     "message": "Bu zincir kimliği için ağ ayrıntıları kayıtlarımızla uyumlu değil. Devam etmeden önce şunu yapmanızı öneriyoruz: $1.",
@@ -1870,7 +1870,7 @@
     "message": "Tokeninizi görmüyor musunuz?"
   },
   "mobileSyncWarning": {
-    "message": "\"Uzantı ile senkronize et\" özelliği geçici olarak devre dışı bırakılmış. MetaMask mobilde uzantı cüzdanınızı kullanmak istiyorsanız mobil uygulamaya gidin: cüzdan kurulum ayarlarına geri dönün ve \"Gizli Kurtarma İfadesi ile İçe Aktar\" seçeneğini seçin. Ardından cüzdanınızı mobil uygulamada içe aktarmak için uzantı cüzdanınızın gizli ifadesini kullanın."
+    "message": "\"Uzantı ile senkronize et\" özelliği geçici olarak devre dışı bırakılmış. SatoMask mobilde uzantı cüzdanınızı kullanmak istiyorsanız mobil uygulamaya gidin: cüzdan kurulum ayarlarına geri dönün ve \"Gizli Kurtarma İfadesi ile İçe Aktar\" seçeneğini seçin. Ardından cüzdanınızı mobil uygulamada içe aktarmak için uzantı cüzdanınızın gizli ifadesini kullanın."
   },
   "mustSelectOne": {
     "message": "En az bir token seçilmeli."
@@ -1882,7 +1882,7 @@
     "message": "Adı"
   },
   "needCryptoInWallet": {
-    "message": "MetaMask kullanarak merkezi olmayan uygulamalarla etkileşim kurmak için cüzdanında $1 bulunmasına ihtiyacın olacak.",
+    "message": "SatoMask kullanarak merkezi olmayan uygulamalarla etkileşim kurmak için cüzdanında $1 bulunmasına ihtiyacın olacak.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1893,7 +1893,7 @@
     "message": "Geri bildiriminizi paylaşın"
   },
   "needHelpLinkText": {
-    "message": "MetaMask Destek"
+    "message": "SatoMask Destek"
   },
   "needHelpSubmitTicket": {
     "message": "Sorgu Gönder"
@@ -1987,7 +1987,7 @@
     "message": "Yeni Sözleşme"
   },
   "newNFTDetectedMessage": {
-    "message": "MetaMask'in Opensea'den NFT'leri otomatik olarak algılamasına ve cüzdanında görüntülemesine izin ver."
+    "message": "SatoMask'in Opensea'den NFT'leri otomatik olarak algılamasına ve cüzdanında görüntülemesine izin ver."
   },
   "newNFTsDetected": {
     "message": "Yeni! NFT algılama"
@@ -1999,7 +1999,7 @@
     "message": "Yeni Parola (min 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "MetaMask'te yeni misiniz?"
+    "message": "SatoMask'te yeni misiniz?"
   },
   "newTotal": {
     "message": "Yeni Toplam"
@@ -2015,7 +2015,7 @@
   },
   "nextNonceWarning": {
     "message": "Geçici anahtar, önerilen $1 geçici anahtarından daha büyük",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "nftTokenIdPlaceholder": {
     "message": "Toplanabilir kimliğini girin"
@@ -2115,19 +2115,19 @@
     "message": "Karanlık mod mu? Şimdi karanlık mod! 🕶️🦊"
   },
   "notifications1Description": {
-    "message": "MetaMask Mobil kullanıcıları artık mobil cüzdanları içinde token takas edebilirler. Mobil uygulamayı edinmek ve takas yapmaya başlamak için QR kodunu tarayın.",
+    "message": "SatoMask Mobil kullanıcıları artık mobil cüzdanları içinde token takas edebilirler. Mobil uygulamayı edinmek ve takas yapmaya başlamak için QR kodunu tarayın.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Mobilde takas burada!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use MetaMask Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use SatoMask Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Daha fazla bilgi",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "MetaMask en iyi güvenlik uygulamalarında güncel kalın ve resmi MetaMask desteğinden en son güvenlik ipuçlarını alın.",
+    "message": "SatoMask en iyi güvenlik uygulamalarında güncel kalın ve resmi SatoMask desteğinden en son güvenlik ipuçlarını alın.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2139,7 +2139,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Doğrudan cüzdanınızdan token takaslarında en iyi fiyatlara sahip olun. MetaMask artık Binance Smart Chain'deki birden fazla merkezi olmayan borsa toplayıcısı ve profesyonel piyasa oluşturucuyu bağlıyor.",
+    "message": "Doğrudan cüzdanınızdan token takaslarında en iyi fiyatlara sahip olun. SatoMask artık Binance Smart Chain'deki birden fazla merkezi olmayan borsa toplayıcısı ve profesyonel piyasa oluşturucuyu bağlıyor.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2151,11 +2151,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Chrome 91 sürümünden itibaren Kayıt Defteri desteğimize olanak tanıyan API (U2F) artık donanım cüzdanları desteklememektedir. MetaMask Kayıt Defteri cihazınızı Ledger Live masaüstü uygulaması üzerinden bağlamanıza olanak tanıyan yeni bir Ledger Live desteğini hayata geçirmiştir.",
+    "message": "Chrome 91 sürümünden itibaren Kayıt Defteri desteğimize olanak tanıyan API (U2F) artık donanım cüzdanları desteklememektedir. SatoMask Kayıt Defteri cihazınızı Ledger Live masaüstü uygulaması üzerinden bağlamanıza olanak tanıyan yeni bir Ledger Live desteğini hayata geçirmiştir.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "MetaMask'te Kayıt Defteri hesabınız ile etkileşim kurarken yeni bir sekme açılacak ve sizden Ledger Live uygulamasını açmanız istenecektir. Uygulama açıldıktan sonra sizden MetaMask hesabınızla bir WebSocket bağlantısı kurulmasına izin vermeniz istenecektir. Hepsi bu!",
+    "message": "SatoMask'te Kayıt Defteri hesabınız ile etkileşim kurarken yeni bir sekme açılacak ve sizden Ledger Live uygulamasını açmanız istenecektir. Uygulama açıldıktan sonra sizden SatoMask hesabınızla bir WebSocket bağlantısı kurulmasına izin vermeniz istenecektir. Hepsi bu!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2167,7 +2167,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "MetaMask 10.1.0 sürümü, Kayıt Defteri cihazları kullanıldığında EIP-1559 işlemleri için yeni destek içerir.",
+    "message": "SatoMask 10.1.0 sürümü, Kayıt Defteri cihazları kullanıldığında EIP-1559 işlemleri için yeni destek içerir.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2183,7 +2183,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced Settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "MetaMask 10.4.0 sürümü itibariyle Kayıt Defteri cihazınızı Metamask'e bağlamak için artık Ledger Live'e ihtiyacınız yok.",
+    "message": "SatoMask 10.4.0 sürümü itibariyle Kayıt Defteri cihazınızı Metamask'e bağlamak için artık Ledger Live'e ihtiyacınız yok.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2244,10 +2244,10 @@
     "message": "Tarayıcı uzantısı simgesine tıklayın"
   },
   "onboardingPinExtensionDescription": {
-    "message": "İşlem onaylarını erişilebilir ve kolay görüntülenebilir hale getirmek için MetaMask'i tarayıcınıza sabitleyin."
+    "message": "İşlem onaylarını erişilebilir ve kolay görüntülenebilir hale getirmek için SatoMask'i tarayıcınıza sabitleyin."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Uzantıya tıklayarak MetaMask'i açabilir ve 1 tık ile cüzdanınıza erişim sağlayabilirsiniz."
+    "message": "Uzantıya tıklayarak SatoMask'i açabilir ve 1 tık ile cüzdanınıza erişim sağlayabilirsiniz."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Hemen erişim sağlamak için tarayıcı uzantısı simgesine tıklayın"
@@ -2262,7 +2262,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "MetaMask kurulumunuz tamamlandı!"
+    "message": "SatoMask kurulumunuz tamamlandı!"
   },
   "onboardingReturnNotice": {
     "message": "\"$\" bu sekmeyi kapatacak $2 alanına geri döndürecektir",
@@ -2283,8 +2283,8 @@
     "message": "Sadece güvendiğiniz sitelere bağlayın."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Kayıt defterinizi WebHID üzerinden bağlamak için MetaMask'i tam ekran açın.",
-    "description": "Shown to the user on the confirm screen when they are viewing MetaMask in a popup window but need to connect their ledger via webhid."
+    "message": "Kayıt defterinizi WebHID üzerinden bağlamak için SatoMask'i tam ekran açın.",
+    "description": "Shown to the user on the confirm screen when they are viewing SatoMask in a popup window but need to connect their ledger via webhid."
   },
   "openSourceCode": {
     "message": "Kaynak kodunu kontrol et"
@@ -2308,7 +2308,7 @@
     "message": "MetaMetrics'e Katıl"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMask'i daha iyi hale getirmemize yardımcı olmak için MetaMetrics'e katılın"
+    "message": "SatoMask'i daha iyi hale getirmemize yardımcı olmak için MetaMetrics'e katılın"
   },
   "password": {
     "message": "Parola"
@@ -2317,7 +2317,7 @@
     "message": "Parola yeterince uzun değil"
   },
   "passwordSetupDetails": {
-    "message": "Bu parola MetaMask cüzdanınızın kilidini sadece bu cihazda açacaktır. MetaMask bu parolayı kurtaramaz."
+    "message": "Bu parola SatoMask cüzdanınızın kilidini sadece bu cihazda açacaktır. SatoMask bu parolayı kurtaramaz."
   },
   "passwordStrength": {
     "message": "Parola gücü: $1",
@@ -2327,7 +2327,7 @@
     "message": "Güçlü bir parola, cihazının çalınması veya güvenliğinin ihlal edilmesi durumunda cüzdanının güvenliğini artırabilir."
   },
   "passwordTermsWarning": {
-    "message": "MetaMask'in benim için bu parolayı kurtaramayacağını anlıyorum. $1"
+    "message": "SatoMask'in benim için bu parolayı kurtaramayacağını anlıyorum. $1"
   },
   "passwordsDontMatch": {
     "message": "Parolalar Aynı Değil"
@@ -2364,7 +2364,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "MetaMask'te bir onay görüntüle.",
+    "message": "SatoMask'te bir onay görüntüle.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2490,7 +2490,7 @@
     "message": "Gizli Kurtarma İfadenizi asla başkasıyla paylaşmayın"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "MetaMask ekibi sizden asla Gizli Kurtarma İfadenizi istemeyecektir"
+    "message": "SatoMask ekibi sizden asla Gizli Kurtarma İfadenizi istemeyecektir"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Gizli Kurtarma İfadeniz tüm hesaplarınızı kontrol eder."
@@ -2566,7 +2566,7 @@
     "message": "Cüzdanı Sıfırla"
   },
   "resetWalletSubHeader": {
-    "message": "MetaMask, şifrenin bir kopyasını tutmaz. Hesabının kilidini açmakta sorun yaşıyorsan cüzdanını sıfırlaman gerekecektir. Bunu, cüzdanını kurarken kullandığın Gizli Kurtarma İfadesini sunarak yapabilirsin."
+    "message": "SatoMask, şifrenin bir kopyasını tutmaz. Hesabının kilidini açmakta sorun yaşıyorsan cüzdanını sıfırlaman gerekecektir. Bunu, cüzdanını kurarken kullandığın Gizli Kurtarma İfadesini sunarak yapabilirsin."
   },
   "resetWalletUsingSRP": {
     "message": "Bu eylem, sergilediğin hesapların listesiyle birlikte mevcut cüzdanını ve Gizli Kurtarma İfadeni bu cihazdan siler. Bir Gizli Kurtarma Cümlesi ile sıfırladıktan sonra, sıfırlamak için kullandığın Gizli Kurtarma Cümlesine dayalı bir hesap listesi göreceksin. Bu yeni liste, bakiyesi olan hesapları otomatik olarak içerecektir. Ayrıca daha önce oluşturulmuş $1'ı da oluşturabileceksin. İçe aktardığın özel hesapların $2 olması ve bir hesaba eklediğin özel token'ların da $3 olması gerekir."
@@ -2693,7 +2693,7 @@
     "message": "Birileri sizden kurtarma ifadenizi istiyorsa büyük olasılıkla sizi dolandırmaya ve cüzdanınızdaki paraları çalmaya çalışıyordur"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Gizli Kurtarma İfadenizi MetaMask de dahil olmak üzere asla paylaşmayın!"
+    "message": "Gizli Kurtarma İfadenizi SatoMask de dahil olmak üzere asla paylaşmayın!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Gizli Kurtarma İfadesi nedir?"
@@ -2732,7 +2732,7 @@
     "message": "Hesap Seç"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Bu hesap zaten MetaMask'e bağlanmış"
+    "message": "Bu hesap zaten SatoMask'e bağlanmış"
   },
   "selectEachPhrase": {
     "message": "Doğru olduğundan emin olmak için lütfen her ifadeyi seçin."
@@ -2779,7 +2779,7 @@
     "message": "Gelişmiş gizlilik ayarlarını yapın"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "MetaMask, ürünün kullanılabilirliğini ve güvenliğini iyileştirmek amacıyla bu güvenilir üçüncü taraf hizmetlerini kullanır."
+    "message": "SatoMask, ürünün kullanılabilirliğini ve güvenliğini iyileştirmek amacıyla bu güvenilir üçüncü taraf hizmetlerini kullanır."
   },
   "settings": {
     "message": "Ayarlar"
@@ -2986,7 +2986,7 @@
     "message": "Durum günlükleri alınırken hata."
   },
   "stateLogFileName": {
-    "message": "MetaMask Durum Günlükleri"
+    "message": "SatoMask Durum Günlükleri"
   },
   "stateLogs": {
     "message": "Durum Günlükleri"
@@ -3007,7 +3007,7 @@
     "message": "Lattice1'inizin bağlanmaya hazır olduğundan emin olun"
   },
   "step1LatticeWalletMsg": {
-    "message": "Kurulduktan ve çevrimiçi olduktan sonra Lattice1'inizi MetaMask'e bağlayabilirsiniz. Cihazınızın kilidini açın ve Cihaz Kimliğini hazırlayın. Donanım cüzdanlarının kullanımı hakkında daha fazla bilgi için, $1",
+    "message": "Kurulduktan ve çevrimiçi olduktan sonra Lattice1'inizi SatoMask'e bağlayabilirsiniz. Cihazınızın kilidini açın ve Cihaz Kimliğini hazırlayın. Donanım cüzdanlarının kullanımı hakkında daha fazla bilgi için, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3062,7 +3062,7 @@
     "message": "Takasını tekrar dene. Bir dahaki sefere seni benzer risklere karşı korumak için burada olacağız."
   },
   "stxDescription": {
-    "message": "MetaMask Swapları artık çok daha akıllı! Akıllı İşlemleri, MetaMask'in renklerine yardımcı olmak için Swap'ını programlı olarak optimize etme bölümünden yararlanmak:"
+    "message": "SatoMask Swapları artık çok daha akıllı! Akıllı İşlemleri, SatoMask'in renklerine yardımcı olmak için Swap'ını programlı olarak optimize etme bölümünden yararlanmak:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Akıllı işlem için yeterli para yok."
@@ -3193,7 +3193,7 @@
     "message": "Limiti düzenle"
   },
   "swapEnableDescription": {
-    "message": "Bu gereklidir ve MetaMask'e $1 takası yapma izni verir.",
+    "message": "Bu gereklidir ve SatoMask'e $1 takası yapma izni verir.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
@@ -3243,14 +3243,14 @@
     "message": "Önceki ekrandaki gaz ücretleri bu iki işlem arasında bölünmüştür."
   },
   "swapGasFeesSummary": {
-    "message": "Gaz ücretleri, $1 ağında işlemleri gerçekleştiren kripto madencilerine ödenir. MetaMask gaz ücretlerinden herhangi bir kazanç elde etmemektedir.",
+    "message": "Gaz ücretleri, $1 ağında işlemleri gerçekleştiren kripto madencilerine ödenir. SatoMask gaz ücretlerinden herhangi bir kazanç elde etmemektedir.",
     "description": "$1 is the selected network, e.g. Ethereum or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Fark tutarı çok yüksek."
   },
   "swapIncludesMMFee": {
-    "message": "%$1 MetaMask ücreti dahildir.",
+    "message": "%$1 SatoMask ücreti dahildir.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3260,7 +3260,7 @@
     "message": "Maks. fark"
   },
   "swapMetaMaskFee": {
-    "message": "MetaMask ücreti"
+    "message": "SatoMask ücreti"
   },
   "swapMetaMaskFeeDescription": {
     "message": "Her defasında en iyi likidite kaynaklarından en iyi fiyatı buluyoruz. %$1 oranında bir ücret otomatik olarak bu teklife dahil edilmiştir.",
@@ -3443,7 +3443,7 @@
     "message": "Aktivitede görüntüle"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Bu, MetaMask'te seçili bir ağı önceden eklenmiş bir ağa dönüştürecektir:"
+    "message": "Bu, SatoMask'te seçili bir ağı önceden eklenmiş bir ağa dönüştürecektir:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Bu sitenin ağı değiştirmesine izin ver?"
@@ -3479,16 +3479,16 @@
     "message": "Bu kodu tararken hiç kimsenin ekranınıza bakmadığından emin olun"
   },
   "syncWithMobileComplete": {
-    "message": "Verileriniz başarılı bir şekilde senkronize edildi. MetaMask mobil uygulamasının tadını çıkarın!"
+    "message": "Verileriniz başarılı bir şekilde senkronize edildi. SatoMask mobil uygulamasının tadını çıkarın!"
   },
   "syncWithMobileDesc": {
-    "message": "Hesaplarınızı ve bilgilerinizi mobil cihazınızla senkronize edebilirsiniz. MetaMask mobil uygulamasını açın, \"Ayarlar\" kısmına gidin ve \"Tarayıcı Uzantısından Senkronize Et\" seçeneğine dokunun"
+    "message": "Hesaplarınızı ve bilgilerinizi mobil cihazınızla senkronize edebilirsiniz. SatoMask mobil uygulamasını açın, \"Ayarlar\" kısmına gidin ve \"Tarayıcı Uzantısından Senkronize Et\" seçeneğine dokunun"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "MetaMask Mobil uygulamasını ilk defa açıyorsanız telefonunuzdaki adımları izleyin."
+    "message": "SatoMask Mobil uygulamasını ilk defa açıyorsanız telefonunuzdaki adımları izleyin."
   },
   "syncWithMobileScanThisCode": {
-    "message": "MetaMask mobil uygulamanızla bu kodu tarayın"
+    "message": "SatoMask mobil uygulamanızla bu kodu tarayın"
   },
   "syncWithMobileTitle": {
     "message": "Mobil ile senkronize et"
@@ -3521,7 +3521,7 @@
     "message": "Tema"
   },
   "themeDescription": {
-    "message": "Tercih ettiğin MetaMask temasını seç."
+    "message": "Tercih ettiğin SatoMask temasını seç."
   },
   "thisWillCreate": {
     "message": "Bu, yeni bir cüzdan ve Gizli Kurtarma İfadesi oluşturacaktır"
@@ -3622,7 +3622,7 @@
     "message": "Site önerisi"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "En son bloka göre MetaMask'in önerilen gaz ücretini kullanmak için düzenleyin."
+    "message": "En son bloka göre SatoMask'in önerilen gaz ücretini kullanmak için düzenleyin."
   },
   "transactionDetailGasHeading": {
     "message": "Tahmini gaz ücreti"
@@ -3637,7 +3637,7 @@
     "message": "Gaz ücretleri ağ tarafından belirlenir ve ağ trafiği ve işlem karmaşıklığına göre dalgalanır."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Gaz ücretleri, $1 ağında işlemleri gerçekleştiren kripto madencilerine ödenir. MetaMask gaz ücretlerinden herhangi bir kazanç elde etmemektedir."
+    "message": "Gaz ücretleri, $1 ağında işlemleri gerçekleştiren kripto madencilerine ödenir. SatoMask gaz ücretlerinden herhangi bir kazanç elde etmemektedir."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Tutar + gaz ücreti"
@@ -3726,11 +3726,11 @@
     "message": "Şu anda işlem içgörüleri bu sözleşme için desteklenmiyor."
   },
   "typePassword": {
-    "message": "MetaMask parolanızı girin"
+    "message": "SatoMask parolanızı girin"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect MetaMask to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect SatoMask to Ledger devices."
   },
   "unapproved": {
     "message": "Onaylanmadı"
@@ -3805,7 +3805,7 @@
     "message": "Token Algılama Kullan"
   },
   "useTokenDetectionDescription": {
-    "message": "Cüzdanınıza gönderilen yeni tokenleri algılamak ve görüntülemek için üçüncü taraf API'leri kullanıyoruz. MetaMask tarafından bu hizmetlerden veri çekilmesini istemiyorsanız bunu kapatın."
+    "message": "Cüzdanınıza gönderilen yeni tokenleri algılamak ve görüntülemek için üçüncü taraf API'leri kullanıyoruz. SatoMask tarafından bu hizmetlerden veri çekilmesini istemiyorsanız bunu kapatın."
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Hesabına gönderilen token'ların otomatik olarak görüntülenmesi, token'ın görüntülerini almak için üçüncü taraf sunucularla iletişimi içerir. Bu servislerin IP adresine erişimi olacaktır."
@@ -3871,10 +3871,10 @@
     "message": "Cüzdanınızı başarılı bir şekilde korudunuz. Gizli Kurtarma İfadenizi güvenli ve gizli tutun -- bunun sorumluluğu size aittir!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "MetaMask Gizli Kurtarma İfadenizi kurtaramıyor."
+    "message": "SatoMask Gizli Kurtarma İfadenizi kurtaramıyor."
   },
   "walletCreationSuccessReminder2": {
-    "message": "MetaMask hiçbir zaman Gizli Kurtarma İfadenizi istemeyecektir."
+    "message": "SatoMask hiçbir zaman Gizli Kurtarma İfadenizi istemeyecektir."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 hiç kimseyle başkasıyla paylaşmayın, aksi halde çalınma riskiyle karşı karşıya kalırsınız",
@@ -3899,7 +3899,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "MetaMask'e Hoşgeldiniz"
+    "message": "SatoMask'e Hoşgeldiniz"
   },
   "welcomeBack": {
     "message": "Tekrar Hoş Geldiniz!"
@@ -3911,7 +3911,7 @@
     "message": "Merkezsiz uygulamaları keşfedin"
   },
   "welcomeLoginDescription": {
-    "message": "Merkezsiz uygulamalarda oturum açmak için MetaMask'inizi kullanın - kaydolmak gerekmez."
+    "message": "Merkezsiz uygulamalarda oturum açmak için SatoMask'inizi kullanın - kaydolmak gerekmez."
   },
   "welcomeLoginTitle": {
     "message": "Cüzdanınıza merhaba deyin"
@@ -3920,11 +3920,11 @@
     "message": "Başlayalım"
   },
   "welcomeToMetaMaskIntro": {
-    "message": "Milyonların güvendiği MetaMask, web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır."
+    "message": "Milyonların güvendiği SatoMask, web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır."
   },
   "whatsNew": {
     "message": "Yenilikler",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to SatoMask."
   },
   "whatsThis": {
     "message": "Bu nedir?"

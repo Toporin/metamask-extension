@@ -44,7 +44,7 @@
     "message": "log attività"
   },
   "addAcquiredTokens": {
-    "message": "Aggiungi i token che hai acquistato usando MetaMask"
+    "message": "Aggiungi i token che hai acquistato usando SatoMask"
   },
   "addAlias": {
     "message": "Aggiungi alias"
@@ -103,15 +103,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -146,7 +146,7 @@
     "message": "Timer di logout automatico (minuti)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Imposta il tempo di inattività dopo il quale MetaMask fa il log out automaticamente"
+    "message": "Imposta il tempo di inattività dopo il quale SatoMask fa il log out automaticamente"
   },
   "average": {
     "message": "Media"
@@ -158,7 +158,7 @@
     "message": "Torna a \"Tutti\""
   },
   "backupApprovalInfo": {
-    "message": "Questo codice è necessario per recuperare il tuo portafoglio nel caso in cui perdi il tuo dispositivo, dimentichi la tua password, debba reinstallare MetaMask o voglia accedere al tuo portafoglio su un altro dispositivo."
+    "message": "Questo codice è necessario per recuperare il tuo portafoglio nel caso in cui perdi il tuo dispositivo, dimentichi la tua password, debba reinstallare SatoMask o voglia accedere al tuo portafoglio su un altro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Mantieni al sicuro il portafoglio e i fondi eseguendo il backup della frase di recupero."
@@ -192,7 +192,7 @@
     "message": "Compra $1 con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ti consente di usare la carta di credito per depositare $1 direttamente nel tuo account MetaMask."
+    "message": "Wyre ti consente di usare la carta di credito per depositare $1 direttamente nel tuo account SatoMask."
   },
   "canToggleInSettings": {
     "message": "Puoi riabilitare questa notifica in Impostazioni -> Avvisi."
@@ -207,7 +207,7 @@
     "message": "Annullata"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Devi usare MetaMask con Google Chrome per connettere il tuo Portafoglio Hardware"
+    "message": "Devi usare SatoMask con Google Chrome per connettere il tuo Portafoglio Hardware"
   },
   "clickToRevealSeed": {
     "message": "Clicca qui per rivelare la tua frase segreta"
@@ -263,7 +263,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Connetti con MetaMask"
+    "message": "Connetti con SatoMask"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Hai $1 account connessi a questo sito.",
@@ -273,7 +273,7 @@
     "message": "Hai un account connesso a questo sito."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask non è connesso a questo sito. Per connetterti ad un sito web3, trova il pulsante di connessione."
+    "message": "SatoMask non è connesso a questo sito. Per connetterti ad un sito web3, trova il pulsante di connessione."
   },
   "connectedSites": {
     "message": "Siti connessi"
@@ -380,7 +380,7 @@
     "message": "Token Personalizzato"
   },
   "dataBackupFoundInfo": {
-    "message": "Alcuni dati sul tuo account sono state salvate durante una installazione precedente di MetaMask. Questi includono le impostazioni, i contatti, e i token. Vuoi ripristinare questi dati?"
+    "message": "Alcuni dati sul tuo account sono state salvate durante una installazione precedente di SatoMask. Questi includono le impostazioni, i contatti, e i token. Vuoi ripristinare questi dati?"
   },
   "decimal": {
     "message": "Precisione Decimali"
@@ -491,13 +491,13 @@
     "message": "Non condividerla mai con nessuno."
   },
   "endOfFlowMessage5": {
-    "message": "Stai attento al phishing! MetaMask non ti chiederà mai spontaneamente la tua frase seed."
+    "message": "Stai attento al phishing! SatoMask non ti chiederà mai spontaneamente la tua frase seed."
   },
   "endOfFlowMessage6": {
     "message": "Se vorrai fare nuovamente un backup della frase, la puoi trovare in Impostazioni -> Sicurezza & Privacy."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask non può recuperare la tua frase seed. Impara di più."
+    "message": "SatoMask non può recuperare la tua frase seed. Impara di più."
   },
   "endOfFlowMessage9": {
     "message": "Scopri di più."
@@ -538,7 +538,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask ha riscontrato un errore",
+    "message": "SatoMask ha riscontrato un errore",
     "description": "Title of generic error page"
   },
   "estimatedProcessingTimes": {
@@ -666,7 +666,7 @@
     "message": "Connetti portafoglio hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selezione un portafoglio hardware che vuoi utilizzare con MetaMask"
+    "message": "Selezione un portafoglio hardware che vuoi utilizzare con SatoMask"
   },
   "here": {
     "message": "qui",
@@ -696,7 +696,7 @@
     "message": "Importa Account"
   },
   "importAccountMsg": {
-    "message": " Gli account importati non saranno associati alla frase seed originariamente creata con MetaMask. Scopri di più sugli account importati "
+    "message": " Gli account importati non saranno associati alla frase seed originariamente creata con SatoMask. Scopri di più sugli account importati "
   },
   "importAccountSeedPhrase": {
     "message": "Importa un Account con una Frase Seed"
@@ -841,7 +841,7 @@
     "message": "Messaggio"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Ora hai piu controllo sulle connessioni del tuo account in MetaMask."
+    "message": "Ora hai piu controllo sulle connessioni del tuo account in SatoMask."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Clicca per gestire i tuo account connessi."
@@ -850,13 +850,13 @@
     "message": "Il bottone di stato della connessione mostra se il sito che stai visitando è connesso all'account corrente"
   },
   "metamaskDescription": {
-    "message": "MetaMask è una cassaforte sicura per identità su Ethereum."
+    "message": "SatoMask è una cassaforte sicura per identità su Ethereum."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swaps è in manutenzione. Prova più tardi."
+    "message": "SatoMask Swaps è in manutenzione. Prova più tardi."
   },
   "metamaskVersion": {
-    "message": "versione di MetaMask"
+    "message": "versione di SatoMask"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Ti consentirà sempre di rimuovere il consenso tramite Impostazioni"
@@ -866,7 +866,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask.."
+    "message": "SatoMask.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 raccoglierà il tuo indirizzo IP completo",
@@ -884,10 +884,10 @@
     "message": "Invierà click e visualizzazioni di pagina in modo anonimo"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Aiutaci a Migliorare MetaMask"
+    "message": "Aiutaci a Migliorare SatoMask"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask vorrebbe raccogliere dati di utilizzo per capire meglio come gli utenti interagiscono con l'estensione. Questi dati verranno usati continuamente per migliorare l'usabilità e l'esperienza utente dei nostri prodotti e dell'ecosistema Ethereum."
+    "message": "SatoMask vorrebbe raccogliere dati di utilizzo per capire meglio come gli utenti interagiscono con l'estensione. Questi dati verranno usati continuamente per migliorare l'usabilità e l'esperienza utente dei nostri prodotti e dell'ecosistema Ethereum."
   },
   "mustSelectOne": {
     "message": "Devi selezionare almeno un token."
@@ -930,7 +930,7 @@
     "message": "Nuova Password (minimo 8 caratteri)"
   },
   "newToMetaMask": {
-    "message": "Nuovo su MetaMask?"
+    "message": "Nuovo su SatoMask?"
   },
   "newTotal": {
     "message": "Nuovo Totale"
@@ -943,7 +943,7 @@
   },
   "nextNonceWarning": {
     "message": "Numero di transazione deve essere maggiore di $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to SatoMask's internal logic"
   },
   "noAccountsFound": {
     "message": "Nessun account trovato per la ricerca effettuata"
@@ -1010,7 +1010,7 @@
     "message": "Participa in MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa in MetaMetrics per aiutarci a rendere MetaMask migliore"
+    "message": "Participa in MetaMetrics per aiutarci a rendere SatoMask migliore"
   },
   "passwordNotLongEnough": {
     "message": "Password non abbastanza lunga"
@@ -1323,7 +1323,7 @@
     "message": "Errore nel recupero dei log di stato."
   },
   "stateLogFileName": {
-    "message": "Log di Stato di MetaMask"
+    "message": "Log di Stato di SatoMask"
   },
   "stateLogs": {
     "message": "Log di stato"
@@ -1386,7 +1386,7 @@
     "message": "Modifica limite"
   },
   "swapEnableDescription": {
-    "message": "Questo è richiesto e darà a MetaMask il permesso di scambiare $1.",
+    "message": "Questo è richiesto e darà a SatoMask il permesso di scambiare $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFees": {
@@ -1414,10 +1414,10 @@
     "message": "Slippage massimo"
   },
   "swapMetaMaskFee": {
-    "message": "Tassa MetaMask"
+    "message": "Tassa SatoMask"
   },
   "swapMetaMaskFeeDescription": {
-    "message": "Troviamo i migliori prezzi dalle sorgenti di liquidità migliori, sempre. Una tassa del $1% è automaticamente aggiunta ad ogni quotazione, ciò serve a supportare lo sviluppo in modo da rendere MetaMask sempre migliore.",
+    "message": "Troviamo i migliori prezzi dalle sorgenti di liquidità migliori, sempre. Una tassa del $1% è automaticamente aggiunta ad ogni quotazione, ciò serve a supportare lo sviluppo in modo da rendere SatoMask sempre migliore.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNewQuoteIn": {
@@ -1573,16 +1573,16 @@
     "message": "Assicurati che nessun'altro stia guardando al tuo schermo quando scansioni questo codice"
   },
   "syncWithMobileComplete": {
-    "message": "I tuoi dati sono stati sincronizzati con successo. Goditi l'app di MetaMask!"
+    "message": "I tuoi dati sono stati sincronizzati con successo. Goditi l'app di SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Puoi sincronizzare i tuoi account e le tue informazioni con il tuo dispositivo mobile. Apri l'app di MetaMask, vai su \"Impostazioni\" e tocca \"Sincronizza da Estensione sul Browser\""
+    "message": "Puoi sincronizzare i tuoi account e le tue informazioni con il tuo dispositivo mobile. Apri l'app di SatoMask, vai su \"Impostazioni\" e tocca \"Sincronizza da Estensione sul Browser\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Se hai appena aperto l'app di MetaMask per la prima volta, segui i passaggi sul tuo telefono."
+    "message": "Se hai appena aperto l'app di SatoMask per la prima volta, segui i passaggi sul tuo telefono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Scansiona questo codice con l'app di MetaMask"
+    "message": "Scansiona questo codice con l'app di SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizza con dispositivo mobile"
@@ -1767,7 +1767,7 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Benvenuto nella Beta di MetaMask"
+    "message": "Benvenuto nella Beta di SatoMask"
   },
   "welcomeBack": {
     "message": "Bentornato!"

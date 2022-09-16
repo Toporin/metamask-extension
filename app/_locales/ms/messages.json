@@ -33,7 +33,7 @@
     "message": "log aktiviti"
   },
   "addAcquiredTokens": {
-    "message": "Tambah token yang anda peroleh menggunakan MetaMask"
+    "message": "Tambah token yang anda peroleh menggunakan SatoMask"
   },
   "addAlias": {
     "message": "Tambah alias"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Pemasa Logout Automatik (minit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Tetapkan masa melahu dalam minit sebelum MetaMask log keluar secara automatik"
+    "message": "Tetapkan masa melahu dalam minit sebelum SatoMask log keluar secara automatik"
   },
   "average": {
     "message": "Purata"
@@ -109,7 +109,7 @@
     "message": "Kembali kepada Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kod rahsia ini diperlukan untuk memulihkan dompet anda sekiranya anda kehilangan peranti anda, terlupa kata laluan anda, perlu memasang semua MetaMask, atau mahu mengakses dompet anda menggunakan peranti lain."
+    "message": "Kod rahsia ini diperlukan untuk memulihkan dompet anda sekiranya anda kehilangan peranti anda, terlupa kata laluan anda, perlu memasang semua SatoMask, atau mahu mengakses dompet anda menggunakan peranti lain."
   },
   "backupApprovalNotice": {
     "message": "Sandarkan kod Pemulihan Rahsia anda untuk memastikan dompet dan dana anda sentiasa selamat."
@@ -140,7 +140,7 @@
     "message": "Beli $1 dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre membolehkan anda menggunakan kad kredit untuk mendeposit $1 secara terus ke dalam akaun MetaMask anda."
+    "message": "Wyre membolehkan anda menggunakan kad kredit untuk mendeposit $1 secara terus ke dalam akaun SatoMask anda."
   },
   "bytes": {
     "message": "Bait"
@@ -158,7 +158,7 @@
     "message": "ID Rantaian"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan MetaMask di Google Chrome untuk menyambung kepada Dompet Perkakasan anda."
+    "message": "Anda perlu menggunakan SatoMask di Google Chrome untuk menyambung kepada Dompet Perkakasan anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk mendedahkan perkataan rahsia"
@@ -314,13 +314,13 @@
     "message": "Jangan sesekali kongsi frasa ini dengan sesiapa."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hati dengan pemancingan data! MetaMask tidak akan sesekali meminta frasa benih anda secara tiba-tiba."
+    "message": "Berhati-hati dengan pemancingan data! SatoMask tidak akan sesekali meminta frasa benih anda secara tiba-tiba."
   },
   "endOfFlowMessage6": {
     "message": "Jika anda perlu membuat sandaran ungkapan benih anda sekali lagi, anda boleh lakukannya melalui Tetapan -> Keselamatan."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask tidak dapat memulihkan ungkapan benih anda. Ketahui lebih lanjut."
+    "message": "SatoMask tidak dapat memulihkan ungkapan benih anda. Ketahui lebih lanjut."
   },
   "endOfFlowMessage9": {
     "message": "Ketahui lebih lanjut."
@@ -421,7 +421,7 @@
     "message": "Sambungkan dompet perkakasan"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perkakasan yang anda ingin gunakan dengan MetaMask"
+    "message": "Pilih dompet perkakasan yang anda ingin gunakan dengan SatoMask"
   },
   "here": {
     "message": "di sini",
@@ -443,7 +443,7 @@
     "message": "Import Akaun"
   },
   "importAccountMsg": {
-    "message": "Akaun yang diimport tidak akan dikaitkan dengan frasa benih akaun MetaMask asal yang anda cipta. Ketahui lebih lanjut tentang akaun import"
+    "message": "Akaun yang diimport tidak akan dikaitkan dengan frasa benih akaun SatoMask asal yang anda cipta. Ketahui lebih lanjut tentang akaun import"
   },
   "importAccountSeedPhrase": {
     "message": "Import Akaun dengan Frasa Benih"
@@ -541,7 +541,7 @@
     "message": "Menyambungkan anda kepada Ethereum dan Web Ternyahpusat."
   },
   "metamaskVersion": {
-    "message": "Versi MetaMask"
+    "message": "Versi SatoMask"
   },
   "mustSelectOne": {
     "message": "Mesti memilih sekurang-kurangnya 1 token."
@@ -585,7 +585,7 @@
     "message": "Kata Laluan Baru (min 8 aks)"
   },
   "newToMetaMask": {
-    "message": "Baru mengenali MetaMask?"
+    "message": "Baru mengenali SatoMask?"
   },
   "newTotal": {
     "message": "Jumlah Keseluruhan Baru"
@@ -636,7 +636,7 @@
     "message": "Sertai MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sertai MetaMetrics untuk membantu kami menambah baik MetaMask"
+    "message": "Sertai MetaMetrics untuk membantu kami menambah baik SatoMask"
   },
   "password": {
     "message": "Kata laluan"
@@ -905,16 +905,16 @@
     "message": "Pastikan tiada orang lain melihat skrin anda ketika anda mengimbas kod ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data anda berjaya disegerakkan. Nikmati aplikasi mudah alih MetaMask!"
+    "message": "Data anda berjaya disegerakkan. Nikmati aplikasi mudah alih SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda boleh menyegerakkan akaun dan maklumat anda dengan peranti mudah alih anda. Buka ap mudah alih MetaMask, pergi ke \"Tetapan\" dan ketik \"Segerakkan daripada Sambungan Pelayar\""
+    "message": "Anda boleh menyegerakkan akaun dan maklumat anda dengan peranti mudah alih anda. Buka ap mudah alih SatoMask, pergi ke \"Tetapan\" dan ketik \"Segerakkan daripada Sambungan Pelayar\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika ini kali pertama anda membuka aplikasi mudah alih MetaMask, anda cuma perlu ikuti langkah-langkah di telefon anda."
+    "message": "Jika ini kali pertama anda membuka aplikasi mudah alih SatoMask, anda cuma perlu ikuti langkah-langkah di telefon anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Imbas kod ini dengan aplikasi mudah alih MetaMask anda"
+    "message": "Imbas kod ini dengan aplikasi mudah alih SatoMask anda"
   },
   "syncWithMobileTitle": {
     "message": "Segerakkan dengan mudah alih"
@@ -1002,7 +1002,7 @@
     "message": "Cuba lagi"
   },
   "typePassword": {
-    "message": "Taip kata laluan MetaMask anda"
+    "message": "Taip kata laluan SatoMask anda"
   },
   "unapproved": {
     "message": "Belum Diluluskan"
@@ -1053,7 +1053,7 @@
     "message": "Kunjungi laman web kami"
   },
   "welcome": {
-    "message": "Selamat datang ke MetaMask"
+    "message": "Selamat datang ke SatoMask"
   },
   "welcomeBack": {
     "message": "Selamat Kembali!"

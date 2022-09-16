@@ -33,7 +33,7 @@
     "message": "protokol aktivity"
   },
   "addAcquiredTokens": {
-    "message": "Pridajte tokeny, ktoré ste získali pomocou MetaMask"
+    "message": "Pridajte tokeny, ktoré ste získali pomocou SatoMask"
   },
   "addAlias": {
     "message": "Pridať alias"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "SatoMask",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "MetaMask Beta",
+    "message": "SatoMask Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "MetaMask Flask",
+    "message": "SatoMask Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -94,7 +94,7 @@
     "message": "Časovač automatického odhlásenia (minúty)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nastavte čas nečinnosti v minútach skôr, než sa MetaMask automaticky odhlási"
+    "message": "Nastavte čas nečinnosti v minútach skôr, než sa SatoMask automaticky odhlási"
   },
   "average": {
     "message": "Priemerný"
@@ -106,7 +106,7 @@
     "message": "Späť na všetko"
   },
   "backupApprovalInfo": {
-    "message": "Tento tajný kód je potrebný na obnovenie peňaženky v prípade straty zariadenia, zabudnutia hesla, preinštalovania MetaMask alebo prístupu k peňaženke na inom zariadení."
+    "message": "Tento tajný kód je potrebný na obnovenie peňaženky v prípade straty zariadenia, zabudnutia hesla, preinštalovania SatoMask alebo prístupu k peňaženke na inom zariadení."
   },
   "backupApprovalNotice": {
     "message": "Zálohujte si svoj tajný kód na obnovenie, aby bola vaša peňaženka a prostriedky bezpečné."
@@ -134,7 +134,7 @@
     "message": "Kúpte $1 s Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu $1 priamo na váš účet MetaMask."
+    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu $1 priamo na váš účet SatoMask."
   },
   "bytes": {
     "message": "Bajty"
@@ -152,7 +152,7 @@
     "message": "ID reťazca"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Ak sa chcete pripojiť k svojej hardvérovej peňaženke, musíte v Google Chrome použiť MetaMask."
+    "message": "Ak sa chcete pripojiť k svojej hardvérovej peňaženke, musíte v Google Chrome použiť SatoMask."
   },
   "clickToRevealSeed": {
     "message": "Kliknutím sem odkryjete tajné slová"
@@ -311,13 +311,13 @@
     "message": "Nikdy nezdieľajte frázu s niekým iným."
   },
   "endOfFlowMessage5": {
-    "message": "Dávajte pozor na phishing! MetaMask nikdy nebude spontánne požadovať vašu seed frázu."
+    "message": "Dávajte pozor na phishing! SatoMask nikdy nebude spontánne požadovať vašu seed frázu."
   },
   "endOfFlowMessage6": {
     "message": "Ak potrebujete backup frázu znova zálohovať, nájdete ju v časti Nastavenia -> Zabezpečenie."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nemôže obnoviť vašu seed frázu. Zistiť viac."
+    "message": "SatoMask nemôže obnoviť vašu seed frázu. Zistiť viac."
   },
   "endOfFlowMessage9": {
     "message": "Dozvedieť sa viac."
@@ -422,7 +422,7 @@
     "message": "Pripojiť hardvérovú peňaženku"
   },
   "hardwareWalletsMsg": {
-    "message": "Vyberte hardvérovú peňaženku, ktorú chcete používať s MetaMask"
+    "message": "Vyberte hardvérovú peňaženku, ktorú chcete používať s SatoMask"
   },
   "here": {
     "message": "zde",
@@ -527,10 +527,10 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "MetaMask je bezpečný osobní trezor pro Ethereum."
+    "message": "SatoMask je bezpečný osobní trezor pro Ethereum."
   },
   "metamaskVersion": {
-    "message": "Verzia MetaMask"
+    "message": "Verzia SatoMask"
   },
   "mustSelectOne": {
     "message": "Musíte zvolit aspoň 1 token."
@@ -574,7 +574,7 @@
     "message": "Nové heslo (min 8 znaků)"
   },
   "newToMetaMask": {
-    "message": "Ste noví na MetaMask?"
+    "message": "Ste noví na SatoMask?"
   },
   "newTotal": {
     "message": "Nový súčet"
@@ -625,7 +625,7 @@
     "message": "Zúčastnite sa na MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Zúčastnite sa na MetaMetrics a pomôžte nám vylepšiť MetaMask"
+    "message": "Zúčastnite sa na MetaMetrics a pomôžte nám vylepšiť SatoMask"
   },
   "password": {
     "message": "Heslo"
@@ -885,16 +885,16 @@
     "message": "Pri skenovaní tohto kódu sa uistite, že sa nikto iný nedíva na vašu obrazovku"
   },
   "syncWithMobileComplete": {
-    "message": "Vaše údaje boli úspešne synchronizované. Užite si mobilnú aplikáciu MetaMask!"
+    "message": "Vaše údaje boli úspešne synchronizované. Užite si mobilnú aplikáciu SatoMask!"
   },
   "syncWithMobileDesc": {
-    "message": "Svoje účty a informácie môžete synchronizovať so svojim mobilným zariadením. Otvorte mobilnú aplikáciu MetaMask, prejdite na „Nastavenia“ a kliknite na „Synchronizovať z rozšírenia prehliadača“."
+    "message": "Svoje účty a informácie môžete synchronizovať so svojim mobilným zariadením. Otvorte mobilnú aplikáciu SatoMask, prejdite na „Nastavenia“ a kliknite na „Synchronizovať z rozšírenia prehliadača“."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ak otvoríte mobilnú aplikáciu MetaMask prvýkrát, postupujte podľa pokynov v telefóne."
+    "message": "Ak otvoríte mobilnú aplikáciu SatoMask prvýkrát, postupujte podľa pokynov v telefóne."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Naskenujte tento kód pomocou mobilnej aplikácie MetaMask"
+    "message": "Naskenujte tento kód pomocou mobilnej aplikácie SatoMask"
   },
   "syncWithMobileTitle": {
     "message": "Synchronizácia s mobilom"
@@ -1033,7 +1033,7 @@
     "message": "Navštivte naši stránku"
   },
   "welcome": {
-    "message": "Vitajte v MetaMask"
+    "message": "Vitajte v SatoMask"
   },
   "welcomeBack": {
     "message": "Vitajte späť!"

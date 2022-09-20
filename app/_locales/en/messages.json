@@ -3113,7 +3113,7 @@
     "message": "Plug in your Satochip card"
   },
   "step1SatochipWalletMsg": {
-    "message": "Plug in your Satochip and click on continue. For more on using Satochip, $1",
+    "message": "Plug in your Satochip and click on continue. For more info on using Satochip, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step2LedgerWallet": {

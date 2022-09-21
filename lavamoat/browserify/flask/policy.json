@@ -2903,27 +2903,8 @@
     },
     "@metamask/controllers>web3-provider-engine>eth-sig-util": {
       "packages": {
-        "@metamask/controllers>web3-provider-engine>eth-sig-util>ethereumjs-abi": true,
-        "@metamask/controllers>web3-provider-engine>ethereumjs-util": true
-      }
-    },
-    "@metamask/controllers>web3-provider-engine>eth-sig-util>ethereumjs-abi": {
-      "packages": {
-        "@metamask/controllers>web3-provider-engine>eth-sig-util>ethereumjs-abi>ethereumjs-util": true,
-        "bn.js": true,
-        "browserify>buffer": true
-      }
-    },
-    "@metamask/controllers>web3-provider-engine>eth-sig-util>ethereumjs-abi>ethereumjs-util": {
-      "packages": {
-        "3box>ethers>elliptic": true,
-        "@metamask/controllers>web3-provider-engine>ethereumjs-util>ethjs-util": true,
-        "bn.js": true,
-        "browserify>assert": true,
-        "browserify>buffer": true,
-        "ethereumjs-util>create-hash": true,
-        "ethereumjs-util>ethereum-cryptography": true,
-        "ethereumjs-util>rlp": true
+        "@metamask/controllers>web3-provider-engine>ethereumjs-util": true,
+        "ethereumjs-abi": true
       }
     },
     "@metamask/controllers>web3-provider-engine>ethereumjs-util": {
@@ -4624,27 +4605,8 @@
     },
     "eth-json-rpc-middleware>eth-sig-util": {
       "packages": {
-        "eth-json-rpc-middleware>eth-sig-util>ethereumjs-abi": true,
-        "eth-json-rpc-middleware>eth-sig-util>ethereumjs-util": true
-      }
-    },
-    "eth-json-rpc-middleware>eth-sig-util>ethereumjs-abi": {
-      "packages": {
-        "bn.js": true,
-        "browserify>buffer": true,
-        "eth-json-rpc-middleware>eth-sig-util>ethereumjs-abi>ethereumjs-util": true
-      }
-    },
-    "eth-json-rpc-middleware>eth-sig-util>ethereumjs-abi>ethereumjs-util": {
-      "packages": {
-        "3box>ethers>elliptic": true,
-        "bn.js": true,
-        "browserify>assert": true,
-        "browserify>buffer": true,
-        "eth-json-rpc-middleware>eth-sig-util>ethereumjs-util>ethjs-util": true,
-        "ethereumjs-util>create-hash": true,
-        "ethereumjs-util>ethereum-cryptography": true,
-        "ethereumjs-util>rlp": true
+        "eth-json-rpc-middleware>eth-sig-util>ethereumjs-util": true,
+        "ethereumjs-abi": true
       }
     },
     "eth-json-rpc-middleware>eth-sig-util>ethereumjs-util": {
@@ -4916,6 +4878,32 @@
         "eth-rpc-errors>fast-safe-stringify": true
       }
     },
+    "eth-satochip-keyring": {
+      "globals": {
+        "BN": true,
+        "addEventListener": true,
+        "console.warn": true,
+        "document.createElement": true,
+        "document.head.appendChild": true
+      },
+      "packages": {
+        "@ethereumjs/tx": true,
+        "browserify>buffer": true,
+        "browserify>events": true,
+        "eth-satochip-keyring>hdkey": true,
+        "eth-sig-util": true,
+        "ethereumjs-util": true
+      }
+    },
+    "eth-satochip-keyring>hdkey": {
+      "packages": {
+        "browserify>assert": true,
+        "browserify>crypto-browserify": true,
+        "eth-trezor-keyring>hdkey>secp256k1": true,
+        "ethereumjs-wallet>bs58check": true,
+        "ethereumjs-wallet>safe-buffer": true
+      }
+    },
     "eth-sig-util": {
       "packages": {
         "3box>tweetnacl": true,
@@ -5051,6 +5039,41 @@
         "@babel/runtime": true,
         "browserify>events": true,
         "eth-trezor-keyring>@metamask/eth-sig-util": true
+      }
+    },
+    "eth-walletconnect-keyring": {
+      "globals": {
+        "BN": true,
+        "addEventListener": true,
+        "console.warn": true,
+        "document.createElement": true,
+        "document.head.appendChild": true
+      },
+      "packages": {
+        "@ethereumjs/tx": true,
+        "browserify>events": true,
+        "eth-sig-util": true,
+        "eth-walletconnect-keyring>ethereumjs-util": true
+      }
+    },
+    "eth-walletconnect-keyring>ethereumjs-util": {
+      "packages": {
+        "3box>ethers>elliptic": true,
+        "bn.js": true,
+        "browserify>assert": true,
+        "browserify>buffer": true,
+        "eth-walletconnect-keyring>ethereumjs-util>ethjs-util": true,
+        "ethereumjs-util>create-hash": true,
+        "ethereumjs-util>ethereum-cryptography": true,
+        "ethereumjs-util>rlp": true,
+        "ethereumjs-wallet>safe-buffer": true
+      }
+    },
+    "eth-walletconnect-keyring>ethereumjs-util>ethjs-util": {
+      "packages": {
+        "browserify>buffer": true,
+        "ethjs>ethjs-util>is-hex-prefixed": true,
+        "ethjs>ethjs-util>strip-hex-prefix": true
       }
     },
     "ethereumjs-abi": {
